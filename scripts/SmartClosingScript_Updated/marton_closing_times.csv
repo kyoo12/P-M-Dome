@@ -1,0 +1,750 @@
+Lot ID,Category,Subcategory,Estimate,Has Bid,Current Time,New Time,Status,Details,Rule ID
+1149,Top machines,Laser cutting machines,180000.00,False,15:08:00,15:30,Updated,Time changed,2
+1150,Top machines,Punching machines,100000.00,False,14:37:00,14:27,Updated,Time changed,2
+1151,Warm-up,Tooling,15000.00,False,14:30:00,14:47,Updated,Time changed,1
+1152,Top machines,Stock storage,50000.00,False,14:54:00,15:56,Updated,Time changed,2
+1153,Top machines,Press brakes,50000.00,True,14:02:00,15:19,Updated,Time changed,2
+1154,Top machines,Press brakes,5000.00,True,14:14:00,15:53,Updated,Time changed,2
+1155,Buffer zone,Press brakes,2500.00,True,18:05:00,14:08,Updated,Time changed,6
+1156,Top machines,CNC machining center,55000.00,True,15:49:00,14:15,Updated,Time changed,2
+1157,Top machines,Waterjet cutting machines,25000.00,False,14:53:00,15:05,Updated,Time changed,2
+1158,Top machines,Deburring machines,5000.00,True,14:29:00,14:08,Updated,Time changed,2
+1162,Top machines,Punching machines,7500.00,False,14:41:00,15:48,Updated,Time changed,2
+1163,Top machines,Bending & folding machines,7500.00,True,14:03:00,15:03,Updated,Time changed,2
+1164,Top machines,Bending & folding machines,4500.00,True,15:05:00,14:42,Updated,Time changed,2
+1165,Top machines,Punching machines,3500.00,True,14:04:00,15:39,Updated,Time changed,2
+1166,Top machines,Sawing machines,7500.00,True,14:07:00,15:52,Updated,Time changed,2
+1167,Other machines & welding,Deburring machines,1500.00,True,16:25:00,16:18,Updated,Time changed,3
+1168,Buffer zone,Sawing machines,2500.00,True,17:43:00,17:23,Updated,Time changed,6
+1169,Buffer zone,"Machine parts, tools & accessories",2500.00,True,18:45:00,18:45,Updated,Time changed,6
+1170,Top machines,Sawing machines,7500.00,True,15:07:00,14:47,Updated,Time changed,2
+1171,Buffer zone,Lathe machine,2500.00,True,17:25:00,15:18,Updated,Time changed,6
+1172,Buffer zone,Sawing machines,1000.00,True,16:22:00,14:48,Updated,Time changed,6
+1173,Top machines,Cutting machines,3000.00,True,15:56:00,15:44,Updated,Time changed,2
+1174,Buffer zone,Punching machines,2000.00,True,17:13:00,14:31,Updated,Time changed,6
+1175,Buffer zone,Pressing machines,400.00,True,15:01:00,14:27,Updated,Time changed,6
+1176,Buffer zone,Pressing machines,1500.00,True,15:24:00,15:41,Updated,Time changed,6
+1177,Buffer zone,Roll bending machines,1500.00,True,18:40:00,18:23,Updated,Time changed,6
+1178,Buffer zone,Bending & folding machines,300.00,True,16:55:00,16:09,Updated,Time changed,6
+1179,Other machines & welding,Vertical machining centers,150.00,False,16:39:00,16:48,Updated,Time changed,3
+1180,Buffer zone,Grinding machines,250.00,True,14:32:00,17:12,Updated,Time changed,6
+1181,Buffer zone,Grinding machines,250.00,True,15:20:00,18:42,Updated,Time changed,6
+1182,Buffer zone,Sawing machines,200.00,True,17:06:00,14:52,Updated,Time changed,6
+1183,Buffer zone,Grinding machines,200.00,True,14:27:00,14:49,Updated,Time changed,6
+1184,Buffer zone,Flanging machine,200.00,True,16:56:00,15:08,Updated,Time changed,6
+1185,Other machines & welding,Processing machines,250.00,True,16:34:00,16:51,Updated,Time changed,3
+1186,Buffer zone,Compressors,150.00,True,17:45:00,18:36,Updated,Time changed,6
+1187,Buffer zone,Bending & folding machines,1000.00,True,18:11:00,15:29,Updated,Time changed,6
+1188,Buffer zone,Bending & folding machines,500.00,False,15:07:00,15:56,Updated,Time changed,6
+1189,Buffer zone,Sawing machines,500.00,False,14:55:00,15:27,Updated,Time changed,6
+1190,Buffer zone,Sawing machines,500.00,False,16:31:00,14:42,Updated,Time changed,6
+1191,Buffer zone,Sawing machines,500.00,True,15:40:00,14:14,Updated,Time changed,6
+1192,Buffer zone,Sawing machines,500.00,False,14:53:00,17:07,Updated,Time changed,6
+1193,Warm-up,Fastening machines,7500.00,True,14:03:00,14:15,Updated,Time changed,1
+1194,Buffer zone,Cutting machines,300.00,False,18:54:00,17:35,Updated,Time changed,6
+1195,Top machines,Sawing machines,3500.00,True,14:41:00,15:30,Updated,Time changed,2
+1196,Buffer zone,Punching machines,750.00,True,17:41:00,15:51,Updated,Time changed,6
+1197,Buffer zone,Pressing machines,500.00,True,18:14:00,15:55,Updated,Time changed,6
+1198,Buffer zone,Roll bending machines,1500.00,True,18:31:00,17:06,Updated,Time changed,6
+1199,Buffer zone,Roll bending machines,500.00,False,17:47:00,15:32,Updated,Time changed,6
+1200,Buffer zone,Roll bending machines,1500.00,True,18:45:00,18:24,Updated,Time changed,6
+1201,Buffer zone,Roll bending machines,1250.00,True,18:37:00,14:54,Updated,Time changed,6
+1202,Buffer zone,Roll bending machines,300.00,True,17:10:00,16:48,Updated,Time changed,6
+1203,Buffer zone,Roll bending machines,500.00,True,17:40:00,18:35,Updated,Time changed,6
+1204,Buffer zone,Edging machines,500.00,False,14:08:00,14:41,Updated,Time changed,6
+1205,Office & misc.,Various metalworking,300.00,True,17:01:00,17:00,Updated,Time changed,5
+1206,Office & misc.,Various metalworking,500.00,False,17:47:00,18:19,Updated,Time changed,5
+1207,Buffer zone,Roll bending machines,1500.00,False,14:10:00,16:16,Updated,Time changed,6
+1208,Buffer zone,Pressing machines,750.00,False,17:37:00,18:30,Updated,Time changed,6
+1209,Buffer zone,Cutting machines,500.00,False,17:42:00,14:55,Updated,Time changed,6
+1210,Top machines,Welding machines,5000.00,False,15:43:00,15:44,Updated,Time changed,2
+1211,Top machines,Welding machines,10000.00,False,14:36:00,15:55,Updated,Time changed,2
+1212,Top machines,Welding machines,8000.00,False,15:34:00,15:33,Updated,Time changed,2
+1213,Top machines,Welding machines,10000.00,True,15:44:00,14:54,Updated,Time changed,2
+1214,Other machines & welding,Welding machines,1500.00,True,16:55:00,16:41,Updated,Time changed,3
+1215,Other machines & welding,Welding machines,1500.00,False,16:02:00,16:10,Updated,Time changed,3
+1216,Other machines & welding,Welding machines,1200.00,False,16:16:00,16:12,Updated,Time changed,3
+1217,Other machines & welding,Welding machines,1500.00,False,16:20:00,16:40,Updated,Time changed,3
+1218,Other machines & welding,Welding machines,1500.00,False,16:32:00,16:01,Updated,Time changed,3
+1219,Other machines & welding,Welding machines,2000.00,True,16:55:00,16:00,Updated,Time changed,3
+1220,Other machines & welding,Welding machines,2000.00,True,16:29:00,16:50,Updated,Time changed,3
+1221,Other machines & welding,Welding machines,2000.00,True,16:45:00,16:24,Updated,Time changed,3
+1222,Other machines & welding,Welding machines,1500.00,True,16:23:00,16:42,Updated,Time changed,3
+1223,Other machines & welding,Welding machines,1500.00,True,16:15:00,16:26,Updated,Time changed,3
+1224,Other machines & welding,Welding machines,1200.00,True,16:14:00,16:48,Updated,Time changed,3
+1225,Other machines & welding,Welding machines,1200.00,True,16:49:00,16:47,Updated,Time changed,3
+1226,Other machines & welding,Welding machines,1200.00,True,16:58:00,16:15,Updated,Time changed,3
+1227,Other machines & welding,Welding machines,1200.00,True,16:51:00,16:16,Updated,Time changed,3
+1228,Other machines & welding,Welding machines,1200.00,True,16:43:00,16:19,Updated,Time changed,3
+1229,Other machines & welding,Welding machines,1200.00,True,16:19:00,16:57,Updated,Time changed,3
+1230,Other machines & welding,Welding machines,1200.00,True,16:29:00,16:38,Updated,Time changed,3
+1231,Other machines & welding,Welding machines,1200.00,True,16:43:00,16:14,Updated,Time changed,3
+1232,Other machines & welding,Welding machines,1200.00,True,16:16:00,16:46,Updated,Time changed,3
+1233,Other machines & welding,Welding machines,1200.00,True,16:10:00,16:36,Updated,Time changed,3
+1234,Other machines & welding,Welding machines,1200.00,True,16:14:00,16:30,Updated,Time changed,3
+1235,Other machines & welding,Welding machines,1200.00,False,16:11:00,16:46,Updated,Time changed,3
+1236,Other machines & welding,Welding machines,1200.00,True,16:03:00,16:51,Updated,Time changed,3
+1237,Other machines & welding,Welding machines,1200.00,False,16:15:00,16:36,Updated,Time changed,3
+1238,Other machines & welding,Welding machines,500.00,True,16:46:00,16:43,Updated,Time changed,3
+1239,Other machines & welding,Welding machines,500.00,True,16:51:00,16:04,Updated,Time changed,3
+1240,Other machines & welding,Welding machines,500.00,True,16:12:00,16:57,Updated,Time changed,3
+1241,Other machines & welding,Welding machines,500.00,True,16:50:00,16:08,Updated,Time changed,3
+1242,Other machines & welding,Welding machines,500.00,True,16:06:00,16:09,Updated,Time changed,3
+1243,Other machines & welding,Welding machines,400.00,True,16:39:00,16:13,Updated,Time changed,3
+1244,Other machines & welding,Welding machines,300.00,True,16:43:00,16:35,Updated,Time changed,3
+1245,Other machines & welding,Welding machines,400.00,False,16:51:00,16:49,Updated,Time changed,3
+1246,Other machines & welding,Welding machines,300.00,True,16:42:00,16:33,Updated,Time changed,3
+1247,Other machines & welding,Welding machines,300.00,True,16:07:00,16:32,Updated,Time changed,3
+1248,Other machines & welding,Welding machines,150.00,False,16:55:00,16:09,Updated,Time changed,3
+1249,Other machines & welding,Welding machines,300.00,True,16:58:00,16:52,Updated,Time changed,3
+1250,Other machines & welding,Welding machines,400.00,False,16:02:00,16:24,Updated,Time changed,3
+1251,Other machines & welding,Welding machines,400.00,False,16:01:00,16:18,Updated,Time changed,3
+1252,Other machines & welding,Welding machines,400.00,False,16:26:00,16:11,Updated,Time changed,3
+1253,Other machines & welding,Welding parts & accessories,350.00,True,16:37:00,16:29,Updated,Time changed,3
+1254,Other machines & welding,Welding parts & accessories,350.00,False,16:28:00,16:47,Updated,Time changed,3
+1255,Other machines & welding,Welding parts & accessories,100.00,True,16:04:00,16:25,Updated,Time changed,3
+1256,Other machines & welding,Welding parts & accessories,100.00,False,16:04:00,16:00,Updated,Time changed,3
+1257,Other machines & welding,Welding parts & accessories,100.00,True,16:19:00,16:33,Updated,Time changed,3
+1258,Other machines & welding,Welding parts & accessories,250.00,True,16:15:00,16:35,Updated,Time changed,3
+1259,Other machines & welding,Welding parts & accessories,250.00,False,16:02:00,16:16,Updated,Time changed,3
+1260,Other machines & welding,Welding parts & accessories,100.00,True,16:34:00,16:16,Updated,Time changed,3
+1261,Other machines & welding,Welding parts & accessories,400.00,True,16:54:00,16:32,Updated,Time changed,3
+1262,Other machines & welding,Welding parts & accessories,100.00,True,16:13:00,16:54,Updated,Time changed,3
+1263,Other machines & welding,Welding parts & accessories,100.00,True,16:11:00,16:44,Updated,Time changed,3
+1264,Other machines & welding,Welding parts & accessories,100.00,False,16:47:00,16:14,Updated,Time changed,3
+1265,Other machines & welding,Welding parts & accessories,100.00,True,16:49:00,16:44,Updated,Time changed,3
+1266,Other machines & welding,Welding parts & accessories,100.00,False,16:27:00,16:50,Updated,Time changed,3
+1267,Other machines & welding,Welding parts & accessories,250.00,True,16:29:00,16:44,Updated,Time changed,3
+1268,Other machines & welding,Welding parts & accessories,200.00,True,16:55:00,16:38,Updated,Time changed,3
+1269,Other machines & welding,Welding parts & accessories,400.00,True,16:33:00,16:38,Updated,Time changed,3
+1270,Other machines & welding,Welding parts & accessories,400.00,False,16:41:00,16:42,Updated,Time changed,3
+1271,Other machines & welding,Welding parts & accessories,250.00,True,16:48:00,16:26,Updated,Time changed,3
+1272,Other machines & welding,Welding parts & accessories,600.00,True,16:13:00,16:06,Updated,Time changed,3
+1273,Other machines & welding,Welding parts & accessories,250.00,True,16:03:00,16:26,Updated,Time changed,3
+1274,Other machines & welding,Welding parts & accessories,250.00,True,16:44:00,16:51,Updated,Time changed,3
+1275,Other machines & welding,Welding parts & accessories,2500.00,True,16:42:00,16:14,Updated,Time changed,3
+1276,Other machines & welding,Welding tables,2000.00,True,16:28:00,16:18,Updated,Time changed,3
+1277,Other machines & welding,Welding tables,2000.00,True,16:03:00,16:43,Updated,Time changed,3
+1278,Other machines & welding,Welding tables,2000.00,True,16:12:00,16:25,Updated,Time changed,3
+1279,Other machines & welding,Welding tables,2000.00,True,16:02:00,16:45,Updated,Time changed,3
+1280,Other machines & welding,Welding tables,400.00,True,16:02:00,16:44,Updated,Time changed,3
+1281,Other machines & welding,Welding tables,1000.00,True,16:37:00,16:33,Updated,Time changed,3
+1282,Other machines & welding,Welding tables,1000.00,True,16:09:00,16:06,Updated,Time changed,3
+1283,Top machines,Welding tables,3000.00,True,14:08:00,15:11,Updated,Time changed,2
+1284,Other machines & welding,Welding tables,1000.00,True,16:41:00,16:57,Updated,Time changed,3
+1285,Other machines & welding,Welding tables,1500.00,True,16:40:00,16:41,Updated,Time changed,3
+1286,Other machines & welding,Welding tables,2000.00,True,16:29:00,16:40,Updated,Time changed,3
+1287,Other machines & welding,Welding tables,1000.00,True,16:02:00,16:42,Updated,Time changed,3
+1288,Other machines & welding,Welding tables,1000.00,True,16:40:00,16:39,Updated,Time changed,3
+1289,Other machines & welding,Welding tables,1000.00,True,16:50:00,16:28,Updated,Time changed,3
+1290,Other machines & welding,Welding tables,1000.00,True,16:33:00,16:41,Updated,Time changed,3
+1291,Other machines & welding,Welding tables,1000.00,False,16:05:00,16:58,Updated,Time changed,3
+1292,Other machines & welding,Welding tables,1000.00,True,16:16:00,16:14,Updated,Time changed,3
+1293,Other machines & welding,Welding tables,2000.00,True,16:19:00,16:03,Updated,Time changed,3
+1294,Top machines,Welding tables,3000.00,True,15:06:00,14:21,Updated,Time changed,2
+1295,Top machines,Welding tables,3000.00,True,14:08:00,15:18,Updated,Time changed,2
+1296,Other machines & welding,Welding parts & accessories,500.00,True,16:43:00,16:45,Updated,Time changed,3
+1297,Other machines & welding,Welding parts & accessories,500.00,True,16:56:00,16:33,Updated,Time changed,3
+1298,Other machines & welding,Welding parts & accessories,500.00,True,16:33:00,16:25,Updated,Time changed,3
+1299,Other machines & welding,Welding parts & accessories,500.00,True,16:09:00,16:16,Updated,Time changed,3
+1300,Other machines & welding,Welding parts & accessories,500.00,False,16:45:00,16:45,Updated,Time changed,3
+1301,Other machines & welding,Welding parts & accessories,100.00,True,16:59:00,16:46,Updated,Time changed,3
+1302,Other machines & welding,Welding parts & accessories,60.00,False,16:54:00,16:35,Updated,Time changed,3
+1303,Other machines & welding,Welding parts & accessories,80.00,True,16:04:00,16:01,Updated,Time changed,3
+1304,Other machines & welding,Welding parts & accessories,75.00,False,16:40:00,16:57,Updated,Time changed,3
+1305,Other machines & welding,Welding parts & accessories,40.00,True,16:33:00,16:16,Updated,Time changed,3
+1306,Other machines & welding,Welding parts & accessories,40.00,True,16:24:00,16:33,Updated,Time changed,3
+1307,Other machines & welding,Welding parts & accessories,100.00,True,16:20:00,16:30,Updated,Time changed,3
+1308,Other machines & welding,Welding parts & accessories,60.00,False,16:31:00,16:54,Updated,Time changed,3
+1309,Other machines & welding,Welding parts & accessories,50.00,False,16:41:00,16:40,Updated,Time changed,3
+1310,Other machines & welding,Welding parts & accessories,70.00,False,16:37:00,16:46,Updated,Time changed,3
+1311,Other machines & welding,Welding parts & accessories,80.00,False,16:03:00,16:10,Updated,Time changed,3
+1312,Other machines & welding,Welding parts & accessories,50.00,False,16:16:00,16:58,Updated,Time changed,3
+1313,Other machines & welding,Welding parts & accessories,50.00,False,16:15:00,16:15,Updated,Time changed,3
+1314,Other machines & welding,Welding parts & accessories,50.00,False,16:06:00,16:56,Updated,Time changed,3
+1315,Other machines & welding,Welding parts & accessories,80.00,True,16:09:00,16:36,Updated,Time changed,3
+1316,Other machines & welding,Welding parts & accessories,60.00,False,16:20:00,16:44,Updated,Time changed,3
+1317,Other machines & welding,Welding parts & accessories,100.00,True,16:01:00,16:53,Updated,Time changed,3
+1318,Other machines & welding,Welding parts & accessories,500.00,False,16:19:00,16:40,Updated,Time changed,3
+1319,Other machines & welding,Welding parts & accessories,70.00,True,16:08:00,16:23,Updated,Time changed,3
+1320,Other machines & welding,Welding parts & accessories,70.00,False,16:23:00,16:19,Updated,Time changed,3
+1321,Other machines & welding,Welding parts & accessories,70.00,True,16:31:00,16:59,Updated,Time changed,3
+1322,Other machines & welding,Welding parts & accessories,50.00,True,16:26:00,16:11,Updated,Time changed,3
+1323,Other machines & welding,Welding parts & accessories,50.00,False,16:21:00,16:21,Updated,Time changed,3
+1324,Other machines & welding,Welding parts & accessories,50.00,True,16:01:00,16:57,Updated,Time changed,3
+1325,Other machines & welding,Welding parts & accessories,100.00,False,16:45:00,16:04,Updated,Time changed,3
+1326,Top machines,Cars,8500.00,True,15:07:00,14:19,Updated,Time changed,2
+1327,Stock & rolling,Car trailers,2000.00,True,17:15:00,17:57,Updated,Time changed,4
+1328,Top machines,Forklifts,42000.00,True,14:45:00,14:13,Updated,Time changed,2
+1329,Stock & rolling,Intern transport,400.00,True,17:27:00,17:38,Updated,Time changed,4
+1330,Stock & rolling,Intern transport,700.00,True,17:04:00,17:59,Updated,Time changed,4
+1331,Stock & rolling,Intern transport,100.00,True,17:30:00,17:32,Updated,Time changed,4
+1332,Stock & rolling,Intern transport,250.00,True,17:36:00,17:35,Updated,Time changed,4
+1333,Other machines & welding,Press brake tools,500.00,False,16:22:00,16:10,Updated,Time changed,3
+1334,Other machines & welding,Press brake tools,500.00,False,16:23:00,16:45,Updated,Time changed,3
+1335,Other machines & welding,Press brake tools,500.00,False,16:27:00,16:18,Updated,Time changed,3
+1336,Other machines & welding,Press brake tools,500.00,False,16:17:00,16:53,Updated,Time changed,3
+1337,Other machines & welding,Press brake tools,500.00,True,16:06:00,16:08,Updated,Time changed,3
+1338,Other machines & welding,Press brake tools,500.00,True,16:48:00,16:32,Updated,Time changed,3
+1339,Other machines & welding,Press brake tools,500.00,False,16:56:00,16:08,Updated,Time changed,3
+1340,Other machines & welding,Press brake tools,500.00,True,16:36:00,16:18,Updated,Time changed,3
+1341,Other machines & welding,Press brake tools,500.00,False,16:46:00,16:28,Updated,Time changed,3
+1342,Other machines & welding,Press brake tools,500.00,False,16:48:00,16:38,Updated,Time changed,3
+1343,Other machines & welding,Press brake tools,500.00,False,16:30:00,16:37,Updated,Time changed,3
+1344,Other machines & welding,Press brake tools,500.00,True,16:49:00,16:56,Updated,Time changed,3
+1345,Other machines & welding,Press brake tools,500.00,False,16:15:00,16:15,Updated,Time changed,3
+1346,Other machines & welding,Press brake tools,1000.00,False,16:41:00,16:49,Updated,Time changed,3
+1347,Other machines & welding,Press brake tools,500.00,False,16:27:00,16:05,Updated,Time changed,3
+1348,Other machines & welding,Press brake tools,500.00,False,16:39:00,16:15,Updated,Time changed,3
+1349,Other machines & welding,Press brake tools,500.00,False,16:47:00,16:44,Updated,Time changed,3
+1350,Other machines & welding,Press brake tools,500.00,False,16:05:00,16:15,Updated,Time changed,3
+1351,Other machines & welding,Press brake tools,500.00,False,16:08:00,16:16,Updated,Time changed,3
+1352,Other machines & welding,Press brake tools,500.00,False,16:49:00,16:28,Updated,Time changed,3
+1353,Other machines & welding,Press brake tools,500.00,False,16:52:00,16:09,Updated,Time changed,3
+1354,Other machines & welding,Press brake tools,500.00,False,16:34:00,16:05,Updated,Time changed,3
+1355,Other machines & welding,Press brake tools,200.00,True,16:29:00,16:57,Updated,Time changed,3
+1356,Other machines & welding,Press brake tools,400.00,True,16:37:00,16:55,Updated,Time changed,3
+1357,Other machines & welding,Press brake tools,400.00,False,16:39:00,16:02,Updated,Time changed,3
+1358,Other machines & welding,Press brake tools,500.00,False,16:35:00,16:18,Updated,Time changed,3
+1359,Other machines & welding,Press brake tools,400.00,False,16:57:00,16:31,Updated,Time changed,3
+1360,Other machines & welding,Press brake tools,400.00,False,16:43:00,16:29,Updated,Time changed,3
+1361,Other machines & welding,Press brake tools,400.00,False,16:07:00,16:19,Updated,Time changed,3
+1362,Other machines & welding,Press brake tools,400.00,False,16:45:00,16:59,Updated,Time changed,3
+1363,Other machines & welding,Press brake tools,400.00,False,16:10:00,16:16,Updated,Time changed,3
+1364,Other machines & welding,Press brake tools,400.00,False,16:29:00,16:40,Updated,Time changed,3
+1365,Other machines & welding,Press brake tools,250.00,True,16:25:00,16:03,Updated,Time changed,3
+1366,Other machines & welding,Press brake tools,400.00,False,16:59:00,16:32,Updated,Time changed,3
+1367,Other machines & welding,Press brake tools,300.00,False,16:03:00,16:44,Updated,Time changed,3
+1368,Other machines & welding,Press brake tools,400.00,False,16:47:00,16:25,Updated,Time changed,3
+1369,Other machines & welding,Press brake tools,400.00,False,16:28:00,16:17,Updated,Time changed,3
+1370,Other machines & welding,Press brake tools,300.00,False,16:36:00,16:44,Updated,Time changed,3
+1371,Other machines & welding,Press brake tools,600.00,False,16:21:00,16:21,Updated,Time changed,3
+1372,Other machines & welding,Press brake tools,500.00,False,16:06:00,16:46,Updated,Time changed,3
+1373,Other machines & welding,Press brake tools,750.00,False,16:14:00,16:51,Updated,Time changed,3
+1374,Other machines & welding,Press brake tools,500.00,False,16:29:00,16:49,Updated,Time changed,3
+1375,Other machines & welding,Press brake tools,500.00,True,16:08:00,16:32,Updated,Time changed,3
+1376,Other machines & welding,Press brake tools,250.00,False,16:47:00,16:44,Updated,Time changed,3
+1377,Other machines & welding,Press brake tools,400.00,False,16:47:00,16:34,Updated,Time changed,3
+1378,Other machines & welding,Press brake tools,200.00,False,16:01:00,16:34,Updated,Time changed,3
+1379,Other machines & welding,Press brake tools,300.00,False,16:57:00,16:43,Updated,Time changed,3
+1380,Other machines & welding,Press brake tools,500.00,False,16:34:00,16:39,Updated,Time changed,3
+1381,Other machines & welding,Press brake tools,100.00,False,16:41:00,16:11,Updated,Time changed,3
+1382,Other machines & welding,Press brake tools,100.00,False,16:28:00,16:50,Updated,Time changed,3
+1383,Other machines & welding,Press brake tools,500.00,True,16:04:00,16:21,Updated,Time changed,3
+1384,Other machines & welding,Press brake tools,300.00,False,16:28:00,16:56,Updated,Time changed,3
+1385,Other machines & welding,Press brake tools,350.00,False,16:54:00,16:23,Updated,Time changed,3
+1386,Other machines & welding,Press brake tools,300.00,False,16:21:00,16:57,Updated,Time changed,3
+1387,Buffer zone,"Machine parts, tools & accessories",1500.00,True,16:39:00,17:44,Updated,Time changed,6
+1388,Buffer zone,"Machine parts, tools & accessories",400.00,True,18:44:00,15:08,Updated,Time changed,6
+1389,Buffer zone,"Machine parts, tools & accessories",2000.00,True,15:50:00,17:43,Updated,Time changed,6
+1390,Buffer zone,"Machine parts, tools & accessories",800.00,True,14:12:00,18:00,Updated,Time changed,6
+1391,Buffer zone,Punching machines,400.00,True,15:05:00,14:07,Updated,Time changed,6
+1392,Other machines & welding,Separator systems,1000.00,False,16:22:00,16:46,Updated,Time changed,3
+1393,Office & misc.,Various metalworking,300.00,True,18:19:00,17:04,Updated,Time changed,5
+1394,Stock & rolling,Workshop Inventory,175.00,False,17:03:00,17:38,Updated,Time changed,4
+1395,Buffer zone,Grinding machines,200.00,False,17:22:00,16:10,Updated,Time changed,6
+1396,Buffer zone,Grinding machines,100.00,False,14:09:00,17:48,Updated,Time changed,6
+1397,Buffer zone,Drills,1500.00,True,16:22:00,18:35,Updated,Time changed,6
+1398,Buffer zone,Drills,1000.00,True,17:28:00,15:17,Updated,Time changed,6
+1399,Buffer zone,Drills,1000.00,True,16:58:00,15:41,Updated,Time changed,6
+1400,Stock & rolling,Workshop Inventory,150.00,False,17:35:00,17:49,Updated,Time changed,4
+1401,Stock & rolling,Workshop Inventory,100.00,True,17:34:00,17:39,Updated,Time changed,4
+1402,Buffer zone,"Machine parts, tools & accessories",75.00,True,16:37:00,16:50,Updated,Time changed,6
+1403,Buffer zone,"Machine parts, tools & accessories",150.00,True,18:49:00,18:09,Updated,Time changed,6
+1404,Buffer zone,"Machine parts, tools & accessories",75.00,True,14:12:00,15:41,Updated,Time changed,6
+1405,Buffer zone,"Machine parts, tools & accessories",40.00,False,18:02:00,15:04,Updated,Time changed,6
+1406,Stock & rolling,Workshop Inventory,150.00,False,17:13:00,17:03,Updated,Time changed,4
+1407,Buffer zone,"Machine parts, tools & accessories",400.00,True,18:35:00,16:26,Updated,Time changed,6
+1408,Buffer zone,"Machine parts, tools & accessories",300.00,True,17:02:00,16:24,Updated,Time changed,6
+1409,Stock & rolling,Workshop Inventory,50.00,False,17:17:00,17:00,Updated,Time changed,4
+1410,Buffer zone,Grinding machines,2000.00,True,18:41:00,18:23,Updated,Time changed,6
+1411,Stock & rolling,Workshop Inventory,150.00,False,17:35:00,17:39,Updated,Time changed,4
+1412,Stock & rolling,Workshop Inventory,100.00,False,17:34:00,17:58,Updated,Time changed,4
+1413,Other machines & welding,Polishing machines,100.00,True,16:16:00,16:44,Updated,Time changed,3
+1414,Other machines & welding,Polishing machines,150.00,True,16:56:00,16:20,Updated,Time changed,3
+1415,Buffer zone,Welding and cutting equipment,150.00,True,17:01:00,15:29,Updated,Time changed,6
+1416,Stock & rolling,Workshop Inventory,100.00,False,17:58:00,17:11,Updated,Time changed,4
+1417,Stock & rolling,Workshop Inventory,200.00,True,17:10:00,17:59,Updated,Time changed,4
+1418,Stock & rolling,Workshop Inventory,200.00,False,17:19:00,17:37,Updated,Time changed,4
+1419,Stock & rolling,Workshop Inventory,250.00,False,17:28:00,17:24,Updated,Time changed,4
+1420,Stock & rolling,Workshop Inventory,200.00,True,17:43:00,17:15,Updated,Time changed,4
+1421,Stock & rolling,Workshop Inventory,200.00,False,17:14:00,17:40,Updated,Time changed,4
+1422,Stock & rolling,Workshop Inventory,200.00,False,17:15:00,17:27,Updated,Time changed,4
+1423,Stock & rolling,Workshop Inventory,150.00,False,17:14:00,17:31,Updated,Time changed,4
+1424,Other machines & welding,Press brake tools,500.00,False,16:49:00,16:49,Updated,Time changed,3
+1425,Other machines & welding,Press brake tools,500.00,False,16:02:00,16:53,Updated,Time changed,3
+1426,Other machines & welding,Press brake tools,500.00,False,16:50:00,16:46,Updated,Time changed,3
+1427,Other machines & welding,Press brake tools,500.00,False,16:15:00,16:57,Updated,Time changed,3
+1428,Other machines & welding,Press brake tools,500.00,False,16:31:00,16:41,Updated,Time changed,3
+1429,Other machines & welding,Press brake tools,500.00,False,16:04:00,16:30,Updated,Time changed,3
+1430,Other machines & welding,Press brake tools,500.00,False,16:41:00,16:03,Updated,Time changed,3
+1431,Other machines & welding,Press brake tools,800.00,False,16:06:00,16:36,Updated,Time changed,3
+1432,Other machines & welding,Press brake tools,500.00,False,16:01:00,16:24,Updated,Time changed,3
+1433,Other machines & welding,Press brake tools,500.00,False,16:11:00,16:52,Updated,Time changed,3
+1434,Other machines & welding,Press brake tools,500.00,False,16:28:00,16:07,Updated,Time changed,3
+1435,Other machines & welding,Press brake tools,500.00,False,16:15:00,16:17,Updated,Time changed,3
+1436,Other machines & welding,Press brake tools,500.00,False,16:21:00,16:28,Updated,Time changed,3
+1437,Other machines & welding,Press brake tools,500.00,False,16:39:00,16:01,Updated,Time changed,3
+1438,Other machines & welding,Press brake tools,600.00,False,16:02:00,16:22,Updated,Time changed,3
+1439,Stock & rolling,Workshop Inventory,100.00,False,17:15:00,17:18,Updated,Time changed,4
+1440,Stock & rolling,Workshop Inventory,100.00,False,17:45:00,17:39,Updated,Time changed,4
+1441,Stock & rolling,Workshop Inventory,150.00,True,17:35:00,17:15,Updated,Time changed,4
+1442,Stock & rolling,Workshop Inventory,50.00,False,17:53:00,17:00,Updated,Time changed,4
+1443,Stock & rolling,Workshop Inventory,150.00,True,17:08:00,17:40,Updated,Time changed,4
+1444,Stock & rolling,Workshop Inventory,100.00,False,17:00:00,17:14,Updated,Time changed,4
+1445,Stock & rolling,Workshop Inventory,150.00,True,17:10:00,17:38,Updated,Time changed,4
+1446,Stock & rolling,Workshop Inventory,100.00,False,17:10:00,17:11,Updated,Time changed,4
+1447,Stock & rolling,Workshop Inventory,100.00,True,17:18:00,17:29,Updated,Time changed,4
+1448,Stock & rolling,Workshop Inventory,150.00,True,17:17:00,17:07,Updated,Time changed,4
+1449,Stock & rolling,Workshop Inventory,150.00,True,17:57:00,17:29,Updated,Time changed,4
+1450,Stock & rolling,Workshop Inventory,150.00,True,17:53:00,17:02,Updated,Time changed,4
+1451,Stock & rolling,Workshop Inventory,150.00,True,17:16:00,17:51,Updated,Time changed,4
+1452,Stock & rolling,Workshop Inventory,150.00,True,17:39:00,17:46,Updated,Time changed,4
+1453,Stock & rolling,Workshop Inventory,150.00,True,17:41:00,17:07,Updated,Time changed,4
+1454,Stock & rolling,Workshop Inventory,150.00,True,17:24:00,17:36,Updated,Time changed,4
+1455,Stock & rolling,Workshop Inventory,150.00,True,17:11:00,17:42,Updated,Time changed,4
+1456,Stock & rolling,Workshop Inventory,150.00,True,17:18:00,17:18,Updated,Time changed,4
+1457,Stock & rolling,Workshop Inventory,150.00,True,17:45:00,17:05,Updated,Time changed,4
+1458,Stock & rolling,Workshop Inventory,150.00,True,17:25:00,17:55,Updated,Time changed,4
+1459,Stock & rolling,Workshop Inventory,150.00,True,17:25:00,17:00,Updated,Time changed,4
+1460,Stock & rolling,Workshop Inventory,150.00,True,17:16:00,17:08,Updated,Time changed,4
+1461,Stock & rolling,Workshop Inventory,150.00,True,17:37:00,17:26,Updated,Time changed,4
+1462,Stock & rolling,Workshop Inventory,150.00,True,17:28:00,17:21,Updated,Time changed,4
+1463,Stock & rolling,Workshop Inventory,150.00,True,17:29:00,17:12,Updated,Time changed,4
+1464,Stock & rolling,Workshop Inventory,150.00,True,17:55:00,17:34,Updated,Time changed,4
+1465,Other machines & welding,Welding parts & accessories,100.00,False,16:03:00,16:24,Updated,Time changed,3
+1466,Warm-up,Battery tools,70.00,False,14:11:00,14:10,Updated,Time changed,1
+1467,Warm-up,Battery tools,70.00,True,14:21:00,14:44,Updated,Time changed,1
+1468,Warm-up,Battery tools,70.00,True,14:08:00,14:23,Updated,Time changed,1
+1469,Warm-up,Battery tools,70.00,True,14:15:00,14:42,Updated,Time changed,1
+1470,Warm-up,Battery tools,70.00,False,14:22:00,14:33,Updated,Time changed,1
+1471,Warm-up,Battery tools,60.00,True,14:50:00,14:13,Updated,Time changed,1
+1472,Warm-up,Battery tools,60.00,False,14:09:00,14:54,Updated,Time changed,1
+1473,Warm-up,Battery tools,100.00,False,14:45:00,14:58,Updated,Time changed,1
+1474,Warm-up,manual tools,50.00,True,14:47:00,14:08,Updated,Time changed,1
+1475,Warm-up,manual tools,50.00,False,14:13:00,14:54,Updated,Time changed,1
+1476,Warm-up,manual tools,50.00,False,14:17:00,14:18,Updated,Time changed,1
+1477,Warm-up,manual tools,50.00,False,14:20:00,14:55,Updated,Time changed,1
+1478,Warm-up,manual tools,50.00,True,14:12:00,14:44,Updated,Time changed,1
+1479,Warm-up,manual tools,50.00,False,14:17:00,14:04,Updated,Time changed,1
+1480,Warm-up,manual tools,50.00,False,14:27:00,14:38,Updated,Time changed,1
+1481,Warm-up,manual tools,100.00,True,14:38:00,14:10,Updated,Time changed,1
+1482,Warm-up,manual tools,100.00,True,14:14:00,14:55,Updated,Time changed,1
+1483,Warm-up,manual tools,100.00,True,14:57:00,14:46,Updated,Time changed,1
+1484,Warm-up,manual tools,100.00,True,14:56:00,14:59,Updated,Time changed,1
+1485,Warm-up,manual tools,100.00,True,14:34:00,14:51,Updated,Time changed,1
+1486,Warm-up,manual tools,100.00,True,14:25:00,14:36,Updated,Time changed,1
+1487,Warm-up,manual tools,50.00,False,14:23:00,14:56,Updated,Time changed,1
+1488,Warm-up,manual tools,70.00,True,14:55:00,14:16,Updated,Time changed,1
+1489,Warm-up,manual tools,70.00,True,14:43:00,14:20,Updated,Time changed,1
+1490,Warm-up,manual tools,70.00,False,14:06:00,14:03,Updated,Time changed,1
+1491,Warm-up,manual tools,100.00,True,14:17:00,14:01,Updated,Time changed,1
+1492,Warm-up,manual tools,50.00,True,14:14:00,14:35,Updated,Time changed,1
+1493,Warm-up,Pneumatic tools,100.00,True,14:03:00,14:56,Updated,Time changed,1
+1494,Warm-up,Pneumatic tools,100.00,True,14:29:00,14:39,Updated,Time changed,1
+1495,Warm-up,Pneumatic tools,100.00,True,14:54:00,14:39,Updated,Time changed,1
+1496,Warm-up,Pneumatic tools,100.00,True,14:04:00,14:46,Updated,Time changed,1
+1497,Warm-up,Pneumatic tools,100.00,True,14:33:00,14:55,Updated,Time changed,1
+1498,Other machines & welding,Welding machines,60.00,False,16:41:00,16:46,Updated,Time changed,3
+1499,Warm-up,manual tools,100.00,True,14:20:00,14:45,Updated,Time changed,1
+1500,Warm-up,manual tools,150.00,True,14:41:00,14:01,Updated,Time changed,1
+1501,Warm-up,manual tools,100.00,True,14:35:00,14:58,Updated,Time changed,1
+1502,Warm-up,manual tools,100.00,True,14:04:00,14:46,Updated,Time changed,1
+1503,fallback,manual tools,,True,15:57:00,15:56,Updated,Time changed,6
+1504,Warm-up,Tooling,100.00,True,14:38:00,14:37,Updated,Time changed,1
+1505,Buffer zone,Punching machines,75.00,False,15:34:00,17:21,Updated,Time changed,6
+1506,Stock & rolling,Workshop Inventory,150.00,False,17:01:00,17:19,Updated,Time changed,4
+1507,Stock & rolling,Metal stock,100.00,False,17:29:00,17:08,Updated,Time changed,4
+1508,Stock & rolling,Workshop Inventory,150.00,True,17:57:00,17:32,Updated,Time changed,4
+1509,Stock & rolling,Workshop Inventory,100.00,False,17:14:00,17:19,Updated,Time changed,4
+1510,Office & misc.,Various metalworking,100.00,False,17:22:00,17:58,Updated,Time changed,5
+1511,Stock & rolling,Workshop Inventory,100.00,False,17:00:00,17:19,Updated,Time changed,4
+1512,Stock & rolling,Workshop Inventory,150.00,False,17:19:00,17:08,Updated,Time changed,4
+1513,Office & misc.,Various metalworking,100.00,True,17:16:00,18:51,Updated,Time changed,5
+1514,Stock & rolling,Workshop Inventory,70.00,True,17:54:00,17:03,Updated,Time changed,4
+1515,Buffer zone,Drills,600.00,True,18:39:00,15:33,Updated,Time changed,6
+1516,Stock & rolling,Workshop Inventory,150.00,True,17:33:00,17:24,Updated,Time changed,4
+1517,Buffer zone,Punching machines,50.00,True,18:19:00,14:25,Updated,Time changed,6
+1518,Other machines & welding,Welding machines,50.00,True,16:25:00,16:15,Updated,Time changed,3
+1519,Stock & rolling,racking,100.00,False,17:59:00,17:36,Updated,Time changed,4
+1520,Stock & rolling,Workshop Inventory,10.00,False,17:54:00,17:44,Updated,Time changed,4
+1521,fallback,Installation material,,False,14:05:00,15:58,Updated,Time changed,6
+1522,Office & misc.,Various metalworking,50.00,True,18:49:00,18:45,Updated,Time changed,5
+1523,Warm-up,manual tools,400.00,True,14:36:00,14:20,Updated,Time changed,1
+1524,Warm-up,manual tools,400.00,True,14:04:00,14:03,Updated,Time changed,1
+1525,Office & misc.,Various metalworking,60.00,False,18:38:00,17:27,Updated,Time changed,5
+1526,Office & misc.,Various metalworking,50.00,True,18:19:00,17:44,Updated,Time changed,5
+1527,Warm-up,manual tools,50.00,True,14:59:00,14:53,Updated,Time changed,1
+1528,Stock & rolling,Workshop Inventory,40.00,False,17:31:00,17:15,Updated,Time changed,4
+1529,Office & misc.,Various metalworking,30.00,False,18:59:00,18:05,Updated,Time changed,5
+1530,Stock & rolling,racking,200.00,True,17:47:00,17:30,Updated,Time changed,4
+1531,Office & misc.,Various metalworking,100.00,False,17:00:00,17:39,Updated,Time changed,5
+1532,Buffer zone,clamping tables,400.00,False,14:03:00,16:16,Updated,Time changed,6
+1533,Buffer zone,clamping tables,250.00,False,18:03:00,16:02,Updated,Time changed,6
+1534,Stock & rolling,Workshop Inventory,250.00,False,17:26:00,17:46,Updated,Time changed,4
+1535,fallback,manual tools,,False,16:27:00,17:27,Updated,Time changed,6
+1536,Stock & rolling,Metal stock,50.00,False,17:34:00,17:06,Updated,Time changed,4
+1537,Warm-up,manual tools,300.00,False,14:17:00,14:37,Updated,Time changed,1
+1538,Warm-up,manual tools,1000.00,False,14:19:00,14:12,Updated,Time changed,1
+1539,Office & misc.,Various metalworking,200.00,False,18:31:00,18:25,Updated,Time changed,5
+1540,Office & misc.,Various metalworking,200.00,False,17:06:00,18:08,Updated,Time changed,5
+1541,fallback,manual tools,,False,14:14:00,16:40,Updated,Time changed,6
+1542,Warm-up,manual tools,150.00,False,14:43:00,14:53,Updated,Time changed,1
+1543,Warm-up,manual tools,150.00,False,14:11:00,14:30,Updated,Time changed,1
+1544,Warm-up,manual tools,150.00,False,14:03:00,14:10,Updated,Time changed,1
+1545,Warm-up,manual tools,150.00,False,14:24:00,14:07,Updated,Time changed,1
+1546,Warm-up,manual tools,150.00,True,14:21:00,14:32,Updated,Time changed,1
+1547,Warm-up,manual tools,250.00,False,14:01:00,14:15,Updated,Time changed,1
+1548,Warm-up,manual tools,150.00,True,14:38:00,14:11,Updated,Time changed,1
+1549,Warm-up,manual tools,150.00,True,14:16:00,14:06,Updated,Time changed,1
+1550,Warm-up,manual tools,150.00,False,14:28:00,14:58,Updated,Time changed,1
+1551,Warm-up,manual tools,150.00,False,14:00:00,14:20,Updated,Time changed,1
+1552,Stock & rolling,Metal stock,100.00,False,17:52:00,17:15,Updated,Time changed,4
+1553,Office & misc.,Various metalworking,50.00,False,18:59:00,18:50,Updated,Time changed,5
+1554,Office & misc.,Various metalworking,50.00,False,18:25:00,17:37,Updated,Time changed,5
+1555,Office & misc.,Various metalworking,50.00,False,17:30:00,17:52,Updated,Time changed,5
+1556,Office & misc.,Various metalworking,50.00,False,17:20:00,17:24,Updated,Time changed,5
+1557,Stock & rolling,Workshop Inventory,200.00,True,17:18:00,17:22,Updated,Time changed,4
+1558,Stock & rolling,Workshop Inventory,150.00,True,17:04:00,17:08,Updated,Time changed,4
+1559,Stock & rolling,Workshop Inventory,150.00,True,17:33:00,17:22,Updated,Time changed,4
+1560,Stock & rolling,Workshop Inventory,100.00,True,17:32:00,17:47,Updated,Time changed,4
+1561,Warm-up,Measuring instruments,3000.00,True,14:12:00,14:18,Updated,Time changed,1
+1562,Warm-up,Measuring instruments,700.00,True,14:54:00,14:42,Updated,Time changed,1
+1563,Warm-up,Measuring instruments,150.00,True,14:45:00,14:32,Updated,Time changed,1
+1564,Warm-up,Measuring instruments,30.00,True,14:03:00,14:35,Updated,Time changed,1
+1565,Warm-up,Measuring instruments,30.00,False,14:46:00,14:09,Updated,Time changed,1
+1566,Warm-up,Measuring instruments,30.00,True,14:47:00,14:40,Updated,Time changed,1
+1567,Warm-up,Measuring instruments,50.00,True,14:40:00,14:11,Updated,Time changed,1
+1568,Warm-up,Measuring instruments,100.00,True,14:01:00,14:01,Updated,Time changed,1
+1569,Warm-up,Measuring instruments,30.00,True,14:34:00,14:02,Updated,Time changed,1
+1570,Warm-up,Measuring instruments,30.00,True,14:55:00,14:39,Updated,Time changed,1
+1571,Warm-up,Measuring instruments,30.00,True,14:22:00,14:08,Updated,Time changed,1
+1572,Warm-up,Measuring instruments,40.00,False,14:15:00,14:55,Updated,Time changed,1
+1573,Warm-up,Measuring instruments,50.00,True,14:41:00,14:03,Updated,Time changed,1
+1574,Warm-up,Measuring instruments,50.00,True,14:28:00,14:39,Updated,Time changed,1
+1575,Warm-up,Measuring instruments,70.00,True,14:59:00,14:25,Updated,Time changed,1
+1576,Warm-up,Measuring instruments,40.00,True,14:54:00,14:22,Updated,Time changed,1
+1577,Warm-up,Measuring instruments,100.00,True,14:26:00,14:01,Updated,Time changed,1
+1578,Warm-up,Measuring instruments,50.00,True,14:55:00,14:48,Updated,Time changed,1
+1579,Warm-up,Measuring instruments,2700.00,True,14:01:00,14:46,Updated,Time changed,1
+1580,Warm-up,Measuring instruments,800.00,True,14:14:00,14:51,Updated,Time changed,1
+1581,Warm-up,Measuring instruments,4000.00,False,14:52:00,14:54,Updated,Time changed,1
+1582,Warm-up,Measuring instruments,4000.00,False,14:02:00,14:47,Updated,Time changed,1
+1583,Stock & rolling,Workshop Inventory,50.00,True,17:51:00,17:57,Updated,Time changed,4
+1584,Stock & rolling,racking,50.00,False,17:08:00,17:30,Updated,Time changed,4
+1585,Office & misc.,Office inventory,20.00,False,18:52:00,18:01,Updated,Time changed,5
+1586,Stock & rolling,Workshop Inventory,100.00,True,17:01:00,17:11,Updated,Time changed,4
+1587,Stock & rolling,Workshop Inventory,100.00,True,17:14:00,17:43,Updated,Time changed,4
+1588,Stock & rolling,Workshop Inventory,100.00,True,17:51:00,17:40,Updated,Time changed,4
+1589,Stock & rolling,Workshop Inventory,100.00,False,17:16:00,17:24,Updated,Time changed,4
+1590,Stock & rolling,Workshop Inventory,100.00,True,17:40:00,17:05,Updated,Time changed,4
+1591,Stock & rolling,Workshop Inventory,100.00,False,17:08:00,17:24,Updated,Time changed,4
+1592,Stock & rolling,Workshop Inventory,100.00,False,17:52:00,17:56,Updated,Time changed,4
+1593,Stock & rolling,Workshop Inventory,100.00,True,17:05:00,17:16,Updated,Time changed,4
+1594,Office & misc.,Office inventory,500.00,False,17:43:00,17:19,Updated,Time changed,5
+1595,Top machines,Warehouse inventory,18500.00,True,14:46:00,14:42,Updated,Time changed,2
+1596,Warm-up,Fastening material,250.00,False,14:56:00,14:14,Updated,Time changed,1
+1597,Warm-up,Fastening material,250.00,False,14:01:00,14:46,Updated,Time changed,1
+1598,Warm-up,Fastening material,250.00,False,14:39:00,14:43,Updated,Time changed,1
+1599,Warm-up,Fastening material,250.00,False,14:46:00,14:30,Updated,Time changed,1
+1600,Warm-up,Fastening material,250.00,False,14:46:00,14:43,Updated,Time changed,1
+1601,Warm-up,Fastening material,250.00,False,14:27:00,14:52,Updated,Time changed,1
+1602,Warm-up,Fastening material,250.00,False,14:00:00,14:51,Updated,Time changed,1
+1603,Warm-up,Fastening material,250.00,False,14:57:00,14:09,Updated,Time changed,1
+1604,Warm-up,Fastening material,250.00,False,14:03:00,14:48,Updated,Time changed,1
+1605,Warm-up,Fastening material,250.00,False,14:50:00,14:42,Updated,Time changed,1
+1606,Warm-up,Fastening material,250.00,False,14:54:00,14:17,Updated,Time changed,1
+1607,Warm-up,Fastening material,250.00,False,14:55:00,14:32,Updated,Time changed,1
+1608,Warm-up,Fastening material,250.00,False,14:28:00,14:49,Updated,Time changed,1
+1609,Warm-up,Fastening material,250.00,False,14:14:00,14:02,Updated,Time changed,1
+1610,Warm-up,Fastening material,250.00,False,14:36:00,14:38,Updated,Time changed,1
+1611,Warm-up,Fastening material,250.00,False,14:33:00,14:27,Updated,Time changed,1
+1612,Warm-up,Fastening material,250.00,False,14:22:00,14:31,Updated,Time changed,1
+1613,Warm-up,Fastening material,250.00,False,14:15:00,14:20,Updated,Time changed,1
+1614,Warm-up,Fastening material,250.00,False,14:39:00,14:58,Updated,Time changed,1
+1615,Warm-up,Fastening material,250.00,False,14:18:00,14:12,Updated,Time changed,1
+1616,Warm-up,Fastening material,250.00,False,14:42:00,14:59,Updated,Time changed,1
+1617,Warm-up,Fastening material,250.00,False,14:48:00,14:32,Updated,Time changed,1
+1618,Warm-up,Fastening material,250.00,False,14:44:00,14:03,Updated,Time changed,1
+1619,Warm-up,Fastening material,250.00,False,14:22:00,14:09,Updated,Time changed,1
+1620,Warm-up,Fastening material,250.00,False,14:16:00,14:35,Updated,Time changed,1
+1621,Warm-up,Fastening material,250.00,False,14:08:00,14:04,Updated,Time changed,1
+1622,Warm-up,Fastening material,250.00,False,14:54:00,14:40,Updated,Time changed,1
+1623,Warm-up,Fastening material,250.00,False,14:00:00,14:35,Updated,Time changed,1
+1624,Warm-up,Fastening material,250.00,False,14:05:00,14:48,Updated,Time changed,1
+1625,Warm-up,Fastening material,250.00,False,14:50:00,14:58,Updated,Time changed,1
+1626,Warm-up,Fastening material,250.00,False,14:54:00,14:55,Updated,Time changed,1
+1627,Warm-up,Fastening material,250.00,False,14:57:00,14:36,Updated,Time changed,1
+1628,Warm-up,Fastening material,250.00,False,14:21:00,14:10,Updated,Time changed,1
+1629,Warm-up,Fastening material,250.00,False,14:11:00,14:42,Updated,Time changed,1
+1630,Warm-up,Fastening material,250.00,False,14:12:00,14:22,Updated,Time changed,1
+1631,Warm-up,Fastening material,250.00,False,14:57:00,14:34,Updated,Time changed,1
+1632,Stock & rolling,Warehouse inventory,250.00,True,17:00:00,17:57,Updated,Time changed,4
+1633,Stock & rolling,Warehouse inventory,100.00,False,17:31:00,17:12,Updated,Time changed,4
+1634,Top machines,Various metalworking,5000.00,False,15:29:00,15:39,Updated,Time changed,2
+1635,Stock & rolling,Warehouse inventory,1500.00,True,17:17:00,17:35,Updated,Time changed,4
+1636,Office & misc.,Various metalworking,1000.00,True,17:47:00,18:12,Updated,Time changed,5
+1637,Stock & rolling,Workshop Inventory,150.00,False,17:59:00,17:53,Updated,Time changed,4
+1638,Stock & rolling,Workshop Inventory,300.00,True,17:55:00,17:11,Updated,Time changed,4
+1639,Office & misc.,Packaging equipment,100.00,False,18:13:00,17:28,Updated,Time changed,5
+1640,Office & misc.,Packaging equipment,100.00,False,18:51:00,17:08,Updated,Time changed,5
+1641,Office & misc.,Packaging equipment,100.00,False,18:39:00,18:35,Updated,Time changed,5
+1642,Office & misc.,Packaging equipment,50.00,True,18:48:00,18:47,Updated,Time changed,5
+1643,Office & misc.,Packaging equipment,50.00,True,17:21:00,17:10,Updated,Time changed,5
+1644,Office & misc.,Various metalworking,50.00,False,17:01:00,18:21,Updated,Time changed,5
+1645,Stock & rolling,Workshop Inventory,11.00,False,17:12:00,17:25,Updated,Time changed,4
+1646,Stock & rolling,Workshop Inventory,11.00,True,17:35:00,17:20,Updated,Time changed,4
+1647,Office & misc.,Various metalworking,50.00,False,18:03:00,18:46,Updated,Time changed,5
+1648,Office & misc.,Packaging equipment,50.00,False,17:11:00,17:40,Updated,Time changed,5
+1649,Warm-up,Measuring instruments,250.00,True,14:22:00,14:30,Updated,Time changed,1
+1650,Office & misc.,Office inventory,100.00,True,18:34:00,17:18,Updated,Time changed,5
+1651,Office & misc.,Various metalworking,250.00,True,17:55:00,17:24,Updated,Time changed,5
+1652,Buffer zone,Compressors,20.00,True,17:46:00,15:07,Updated,Time changed,6
+1653,Warm-up,Cleaning equipment,250.00,True,14:05:00,14:05,Updated,Time changed,1
+1654,Stock & rolling,Workshop Inventory,100.00,False,17:02:00,17:26,Updated,Time changed,4
+1655,Buffer zone,"Machine parts, tools & accessories",100.00,False,18:29:00,15:47,Updated,Time changed,6
+1656,Buffer zone,"Machine parts, tools & accessories",100.00,False,16:23:00,14:42,Updated,Time changed,6
+1657,Buffer zone,"Machine parts, tools & accessories",100.00,True,16:00:00,16:30,Updated,Time changed,6
+1658,Buffer zone,"Machine parts, tools & accessories",250.00,True,16:58:00,15:56,Updated,Time changed,6
+1659,Stock & rolling,Workshop Inventory,50.00,False,17:48:00,17:46,Updated,Time changed,4
+1660,Buffer zone,Ladders and stairs,10.00,False,15:26:00,17:08,Updated,Time changed,6
+1661,Stock & rolling,Workshop Inventory,150.00,True,17:01:00,17:24,Updated,Time changed,4
+1662,Stock & rolling,Workshop Inventory,250.00,False,17:16:00,17:25,Updated,Time changed,4
+1663,Stock & rolling,Workshop Inventory,250.00,False,17:32:00,17:04,Updated,Time changed,4
+1664,Stock & rolling,Metal stock,250.00,False,17:02:00,17:36,Updated,Time changed,4
+1665,Office & misc.,Various metalworking,250.00,True,18:48:00,17:20,Updated,Time changed,5
+1666,Office & misc.,Various metalworking,250.00,False,17:33:00,17:01,Updated,Time changed,5
+1667,Buffer zone,"Machine parts, tools & accessories",60.00,False,14:33:00,16:56,Updated,Time changed,6
+1668,Buffer zone,"Machine parts, tools & accessories",75.00,True,14:54:00,17:45,Updated,Time changed,6
+1669,Buffer zone,"Machine parts, tools & accessories",70.00,True,15:36:00,15:47,Updated,Time changed,6
+1670,Buffer zone,"Machine parts, tools & accessories",60.00,True,15:51:00,17:17,Updated,Time changed,6
+1671,Buffer zone,"Machine parts, tools & accessories",150.00,True,15:23:00,18:41,Updated,Time changed,6
+1672,Buffer zone,"Machine parts, tools & accessories",100.00,True,16:11:00,16:45,Updated,Time changed,6
+1673,Buffer zone,"Machine parts, tools & accessories",100.00,True,16:34:00,16:00,Updated,Time changed,6
+1674,Buffer zone,"Machine parts, tools & accessories",130.00,True,15:26:00,18:17,Updated,Time changed,6
+1675,Office & misc.,Various metalworking,250.00,False,18:35:00,18:52,Updated,Time changed,5
+1676,Stock & rolling,Warehouse inventory,100.00,False,17:04:00,17:47,Updated,Time changed,4
+1677,Stock & rolling,Workshop Inventory,100.00,False,17:45:00,17:00,Updated,Time changed,4
+1678,Other machines & welding,Polishing machines,2500.00,True,16:34:00,16:38,Updated,Time changed,3
+1679,Other machines & welding,Polishing machines,1000.00,False,16:02:00,16:36,Updated,Time changed,3
+1680,Other machines & welding,Polishing machines,100.00,False,16:39:00,16:41,Updated,Time changed,3
+1681,Other machines & welding,Polishing machines,100.00,False,16:33:00,16:35,Updated,Time changed,3
+1682,Warm-up,Cleaning equipment,250.00,False,14:42:00,14:55,Updated,Time changed,1
+1683,Office & misc.,Computer & tablets,350.00,True,17:47:00,18:08,Updated,Time changed,5
+1684,Buffer zone,Blasting machines,2500.00,True,14:38:00,15:25,Updated,Time changed,6
+1685,Buffer zone,Lifting and hoisting equipment,250.00,True,18:23:00,14:11,Updated,Time changed,6
+1686,Buffer zone,Lifting and hoisting equipment,2500.00,True,15:55:00,18:30,Updated,Time changed,6
+1687,Buffer zone,Lifting and hoisting equipment,2500.00,True,18:35:00,17:37,Updated,Time changed,6
+1688,Top machines,Lifting and hoisting equipment,5000.00,False,14:08:00,15:27,Updated,Time changed,2
+1689,Buffer zone,Lifting and hoisting equipment,300.00,True,16:50:00,14:10,Updated,Time changed,6
+1690,Buffer zone,Lifting and hoisting equipment,100.00,True,14:41:00,16:40,Updated,Time changed,6
+1691,Buffer zone,Lifting and hoisting equipment,100.00,True,16:43:00,17:11,Updated,Time changed,6
+1692,Buffer zone,Lifting and hoisting equipment,100.00,True,18:36:00,17:53,Updated,Time changed,6
+1693,Buffer zone,Lifting and hoisting equipment,100.00,True,16:39:00,15:43,Updated,Time changed,6
+1694,Buffer zone,Lifting and hoisting equipment,100.00,True,18:02:00,18:56,Updated,Time changed,6
+1695,Buffer zone,Lifting and hoisting equipment,100.00,True,16:44:00,16:00,Updated,Time changed,6
+1696,Buffer zone,Lifting and hoisting equipment,100.00,True,16:01:00,15:03,Updated,Time changed,6
+1697,Buffer zone,Lifting and hoisting equipment,100.00,True,18:21:00,15:20,Updated,Time changed,6
+1698,Buffer zone,Lifting and hoisting equipment,100.00,False,15:49:00,16:42,Updated,Time changed,6
+1699,Buffer zone,Lifting and hoisting equipment,100.00,False,18:38:00,17:51,Updated,Time changed,6
+1700,Buffer zone,Lifting and hoisting equipment,20.00,True,14:23:00,16:25,Updated,Time changed,6
+1701,Warm-up,manual tools,250.00,False,14:41:00,14:21,Updated,Time changed,1
+1702,Other machines & welding,Forming machines,500.00,False,16:18:00,16:36,Updated,Time changed,3
+1703,Buffer zone,Filtration systems,250.00,False,17:10:00,14:08,Updated,Time changed,6
+1704,Buffer zone,Filtration systems,250.00,False,18:21:00,18:03,Updated,Time changed,6
+1705,Buffer zone,Bending & folding machines,350.00,True,17:45:00,17:38,Updated,Time changed,6
+1706,fallback,Cleaning equipment,,False,18:45:00,16:47,Updated,Time changed,6
+1707,Warm-up,Cleaning equipment,150.00,True,14:13:00,14:23,Updated,Time changed,1
+1708,Buffer zone,Cutting machines,100.00,False,15:10:00,18:09,Updated,Time changed,6
+1709,Other machines & welding,Polishing machines,150.00,False,16:30:00,16:43,Updated,Time changed,3
+1710,Warm-up,Installation material,250.00,False,14:06:00,14:08,Updated,Time changed,1
+1711,Office & misc.,Computer & tablets,100.00,True,17:00:00,17:04,Updated,Time changed,5
+1712,Office & misc.,Computer & tablets,250.00,True,18:29:00,18:43,Updated,Time changed,5
+1713,Stock & rolling,Workshop Inventory,350.00,False,17:10:00,17:52,Updated,Time changed,4
+1714,Office & misc.,Various metalworking,350.00,True,18:33:00,18:19,Updated,Time changed,5
+1715,Stock & rolling,Metal stock,600.00,False,17:59:00,17:21,Updated,Time changed,4
+1716,Stock & rolling,Metal stock,2500.00,False,17:04:00,17:43,Updated,Time changed,4
+1717,Buffer zone,"Machine parts, tools & accessories",350.00,False,18:44:00,16:04,Updated,Time changed,6
+1718,Buffer zone,"Machine parts, tools & accessories",500.00,False,17:38:00,18:32,Updated,Time changed,6
+1719,Buffer zone,"Machine parts, tools & accessories",500.00,True,15:39:00,14:42,Updated,Time changed,6
+1720,Buffer zone,"Machine parts, tools & accessories",500.00,False,17:59:00,14:02,Updated,Time changed,6
+1721,Stock & rolling,Metal stock,2500.00,True,17:21:00,17:27,Updated,Time changed,4
+1722,Stock & rolling,Metal stock,2500.00,True,17:50:00,17:29,Updated,Time changed,4
+1723,Stock & rolling,Metal stock,2500.00,True,17:23:00,17:49,Updated,Time changed,4
+1724,Stock & rolling,Metal stock,2500.00,True,17:09:00,17:25,Updated,Time changed,4
+1725,Stock & rolling,Metal stock,2500.00,True,17:41:00,17:36,Updated,Time changed,4
+1726,Stock & rolling,Metal stock,500.00,False,17:31:00,17:07,Updated,Time changed,4
+1727,Stock & rolling,Metal stock,500.00,True,17:34:00,17:43,Updated,Time changed,4
+1728,Stock & rolling,Metal stock,500.00,True,17:43:00,17:10,Updated,Time changed,4
+1729,Stock & rolling,Metal stock,500.00,False,17:20:00,17:18,Updated,Time changed,4
+1730,Stock & rolling,Metal stock,2500.00,True,17:24:00,17:59,Updated,Time changed,4
+1731,Stock & rolling,Metal stock,500.00,False,17:11:00,17:09,Updated,Time changed,4
+1732,Stock & rolling,Metal stock,500.00,True,17:02:00,17:39,Updated,Time changed,4
+1733,Stock & rolling,Metal stock,500.00,False,17:48:00,17:49,Updated,Time changed,4
+1734,Stock & rolling,Metal stock,500.00,True,17:57:00,17:38,Updated,Time changed,4
+1735,Stock & rolling,Metal stock,500.00,True,17:41:00,17:11,Updated,Time changed,4
+1736,Stock & rolling,Metal stock,500.00,True,17:50:00,17:55,Updated,Time changed,4
+1737,Stock & rolling,Metal stock,500.00,False,17:58:00,17:19,Updated,Time changed,4
+1738,Stock & rolling,Metal stock,500.00,False,17:35:00,17:32,Updated,Time changed,4
+1739,Stock & rolling,Metal stock,2500.00,False,17:03:00,17:22,Updated,Time changed,4
+1740,Stock & rolling,Metal stock,2500.00,False,17:56:00,17:38,Updated,Time changed,4
+1741,Stock & rolling,Metal stock,2500.00,False,17:00:00,17:34,Updated,Time changed,4
+1742,Stock & rolling,Metal stock,2500.00,False,17:49:00,17:28,Updated,Time changed,4
+1743,Stock & rolling,Metal stock,2500.00,False,17:34:00,17:20,Updated,Time changed,4
+1744,Stock & rolling,Metal stock,2500.00,False,17:59:00,17:10,Updated,Time changed,4
+1745,Stock & rolling,Metal stock,1000.00,False,17:09:00,17:29,Updated,Time changed,4
+1746,Stock & rolling,Metal stock,200.00,True,17:07:00,17:59,Updated,Time changed,4
+1747,Stock & rolling,Metal stock,2500.00,False,17:44:00,17:34,Updated,Time changed,4
+1748,Stock & rolling,Metal stock,2500.00,False,17:40:00,17:26,Updated,Time changed,4
+1749,Stock & rolling,Metal stock,2500.00,False,17:40:00,17:15,Updated,Time changed,4
+1750,Stock & rolling,Metal stock,2500.00,False,17:18:00,17:19,Updated,Time changed,4
+1751,Stock & rolling,Metal stock,2500.00,False,17:14:00,17:31,Updated,Time changed,4
+1752,Stock & rolling,Metal stock,2500.00,False,17:51:00,17:02,Updated,Time changed,4
+1753,Stock & rolling,Metal stock,2500.00,False,17:20:00,17:49,Updated,Time changed,4
+1754,Stock & rolling,Metal stock,2500.00,False,17:01:00,17:26,Updated,Time changed,4
+1755,Stock & rolling,Metal stock,2500.00,False,17:59:00,17:21,Updated,Time changed,4
+1756,Stock & rolling,racking,250.00,False,17:42:00,17:19,Updated,Time changed,4
+1757,Stock & rolling,racking,250.00,False,17:38:00,17:30,Updated,Time changed,4
+1758,Stock & rolling,racking,250.00,False,17:31:00,17:22,Updated,Time changed,4
+1759,Stock & rolling,racking,250.00,True,17:40:00,17:56,Updated,Time changed,4
+1760,Stock & rolling,racking,250.00,False,17:10:00,17:19,Updated,Time changed,4
+1761,Stock & rolling,racking,250.00,False,17:14:00,17:12,Updated,Time changed,4
+1762,Stock & rolling,racking,250.00,False,17:14:00,17:04,Updated,Time changed,4
+1763,Stock & rolling,racking,250.00,False,17:16:00,17:45,Updated,Time changed,4
+1764,Stock & rolling,racking,250.00,False,17:57:00,17:07,Updated,Time changed,4
+1765,Stock & rolling,racking,250.00,False,17:23:00,17:46,Updated,Time changed,4
+1766,Stock & rolling,racking,250.00,False,17:57:00,17:20,Updated,Time changed,4
+1767,Stock & rolling,racking,250.00,False,17:16:00,17:54,Updated,Time changed,4
+1768,Stock & rolling,racking,250.00,False,17:01:00,17:40,Updated,Time changed,4
+1769,Stock & rolling,racking,250.00,False,17:08:00,17:14,Updated,Time changed,4
+1770,Stock & rolling,racking,250.00,False,17:22:00,17:59,Updated,Time changed,4
+1771,Stock & rolling,racking,250.00,False,17:35:00,17:24,Updated,Time changed,4
+1772,Stock & rolling,racking,250.00,False,17:01:00,17:59,Updated,Time changed,4
+1773,Stock & rolling,racking,250.00,False,17:30:00,17:17,Updated,Time changed,4
+1774,Stock & rolling,Workshop Inventory,150.00,False,17:34:00,17:22,Updated,Time changed,4
+1775,Warm-up,Cleaning equipment,11.00,True,14:43:00,14:47,Updated,Time changed,1
+1776,Stock & rolling,Metal stock,200.00,False,17:30:00,17:57,Updated,Time changed,4
+1777,Stock & rolling,Workshop Inventory,60.00,True,17:07:00,17:56,Updated,Time changed,4
+1778,Stock & rolling,Workshop Inventory,250.00,False,17:08:00,17:20,Updated,Time changed,4
+1779,Stock & rolling,Workshop Inventory,50.00,False,17:18:00,17:07,Updated,Time changed,4
+1780,Buffer zone,"Machine parts, tools & accessories",20.00,False,14:11:00,16:51,Updated,Time changed,6
+1781,Stock & rolling,Workshop Inventory,100.00,True,17:54:00,17:18,Updated,Time changed,4
+1782,Stock & rolling,Workshop Inventory,100.00,True,17:38:00,17:56,Updated,Time changed,4
+1783,Stock & rolling,Metal stock,20.00,False,17:15:00,17:23,Updated,Time changed,4
+1784,Other machines & welding,Welding parts & accessories,20.00,True,16:33:00,16:27,Updated,Time changed,3
+1785,Buffer zone,"Machine parts, tools & accessories",500.00,True,14:56:00,16:46,Updated,Time changed,6
+1786,Stock & rolling,Workshop Inventory,100.00,False,17:01:00,17:16,Updated,Time changed,4
+1787,Stock & rolling,Workshop Inventory,100.00,True,17:23:00,17:03,Updated,Time changed,4
+1788,Buffer zone,Ladders and stairs,80.00,True,18:22:00,16:38,Updated,Time changed,6
+1789,Stock & rolling,Workshop Inventory,250.00,False,17:33:00,17:40,Updated,Time changed,4
+1790,Warm-up,Pneumatic tools,20.00,True,14:07:00,14:30,Updated,Time changed,1
+1791,Stock & rolling,Workshop Inventory,100.00,False,17:40:00,17:14,Updated,Time changed,4
+1792,Buffer zone,Ladders and stairs,60.00,False,17:13:00,15:04,Updated,Time changed,6
+1793,Office & misc.,Various metalworking,100.00,False,17:09:00,18:57,Updated,Time changed,5
+1794,Stock & rolling,Workshop Inventory,250.00,True,17:34:00,17:38,Updated,Time changed,4
+1795,Stock & rolling,Workshop Inventory,250.00,False,17:59:00,17:36,Updated,Time changed,4
+1796,Top machines,Office inventory,3500.00,True,15:49:00,15:57,Updated,Time changed,2
+1797,Stock & rolling,Workshop Inventory,160.00,False,17:37:00,17:52,Updated,Time changed,4
+1798,Buffer zone,"Machine parts, tools & accessories",1500.00,True,17:48:00,18:25,Updated,Time changed,6
+1799,Buffer zone,"Machine parts, tools & accessories",2500.00,True,16:24:00,18:26,Updated,Time changed,6
+1800,Office & misc.,Various metalworking,2500.00,True,17:52:00,17:41,Updated,Time changed,5
+1801,Buffer zone,"Machine parts, tools & accessories",200.00,True,17:11:00,15:11,Updated,Time changed,6
+1802,Buffer zone,Pressing machines,50.00,False,15:31:00,18:40,Updated,Time changed,6
+1803,Buffer zone,Ladders and stairs,50.00,False,15:46:00,14:43,Updated,Time changed,6
+1804,Buffer zone,Lifting and hoisting equipment,70.00,False,18:06:00,16:53,Updated,Time changed,6
+1805,Stock & rolling,Workshop Inventory,100.00,False,17:12:00,17:41,Updated,Time changed,4
+1806,Stock & rolling,Intern transport,40.00,False,17:48:00,17:28,Updated,Time changed,4
+1807,Stock & rolling,Intern transport,100.00,True,17:04:00,17:49,Updated,Time changed,4
+1808,Stock & rolling,Intern transport,100.00,True,17:28:00,17:01,Updated,Time changed,4
+1809,Stock & rolling,Intern transport,100.00,True,17:49:00,17:19,Updated,Time changed,4
+1810,Stock & rolling,Intern transport,100.00,True,17:52:00,17:43,Updated,Time changed,4
+1811,Stock & rolling,Intern transport,100.00,True,17:14:00,17:19,Updated,Time changed,4
+1812,Stock & rolling,Intern transport,100.00,True,17:33:00,17:18,Updated,Time changed,4
+1813,Stock & rolling,Intern transport,100.00,True,17:07:00,17:19,Updated,Time changed,4
+1814,Buffer zone,"Machine parts, tools & accessories",100.00,True,18:43:00,16:25,Updated,Time changed,6
+1815,Buffer zone,"Machine parts, tools & accessories",100.00,False,15:47:00,14:17,Updated,Time changed,6
+1816,Stock & rolling,Metal stock,250.00,False,17:08:00,17:00,Updated,Time changed,4
+1817,Office & misc.,Various metalworking,2500.00,False,18:12:00,17:02,Updated,Time changed,5
+1818,Office & misc.,Various metalworking,100.00,False,18:58:00,18:29,Updated,Time changed,5
+1819,Top machines,Welding machines,5000.00,False,15:16:00,15:50,Updated,Time changed,2
+1820,Buffer zone,Punching machines,1000.00,False,15:31:00,16:46,Updated,Time changed,6
+1821,Office & misc.,Various metalworking,1000.00,False,18:43:00,18:44,Updated,Time changed,5
+1822,fallback,Grinding machines,,False,14:39:00,17:02,Updated,Time changed,6
+1823,Buffer zone,"Machine parts, tools & accessories",100.00,True,17:36:00,18:10,Updated,Time changed,6
+1824,Buffer zone,"Machine parts, tools & accessories",500.00,False,14:23:00,15:28,Updated,Time changed,6
+1825,Buffer zone,"Machine parts, tools & accessories",400.00,False,17:41:00,18:06,Updated,Time changed,6
+1826,Stock & rolling,Waste containers,300.00,False,17:26:00,17:26,Updated,Time changed,4
+1827,Stock & rolling,Waste containers,200.00,True,17:24:00,17:58,Updated,Time changed,4
+1828,Stock & rolling,Waste containers,200.00,True,17:15:00,17:42,Updated,Time changed,4
+1829,Office & misc.,Various metalworking,100.00,False,18:47:00,17:31,Updated,Time changed,5
+1830,Stock & rolling,Warehouse inventory,1000.00,True,17:14:00,17:46,Updated,Time changed,4
+1831,Stock & rolling,Workshop Inventory,10.00,False,17:26:00,17:19,Updated,Time changed,4
+1832,fallback,Intern transport,,True,14:28:00,17:31,Updated,Time changed,6
+1833,Stock & rolling,Intern transport,1000.00,True,17:18:00,17:14,Updated,Time changed,4
+1834,Stock & rolling,Metal stock,1500.00,False,17:54:00,17:30,Updated,Time changed,4
+1835,Stock & rolling,Warehouse inventory,10.00,False,17:05:00,17:50,Updated,Time changed,4
+1836,Stock & rolling,Warehouse inventory,500.00,False,17:33:00,17:43,Updated,Time changed,4
+1837,Stock & rolling,Metal stock,2500.00,False,17:37:00,17:04,Updated,Time changed,4
+1838,Stock & rolling,Warehouse inventory,10.00,False,17:41:00,17:50,Updated,Time changed,4
+1839,Stock & rolling,Warehouse inventory,10.00,False,17:39:00,17:19,Updated,Time changed,4
+1840,Stock & rolling,Metal stock,250.00,False,17:04:00,17:47,Updated,Time changed,4
+1841,Stock & rolling,Warehouse inventory,600.00,False,17:04:00,17:48,Updated,Time changed,4
+1842,Stock & rolling,Warehouse inventory,10.00,False,17:20:00,17:32,Updated,Time changed,4
+1843,Stock & rolling,Warehouse inventory,400.00,False,17:46:00,17:19,Updated,Time changed,4
+1844,Stock & rolling,Warehouse inventory,400.00,False,17:50:00,17:07,Updated,Time changed,4
+1845,Stock & rolling,Pallets,400.00,False,17:34:00,17:48,Updated,Time changed,4
+1846,Other machines & welding,Processing machines,400.00,False,16:55:00,16:32,Updated,Time changed,3
+1847,Other machines & welding,Processing machines,500.00,False,16:08:00,16:53,Updated,Time changed,3
+1848,Buffer zone,Pressing machines,400.00,False,15:47:00,14:48,Updated,Time changed,6
+1849,Stock & rolling,Pallets,400.00,False,17:49:00,17:15,Updated,Time changed,4
+1850,Office & misc.,Various metalworking,800.00,False,18:44:00,18:24,Updated,Time changed,5
+1851,Stock & rolling,Pallets,400.00,False,17:58:00,17:10,Updated,Time changed,4
+1852,Office & misc.,Office inventory,250.00,True,17:02:00,18:36,Updated,Time changed,5
+1853,Office & misc.,Office inventory,50.00,True,18:49:00,18:30,Updated,Time changed,5
+1854,Office & misc.,Office inventory,50.00,True,17:08:00,17:33,Updated,Time changed,5
+1855,Office & misc.,Office inventory,50.00,True,18:38:00,17:31,Updated,Time changed,5
+1856,Office & misc.,Office inventory,50.00,True,17:30:00,18:23,Updated,Time changed,5
+1857,Office & misc.,Office inventory,75.00,True,17:49:00,17:46,Updated,Time changed,5
+1858,Office & misc.,Office inventory,200.00,True,18:40:00,17:03,Updated,Time changed,5
+1859,Office & misc.,Office inventory,100.00,True,18:47:00,18:40,Updated,Time changed,5
+1860,Office & misc.,Office inventory,50.00,True,17:09:00,18:18,Updated,Time changed,5
+1861,Office & misc.,Office inventory,50.00,False,18:27:00,17:12,Updated,Time changed,5
+1862,Office & misc.,Office inventory,50.00,True,18:06:00,17:42,Updated,Time changed,5
+1863,Office & misc.,Office inventory,75.00,True,18:40:00,18:31,Updated,Time changed,5
+1864,Office & misc.,Office inventory,50.00,True,17:14:00,17:37,Updated,Time changed,5
+1865,Office & misc.,Office inventory,150.00,False,18:48:00,17:29,Updated,Time changed,5
+1866,Office & misc.,Computer & tablets,150.00,True,17:35:00,17:50,Updated,Time changed,5
+1867,Office & misc.,Office inventory,150.00,False,18:19:00,17:21,Updated,Time changed,5
+1868,Office & misc.,Computer & tablets,150.00,True,18:31:00,18:11,Updated,Time changed,5
+1869,Office & misc.,Computer & tablets,150.00,False,18:25:00,18:43,Updated,Time changed,5
+1870,Office & misc.,Computer & tablets,150.00,True,17:09:00,17:32,Updated,Time changed,5
+1871,Office & misc.,Office inventory,150.00,False,17:32:00,17:47,Updated,Time changed,5
+1872,Office & misc.,Computer & tablets,150.00,True,18:21:00,18:18,Updated,Time changed,5
+1873,Office & misc.,Office inventory,50.00,True,18:12:00,17:14,Updated,Time changed,5
+1874,Office & misc.,Office inventory,150.00,False,18:49:00,17:44,Updated,Time changed,5
+1875,Office & misc.,Computer & tablets,150.00,True,18:38:00,18:33,Updated,Time changed,5
+1876,Office & misc.,Office inventory,150.00,False,17:14:00,18:18,Updated,Time changed,5
+1877,Office & misc.,Computer & tablets,150.00,True,17:29:00,17:41,Updated,Time changed,5
+1878,Office & misc.,Office inventory,150.00,False,17:43:00,18:31,Updated,Time changed,5
+1879,Office & misc.,Computer & tablets,150.00,True,18:17:00,18:01,Updated,Time changed,5
+1880,Office & misc.,Office inventory,150.00,False,17:54:00,18:22,Updated,Time changed,5
+1881,Office & misc.,Computer & tablets,150.00,True,18:53:00,18:32,Updated,Time changed,5
+1882,Office & misc.,Office inventory,50.00,True,17:03:00,17:42,Updated,Time changed,5
+1883,Office & misc.,Office inventory,150.00,False,17:20:00,18:32,Updated,Time changed,5
+1884,Office & misc.,Computer & tablets,150.00,True,18:53:00,18:13,Updated,Time changed,5
+1885,Office & misc.,Office inventory,100.00,True,18:31:00,18:45,Updated,Time changed,5
+1886,Office & misc.,Office inventory,50.00,True,17:15:00,18:21,Updated,Time changed,5
+1887,Office & misc.,Office inventory,50.00,False,18:58:00,17:23,Updated,Time changed,5
+1888,Office & misc.,Office inventory,50.00,True,17:33:00,18:11,Updated,Time changed,5
+1889,Office & misc.,Office inventory,50.00,True,18:07:00,17:10,Updated,Time changed,5
+1890,Office & misc.,Office inventory,50.00,True,17:03:00,17:32,Updated,Time changed,5
+1891,Office & misc.,Office inventory,50.00,True,18:16:00,18:12,Updated,Time changed,5
+1892,Office & misc.,Office inventory,50.00,True,17:32:00,17:25,Updated,Time changed,5
+1893,Office & misc.,Office inventory,50.00,True,18:49:00,17:16,Updated,Time changed,5
+1894,Office & misc.,Office inventory,50.00,True,17:28:00,18:13,Updated,Time changed,5
+1895,Office & misc.,"Printers, scanners and Copiers",100.00,False,18:51:00,18:01,Updated,Time changed,5
+1896,Office & misc.,"Printers, scanners and Copiers",900.00,False,17:48:00,18:02,Updated,Time changed,5
+1897,Office & misc.,Office inventory,20.00,False,18:03:00,18:12,Updated,Time changed,5
+1898,Office & misc.,Office inventory,150.00,True,17:51:00,17:58,Updated,Time changed,5
+1899,Office & misc.,"Printers, scanners and Copiers",150.00,False,17:03:00,17:08,Updated,Time changed,5
+1900,Office & misc.,Computer & tablets,150.00,True,17:50:00,17:20,Updated,Time changed,5

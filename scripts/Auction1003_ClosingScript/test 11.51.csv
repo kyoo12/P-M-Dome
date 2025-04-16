@@ -1,0 +1,278 @@
+Lot ID,Title,Rule ID,Subcategory,Estimated,Has Bid,Old Time,New Time,Status,Note
+1160,Edit Electrical cabinets manufacturing,1,Tooling,,False,14:00:00,14:21,DRY RUN,Matched subcategory in rule 1
+1911,Edit 2019 Elumatec TS161/21 sawing machine,2,Sawing machines,2500.00,True,14:00:00,14:27,DRY RUN,Estimate 2500.0 ≥ 1000
+1912,Edit 2019 sawing machine,6,Sawing machines,750.00,True,14:00:00,15:45,DRY RUN,Fallback to Rule 6
+1913,Edit 2019 Fritz Hess FB 1250 S plate milling machine,2,"Turning, Milling machines",2500.00,False,14:00:00,14:59,DRY RUN,Estimate 2500.0 ≥ 1000
+1914,Edit 2019 plate milling machine,2,"Turning, Milling machines",2500.00,False,14:00:00,14:39,DRY RUN,Estimate 2500.0 ≥ 1000
+1915,Edit 2017 Alfra Busbar bending & punching machine,2,Bending & folding machines,2500.00,True,14:00:00,14:47,DRY RUN,Estimate 2500.0 ≥ 1000
+1916,Edit 2012 Alfra Busbar bending & punching machine,2,Bending & folding machines,1500.00,True,14:00:00,14:49,DRY RUN,Estimate 1500.0 ≥ 1000
+1917,Edit 2017 PROMAC BX-834VLB pillar driling machine,2,Drills,1500.00,True,14:00:00,14:14,DRY RUN,Estimate 1500.0 ≥ 1000
+1918,Edit 2010 PROMAC pillar driling machine,2,Drills,1500.00,True,14:00:00,14:00,DRY RUN,Estimate 1500.0 ≥ 1000
+1919,Edit 2020 PROMAC 326BE belt & wheel grinder,2,Grinding machines,1000.00,True,14:00:00,14:00,DRY RUN,Estimate 1000.0 ≥ 1000
+1920,Edit 2020 PROMAC 326BE belt & wheel grinder,2,Grinding machines,1000.00,True,14:00:00,14:16,DRY RUN,Estimate 1000.0 ≥ 1000
+1921,Edit 2014 PROMAC 322BE1 belt & wheel grinder,2,Grinding machines,1000.00,True,14:00:00,14:05,DRY RUN,Estimate 1000.0 ≥ 1000
+1922,Edit 40ft office unit,2,Office units,4500.00,True,14:00:00,14:40,DRY RUN,Estimate 4500.0 ≥ 1000
+1923,Edit 3x 20ft canteen & sanitair unit,2,Office units,10000.00,True,14:00:00,14:15,DRY RUN,Estimate 10000.0 ≥ 1000
+1924,Edit 40ft office unit,2,Office units,2000.00,True,14:00:00,14:35,DRY RUN,Estimate 2000.0 ≥ 1000
+1925,Edit 2019 i-concept IC-100-1300 heat bender,6,Bending & folding machines,500.00,True,14:00:00,16:35,DRY RUN,Fallback to Rule 6
+1926,Edit yellotools power punch punching press,6,Cutting machines,400.00,False,14:00:00,14:18,DRY RUN,Fallback to Rule 6
+1927,Edit 2019 Weidmüller wiring duct cutter,6,Cutting machines,400.00,True,14:00:00,15:11,DRY RUN,Fallback to Rule 6
+1928,Edit Mehring profile puncher,6,Cutting machines,250.00,False,14:00:00,14:43,DRY RUN,Fallback to Rule 6
+1929,Edit Mehring profile cut/puncher,6,Cutting machines,250.00,True,14:00:00,16:32,DRY RUN,Fallback to Rule 6
+1930,Edit Gressel strip bender,6,Bending & folding machines,250.00,True,14:00:00,15:46,DRY RUN,Fallback to Rule 6
+1931,Edit busbars,2,Electrical installation materials,8500.00,False,14:00:00,14:59,DRY RUN,Estimate 8500.0 ≥ 1000
+1932,Edit busbars,5,Electrical installation materials,250.00,False,14:00:00,16:33,DRY RUN,Matched subcategory in rule 5
+1933,Edit busbars scrap/semi Finished,5,Electrical installation materials,250.00,False,14:00:00,16:59,DRY RUN,Matched subcategory in rule 5
+1934,Edit busbars scrap/semi Finished,5,Electrical installation materials,250.00,True,14:00:00,16:04,DRY RUN,Matched subcategory in rule 5
+1935,Edit 5x25mm cable (100m),5,Electrical installation materials,500.00,True,14:00:00,16:38,DRY RUN,Matched subcategory in rule 5
+1936,Edit 5x16mm cable (50m),5,Electrical installation materials,250.00,False,14:00:00,16:21,DRY RUN,Matched subcategory in rule 5
+1937,Edit 5x35mm cable (35m),5,Electrical installation materials,250.00,False,14:00:00,16:19,DRY RUN,Matched subcategory in rule 5
+1938,Edit 5x16mm cable (80m),5,Electrical installation materials,250.00,True,14:00:00,16:55,DRY RUN,Matched subcategory in rule 5
+1939,Edit 5x95mm cable (10m),5,Electrical installation materials,250.00,False,14:00:00,16:17,DRY RUN,Matched subcategory in rule 5
+1940,Edit 5x16mm cable (80m),5,Electrical installation materials,250.00,False,14:00:00,16:03,DRY RUN,Matched subcategory in rule 5
+1941,Edit 5x25mm cable (100m),5,Electrical installation materials,250.00,False,14:00:00,16:09,DRY RUN,Matched subcategory in rule 5
+1942,Edit 5x16mm cable (30m),5,Electrical installation materials,250.00,True,14:00:00,16:46,DRY RUN,Matched subcategory in rule 5
+1943,Edit 5x35mm cable (100m),5,Electrical installation materials,250.00,True,14:00:00,16:31,DRY RUN,Matched subcategory in rule 5
+1944,Edit 5x16mm cable (80m),5,Electrical installation materials,250.00,False,14:00:00,16:38,DRY RUN,Matched subcategory in rule 5
+1945,Edit 5x50mm cable (80m),5,Electrical installation materials,250.00,False,14:00:00,16:42,DRY RUN,Matched subcategory in rule 5
+1946,Edit 5x16mm cable (60m),5,Electrical installation materials,250.00,False,14:00:00,16:35,DRY RUN,Matched subcategory in rule 5
+1947,Edit 5x25mm cable (80m),5,Electrical installation materials,250.00,False,14:00:00,16:25,DRY RUN,Matched subcategory in rule 5
+1948,Edit 5x35mm cable (50m),5,Electrical installation materials,250.00,False,14:00:00,16:41,DRY RUN,Matched subcategory in rule 5
+1949,Edit 5x6mm cable (40m),5,Electrical installation materials,250.00,False,14:00:00,16:30,DRY RUN,Matched subcategory in rule 5
+1950,Edit 5x16mm cable (70m),5,Electrical installation materials,250.00,False,14:00:00,16:29,DRY RUN,Matched subcategory in rule 5
+1951,Edit 5x16mm cable (50m),5,Electrical installation materials,250.00,False,14:00:00,16:13,DRY RUN,Matched subcategory in rule 5
+1952,Edit 5x16mm cable (100m),5,Electrical installation materials,250.00,False,14:00:00,16:34,DRY RUN,Matched subcategory in rule 5
+1953,Edit 5x35mm cable (70m),5,Electrical installation materials,250.00,False,14:00:00,16:25,DRY RUN,Matched subcategory in rule 5
+1954,Edit 5x16mm cable (50m),5,Electrical installation materials,250.00,False,14:00:00,16:59,DRY RUN,Matched subcategory in rule 5
+1955,Edit 5x10mm cable (50m),5,Electrical installation materials,250.00,False,14:00:00,16:52,DRY RUN,Matched subcategory in rule 5
+1956,Edit 5x10mm cable (25m),5,Electrical installation materials,250.00,False,14:00:00,16:02,DRY RUN,Matched subcategory in rule 5
+1957,Edit 5x10mm cable (40m),5,Electrical installation materials,250.00,False,14:00:00,16:41,DRY RUN,Matched subcategory in rule 5
+1958,Edit 5x6mm cable (70m),5,Electrical installation materials,250.00,False,14:00:00,16:54,DRY RUN,Matched subcategory in rule 5
+1959,Edit 5x10mm cable (50m),5,Electrical installation materials,250.00,False,14:00:00,16:05,DRY RUN,Matched subcategory in rule 5
+1960,Edit 5x35mm cable (25m),5,Electrical installation materials,250.00,False,14:00:00,16:27,DRY RUN,Matched subcategory in rule 5
+1961,Edit 1x185mm cable (4x45m),5,Electrical installation materials,250.00,False,14:00:00,16:15,DRY RUN,Matched subcategory in rule 5
+1962,Edit cable reel (2x),5,Electrical installation materials,250.00,False,14:00:00,16:30,DRY RUN,Matched subcategory in rule 5
+1963,Edit 1x185mm cable,5,Electrical installation materials,250.00,False,14:00:00,16:12,DRY RUN,Matched subcategory in rule 5
+1964,Edit 1x185mm cable,5,Electrical installation materials,250.00,False,14:00:00,16:41,DRY RUN,Matched subcategory in rule 5
+1965,Edit 1x150mm cable,5,Electrical installation materials,250.00,False,14:00:00,16:15,DRY RUN,Matched subcategory in rule 5
+1966,Edit 1x70mm cable,5,Electrical installation materials,250.00,False,14:00:00,16:29,DRY RUN,Matched subcategory in rule 5
+1967,Edit 1x150mm cable,5,Electrical installation materials,250.00,False,14:00:00,16:16,DRY RUN,Matched subcategory in rule 5
+1968,Edit Alfra CompactCombi hand hydraulic punch,6,Cutting machines,250.00,True,14:00:00,15:56,DRY RUN,Fallback to Rule 6
+1969,Edit Glassey hydraulic puncher,6,Cutting machines,250.00,True,14:00:00,15:58,DRY RUN,Fallback to Rule 6
+1970,Edit Knipex 1000V tool set,6,Honing machines,350.00,False,14:00:00,16:46,DRY RUN,Fallback to Rule 6
+1971,Edit toolbox,6,Honing machines,150.00,False,14:00:00,15:20,DRY RUN,Fallback to Rule 6
+1972,Edit Zeca 805/10 air reel,4,Workshop Inventory,150.00,False,14:00:00,15:11,DRY RUN,Matched subcategory in rule 4
+1973,Edit Brother MFC-J6540DW inkjet printer,6,Printers and toners,300.00,False,14:00:00,16:37,DRY RUN,Fallback to Rule 6
+1974,Edit Brother E110 lable printer,6,Printers and toners,150.00,True,14:00:00,15:20,DRY RUN,Fallback to Rule 6
+1975,Edit Wago smartprinter thermal transfer printer,6,Printers and toners,150.00,False,14:00:00,15:53,DRY RUN,Fallback to Rule 6
+1976,Edit battery screwdriver (3x),1,Battery tools,150.00,True,14:00:00,14:23,DRY RUN,Matched subcategory in rule 1
+1977,Edit 2015 Haupa SD 300-6 battery crimping press,1,Battery tools,150.00,True,14:00:00,14:07,DRY RUN,Matched subcategory in rule 1
+1978,Edit 2015 Klauke EK60VP/FTCFM battery crimping press,1,Battery tools,750.00,False,14:00:00,14:20,DRY RUN,Matched subcategory in rule 1
+1979,Edit Klein tools tool backpack,6,Honing machines,250.00,True,14:00:00,16:56,DRY RUN,Fallback to Rule 6
+1980,Edit paper cutter (3x),4,Workshop Inventory,30.00,False,14:00:00,15:55,DRY RUN,Matched subcategory in rule 4
+1981,Edit 2022 Hilti VC 40L-X Vacuum cleaner,1,Battery tools,200.00,True,14:00:00,14:25,DRY RUN,Matched subcategory in rule 1
+1982,Edit Kraftwerk Torque wrench (3x),6,Honing machines,100.00,True,14:00:00,14:44,DRY RUN,Fallback to Rule 6
+1983,Edit bosch GSP 85 PE jig saw,1,Battery tools,50.00,True,14:00:00,14:28,DRY RUN,Matched subcategory in rule 1
+1984,Edit Chauvin Arnoux C.A 6160 machine tester,1,Battery tools,50.00,True,14:00:00,14:06,DRY RUN,Matched subcategory in rule 1
+1985,Edit Lista / Weidmüller tool trolley,4,Workshop Inventory,300.00,True,14:00:00,15:40,DRY RUN,Matched subcategory in rule 4
+1986,Edit Lista / Weidmüller tool trolley,4,Workshop Inventory,300.00,True,14:00:00,15:38,DRY RUN,Matched subcategory in rule 4
+1987,Edit Lista / Weidmüller tool trolley,4,Workshop Inventory,300.00,True,14:00:00,15:50,DRY RUN,Matched subcategory in rule 4
+1988,Edit Lista / Weidmüller tool trolley,4,Workshop Inventory,300.00,True,14:00:00,15:30,DRY RUN,Matched subcategory in rule 4
+1989,Edit Lista / Weidmüller tool trolley,4,Workshop Inventory,300.00,True,14:00:00,15:49,DRY RUN,Matched subcategory in rule 4
+1990,Edit Lista / Weidmüller tool trolley,4,Workshop Inventory,300.00,True,14:00:00,15:03,DRY RUN,Matched subcategory in rule 4
+1991,Edit Lista / Weidmüller tool trolley,4,Workshop Inventory,300.00,True,14:00:00,15:02,DRY RUN,Matched subcategory in rule 4
+1992,Edit Lista / Weidmüller tool trolley,4,Workshop Inventory,300.00,True,14:00:00,15:14,DRY RUN,Matched subcategory in rule 4
+1993,Edit Lista / Weidmüller tool trolley,4,Workshop Inventory,300.00,True,14:00:00,15:32,DRY RUN,Matched subcategory in rule 4
+1994,Edit Lista / Weidmüller tool trolley,4,Workshop Inventory,300.00,True,14:00:00,15:18,DRY RUN,Matched subcategory in rule 4
+1995,Edit Lista / Weidmüller tool trolley,4,Workshop Inventory,300.00,True,14:00:00,15:36,DRY RUN,Matched subcategory in rule 4
+1996,Edit Lista / Weidmüller tool trolley,4,Workshop Inventory,300.00,True,14:00:00,15:45,DRY RUN,Matched subcategory in rule 4
+1997,Edit Lista / Weidmüller tool trolley,4,Workshop Inventory,300.00,True,14:00:00,15:19,DRY RUN,Matched subcategory in rule 4
+1998,Edit Lista / Weidmüller tool trolley,4,Workshop Inventory,300.00,True,14:00:00,15:41,DRY RUN,Matched subcategory in rule 4
+1999,Edit Lista / Weidmüller tool trolley,4,Workshop Inventory,300.00,True,14:00:00,15:24,DRY RUN,Matched subcategory in rule 4
+2000,Edit Lista / Weidmüller tool trolley,4,Workshop Inventory,300.00,True,14:00:00,15:20,DRY RUN,Matched subcategory in rule 4
+2001,Edit Lista / Weidmüller tool trolley,4,Workshop Inventory,300.00,True,14:00:00,15:09,DRY RUN,Matched subcategory in rule 4
+2002,Edit Lista / Weidmüller tool trolley,4,Workshop Inventory,300.00,True,14:00:00,15:14,DRY RUN,Matched subcategory in rule 4
+2003,Edit Lista / Weidmüller tool trolley,4,Workshop Inventory,300.00,True,14:00:00,15:19,DRY RUN,Matched subcategory in rule 4
+2004,Edit voltage test set-up,1,Battery tools,300.00,True,14:00:00,14:40,DRY RUN,Matched subcategory in rule 1
+2005,Edit HT fulltest 3 machine test set-up,1,Battery tools,500.00,True,14:00:00,14:52,DRY RUN,Matched subcategory in rule 1
+2006,Edit various tools and installation materials,6,Honing machines,500.00,False,14:00:00,14:06,DRY RUN,Fallback to Rule 6
+2007,Edit cable reels,5,Electrical installation materials,500.00,False,14:00:00,16:50,DRY RUN,Matched subcategory in rule 5
+2008,Edit cable reels,5,Electrical installation materials,500.00,False,14:00:00,16:10,DRY RUN,Matched subcategory in rule 5
+2009,Edit cable reels,5,Electrical installation materials,500.00,False,14:00:00,16:48,DRY RUN,Matched subcategory in rule 5
+2010,Edit trolley (6x),4,Workshop Inventory,100.00,False,14:00:00,15:31,DRY RUN,Matched subcategory in rule 4
+2011,Edit various tools and installation materials,6,Honing machines,500.00,False,14:00:00,16:57,DRY RUN,Fallback to Rule 6
+2012,Edit wooden material stand (10x),6,Machine accessories,50.00,False,14:00:00,15:08,DRY RUN,Fallback to Rule 6
+2013,Edit wooden material stand (20x),6,Machine accessories,50.00,False,14:00:00,15:00,DRY RUN,Fallback to Rule 6
+2014,Edit wooden material stand (40x),6,Machine accessories,50.00,False,14:00:00,15:54,DRY RUN,Fallback to Rule 6
+2015,Edit electrical cabinet components,5,Electrical components,100.00,True,14:00:00,16:00,DRY RUN,Matched subcategory in rule 5
+2016,Edit electrical cabinet components,5,Electrical components,100.00,True,14:00:00,16:39,DRY RUN,Matched subcategory in rule 5
+2017,Edit electrical cabinet components,5,Electrical components,100.00,True,14:00:00,16:58,DRY RUN,Matched subcategory in rule 5
+2018,Edit electrical cabinet components,5,Electrical components,100.00,True,14:00:00,16:36,DRY RUN,Matched subcategory in rule 5
+2019,Edit electrical cabinet components,5,Electrical components,100.00,True,14:00:00,16:50,DRY RUN,Matched subcategory in rule 5
+2020,Edit electrical cabinet components,5,Electrical components,100.00,True,14:00:00,16:42,DRY RUN,Matched subcategory in rule 5
+2021,Edit storage rack,4,racking,100.00,False,14:00:00,15:06,DRY RUN,Matched subcategory in rule 4
+2022,Edit electrical cabinet components,5,Electrical components,100.00,True,14:00:00,16:01,DRY RUN,Matched subcategory in rule 5
+2023,Edit storage rack,4,racking,100.00,False,14:00:00,15:44,DRY RUN,Matched subcategory in rule 4
+2024,Edit sonnenkonig mobile airconditioning,4,Workshop Inventory,50.00,False,14:00:00,15:48,DRY RUN,Matched subcategory in rule 4
+2025,Edit 2020 Fiac air compressor,4,Workshop Inventory,150.00,False,14:00:00,15:02,DRY RUN,Matched subcategory in rule 4
+2026,Edit storage rack,4,racking,100.00,True,14:00:00,15:10,DRY RUN,Matched subcategory in rule 4
+2027,Edit Promerka cabinet with content,4,Workshop Inventory,100.00,False,14:00:00,15:50,DRY RUN,Matched subcategory in rule 4
+2028,Edit aluminium profiles,4,Metal stock,500.00,False,14:00:00,15:43,DRY RUN,Matched subcategory in rule 4
+2029,Edit cantilever rack,4,racking,150.00,False,14:00:00,15:46,DRY RUN,Matched subcategory in rule 4
+2030,Edit cantilever rack,4,racking,150.00,False,14:00:00,15:02,DRY RUN,Matched subcategory in rule 4
+2031,Edit workbench,6,Machine accessories,50.00,True,14:00:00,16:35,DRY RUN,Fallback to Rule 6
+2032,Edit cantilever rack,4,racking,150.00,False,14:00:00,15:27,DRY RUN,Matched subcategory in rule 4
+2033,"Edit wiring ducts, aluminium profiles, installation material",5,Electrical installation materials,350.00,True,14:00:00,16:08,DRY RUN,Matched subcategory in rule 5
+2034,Edit cantilever rack,4,racking,150.00,False,14:00:00,15:12,DRY RUN,Matched subcategory in rule 4
+2035,Edit aluminium profiles,4,Metal stock,300.00,False,14:00:00,15:51,DRY RUN,Matched subcategory in rule 4
+2036,Edit cantilever rack,4,racking,200.00,False,14:00:00,15:40,DRY RUN,Matched subcategory in rule 4
+2037,Edit electrical cabinet components,5,Electrical components,200.00,False,14:00:00,16:50,DRY RUN,Matched subcategory in rule 5
+2038,Edit electrical cabinet components,5,Electrical components,200.00,False,14:00:00,16:37,DRY RUN,Matched subcategory in rule 5
+2039,Edit electrical cabinet components,5,Electrical components,200.00,False,14:00:00,16:16,DRY RUN,Matched subcategory in rule 5
+2040,Edit electrical cabinet components,5,Electrical components,200.00,False,14:00:00,16:29,DRY RUN,Matched subcategory in rule 5
+2041,Edit electrical cabinet components,5,Electrical components,200.00,False,14:00:00,16:13,DRY RUN,Matched subcategory in rule 5
+2042,Edit electrical cabinet components,5,Electrical components,200.00,True,14:00:00,16:02,DRY RUN,Matched subcategory in rule 5
+2043,Edit electrical cabinet components,5,Electrical components,200.00,True,14:00:00,16:23,DRY RUN,Matched subcategory in rule 5
+2044,Edit electrical cabinet components,5,Electrical components,200.00,True,14:00:00,16:01,DRY RUN,Matched subcategory in rule 5
+2045,Edit electrical cabinet components,5,Electrical components,200.00,False,14:00:00,16:41,DRY RUN,Matched subcategory in rule 5
+2046,Edit electrical cabinet components,5,Electrical components,200.00,False,14:00:00,16:32,DRY RUN,Matched subcategory in rule 5
+2047,Edit electrical cabinet components,5,Electrical components,200.00,False,14:00:00,16:03,DRY RUN,Matched subcategory in rule 5
+2048,Edit electrical cabinet components,5,Electrical components,200.00,False,14:00:00,16:52,DRY RUN,Matched subcategory in rule 5
+2049,Edit electrical cabinet components,5,Electrical components,200.00,False,14:00:00,16:28,DRY RUN,Matched subcategory in rule 5
+2050,Edit electrical cabinet components,5,Electrical components,200.00,False,14:00:00,16:26,DRY RUN,Matched subcategory in rule 5
+2051,Edit electrical cabinet components,5,Electrical components,200.00,False,14:00:00,16:22,DRY RUN,Matched subcategory in rule 5
+2052,Edit electrical cabinet components,5,Electrical components,200.00,True,14:00:00,16:22,DRY RUN,Matched subcategory in rule 5
+2053,Edit electrical cabinet components,5,Electrical components,200.00,True,14:00:00,16:11,DRY RUN,Matched subcategory in rule 5
+2054,Edit storage cabinet (15x),4,racking,200.00,False,14:00:00,15:05,DRY RUN,Matched subcategory in rule 4
+2055,Edit storage racking,4,racking,200.00,False,14:00:00,15:55,DRY RUN,Matched subcategory in rule 4
+2056,Edit electrical cabinet components,5,Electrical components,200.00,False,14:00:00,16:50,DRY RUN,Matched subcategory in rule 5
+2057,Edit various tools and cabinet components,5,Electrical components,100.00,False,14:00:00,16:12,DRY RUN,Matched subcategory in rule 5
+2058,Edit various tools and equipment,6,Honing machines,100.00,False,14:00:00,14:11,DRY RUN,Fallback to Rule 6
+2059,Edit various tools and equipment,6,Honing machines,100.00,False,14:00:00,15:02,DRY RUN,Fallback to Rule 6
+2060,Edit various tools and equipment,6,Honing machines,100.00,False,14:00:00,15:48,DRY RUN,Fallback to Rule 6
+2061,Edit various tools and equipment,6,Honing machines,100.00,True,14:00:00,14:20,DRY RUN,Fallback to Rule 6
+2062,Edit various tools and equipment,6,Honing machines,100.00,False,14:00:00,15:34,DRY RUN,Fallback to Rule 6
+2063,Edit various tools and equipment,6,Honing machines,100.00,False,14:00:00,15:34,DRY RUN,Fallback to Rule 6
+2064,Edit storage cabinet (23x),4,racking,350.00,False,14:00:00,15:51,DRY RUN,Matched subcategory in rule 4
+2065,Edit SES wiring ducks,5,Electrical installation materials,250.00,False,14:00:00,16:04,DRY RUN,Matched subcategory in rule 5
+2066,Edit cantilever rack,4,racking,150.00,True,14:00:00,15:15,DRY RUN,Matched subcategory in rule 4
+2067,Edit milling-engraving machine,6,"Turning, Milling machines",100.00,True,14:00:00,14:54,DRY RUN,Fallback to Rule 6
+2068,Edit danfoss VLT frequency controller (2x),5,Electrical components,350.00,False,14:00:00,16:58,DRY RUN,Matched subcategory in rule 5
+2069,Edit 2022 W15IK35-PPA4 control panel,5,Electrical components,300.00,False,14:00:00,16:52,DRY RUN,Matched subcategory in rule 5
+2070,Edit 2023 schneider NSX 400F circuit breaker,5,Electrical components,400.00,True,14:00:00,16:34,DRY RUN,Matched subcategory in rule 5
+2071,Edit electrical cabinet components,5,Electrical components,300.00,True,14:00:00,16:01,DRY RUN,Matched subcategory in rule 5
+2072,Edit electrical cabinet components,5,Electrical components,200.00,False,14:00:00,16:18,DRY RUN,Matched subcategory in rule 5
+2073,Edit electrical cabinet components,5,Electrical components,200.00,False,14:00:00,16:49,DRY RUN,Matched subcategory in rule 5
+2074,Edit semi Finished electrical cabinets and parts,2,Electrical components,2500.00,False,14:00:00,14:04,DRY RUN,Estimate 2500.0 ≥ 1000
+2075,Edit electrical cabinet components,5,Electrical components,200.00,False,14:00:00,16:14,DRY RUN,Matched subcategory in rule 5
+2076,Edit storage rack,4,racking,100.00,False,14:00:00,15:49,DRY RUN,Matched subcategory in rule 4
+2077,Edit electrical cabinet components,5,Electrical components,200.00,True,14:00:00,16:40,DRY RUN,Matched subcategory in rule 5
+2078,Edit storage rack,4,racking,100.00,False,14:00:00,15:54,DRY RUN,Matched subcategory in rule 4
+2079,Edit electrical cabinet parts,5,Electrical components,20.00,True,14:00:00,16:00,DRY RUN,Matched subcategory in rule 5
+2080,Edit Pallet rack,4,racking,100.00,True,14:00:00,15:29,DRY RUN,Matched subcategory in rule 4
+2081,Edit electrical cabinet components and parts,5,Electrical components,200.00,False,14:00:00,16:57,DRY RUN,Matched subcategory in rule 5
+2082,Edit storage rack,4,racking,100.00,False,14:00:00,15:11,DRY RUN,Matched subcategory in rule 4
+2083,Edit electrical cabinet components and parts,5,Electrical components,200.00,False,14:00:00,16:53,DRY RUN,Matched subcategory in rule 5
+2084,Edit storage rack,4,racking,100.00,False,14:00:00,15:25,DRY RUN,Matched subcategory in rule 4
+2085,Edit electrical cabinet components,5,Electrical components,450.00,False,14:00:00,16:59,DRY RUN,Matched subcategory in rule 5
+2086,Edit electrical cabinet parts,5,Electrical installation materials,20.00,False,14:00:00,16:37,DRY RUN,Matched subcategory in rule 5
+2087,Edit electrical cabinet,5,Electrical installation materials,100.00,False,14:00:00,16:12,DRY RUN,Matched subcategory in rule 5
+2088,Edit electrical cabinet (5x),5,Electrical installation materials,100.00,True,14:00:00,16:20,DRY RUN,Matched subcategory in rule 5
+2089,Edit electrical cabinet (4x),5,Electrical installation materials,100.00,True,14:00:00,16:40,DRY RUN,Matched subcategory in rule 5
+2090,Edit Teknomega mass cables,5,Electrical installation materials,250.00,False,14:00:00,16:55,DRY RUN,Matched subcategory in rule 5
+2091,Edit cabinet profiles,5,Electrical installation materials,20.00,False,14:00:00,16:20,DRY RUN,Matched subcategory in rule 5
+2092,Edit cables,4,Metal stock,250.00,False,14:00:00,15:25,DRY RUN,Matched subcategory in rule 4
+2093,Edit electrical cabinet components,5,Electrical components,450.00,False,14:00:00,16:28,DRY RUN,Matched subcategory in rule 5
+2094,Edit steel plates,4,Metal stock,20.00,False,14:00:00,15:00,DRY RUN,Matched subcategory in rule 4
+2095,Edit Demelectric eclctrical distribution cabinet,5,Electrical installation materials,250.00,False,14:00:00,16:16,DRY RUN,Matched subcategory in rule 5
+2096,Edit Demelectric eclctrical distribution cabinet,5,Electrical installation materials,250.00,False,14:00:00,16:15,DRY RUN,Matched subcategory in rule 5
+2097,Edit Demelectric eclctrical distribution cabinet (2x),5,Electrical installation materials,250.00,False,14:00:00,16:18,DRY RUN,Matched subcategory in rule 5
+2098,Edit 2019 neslift SR 1500 SX stacker,2,internal transportation,1500.00,True,14:00:00,14:13,DRY RUN,Estimate 1500.0 ≥ 1000
+2099,Edit 2021 Seco K-968925-PX006 scale pallet truck,6,internal transportation,800.00,True,14:00:00,14:46,DRY RUN,Fallback to Rule 6
+2100,Edit 2010 hand pallet truck,6,internal transportation,250.00,True,14:00:00,14:02,DRY RUN,Fallback to Rule 6
+2101,Edit 2022 Seco 41-480552-CR004 highlifter pallet truck,6,internal transportation,350.00,True,14:00:00,16:41,DRY RUN,Fallback to Rule 6
+2102,Edit Warehouse boxes,4,Workshop Inventory,50.00,False,14:00:00,15:11,DRY RUN,Matched subcategory in rule 4
+2103,Edit trolley,6,internal transportation,50.00,False,14:00:00,14:24,DRY RUN,Fallback to Rule 6
+2104,Edit Lista Trolley,4,Workshop Inventory,50.00,False,14:00:00,15:34,DRY RUN,Matched subcategory in rule 4
+2105,Edit Lista Trolley,4,Workshop Inventory,50.00,False,14:00:00,15:48,DRY RUN,Matched subcategory in rule 4
+2106,Edit Installation material,5,Electrical installation materials,525.00,True,14:00:00,16:25,DRY RUN,Matched subcategory in rule 5
+2107,Edit Lista Cabinet,4,Workshop Inventory,200.00,True,14:00:00,15:18,DRY RUN,Matched subcategory in rule 4
+2108,Edit Installation material,5,Electrical installation materials,525.00,True,14:00:00,16:48,DRY RUN,Matched subcategory in rule 5
+2109,Edit Lista Cabinet (2x),4,Workshop Inventory,200.00,True,14:00:00,15:28,DRY RUN,Matched subcategory in rule 4
+2110,Edit Various hand tools,6,Honing machines,100.00,False,14:00:00,16:48,DRY RUN,Fallback to Rule 6
+2111,Edit Assortment boxes,5,Electrical installation materials,550.00,True,14:00:00,16:11,DRY RUN,Matched subcategory in rule 5
+2112,Edit Pallet rack,4,racking,100.00,False,14:00:00,15:32,DRY RUN,Matched subcategory in rule 4
+2113,Edit Trolley,6,internal transportation,10.00,False,14:00:00,16:11,DRY RUN,Fallback to Rule 6
+2114,Edit Trolley,6,internal transportation,10.00,True,14:00:00,15:48,DRY RUN,Fallback to Rule 6
+2115,Edit Trolley,6,internal transportation,10.00,False,14:00:00,16:56,DRY RUN,Fallback to Rule 6
+2116,Edit Trolley (2x),6,internal transportation,10.00,False,14:00:00,14:26,DRY RUN,Fallback to Rule 6
+2117,Edit Workbench (2x),6,Machine accessories,11.00,False,14:00:00,15:41,DRY RUN,Fallback to Rule 6
+2118,Edit Workbench (3x),6,Machine accessories,11.00,False,14:00:00,15:53,DRY RUN,Fallback to Rule 6
+2119,Edit Workbench,6,Machine accessories,11.00,True,14:00:00,16:45,DRY RUN,Fallback to Rule 6
+2120,Edit workbench (2x),6,Machine accessories,150.00,True,14:00:00,14:59,DRY RUN,Fallback to Rule 6
+2121,Edit workbench (2x),6,Machine accessories,150.00,True,14:00:00,14:34,DRY RUN,Fallback to Rule 6
+2122,Edit workbench (2x),6,Machine accessories,150.00,True,14:00:00,15:39,DRY RUN,Fallback to Rule 6
+2123,Edit workbench (2x),6,Machine accessories,150.00,False,14:00:00,15:02,DRY RUN,Fallback to Rule 6
+2124,Edit workbench (4x),6,Machine accessories,150.00,True,14:00:00,14:29,DRY RUN,Fallback to Rule 6
+2125,Edit workbench (3x),6,Machine accessories,150.00,True,14:00:00,16:11,DRY RUN,Fallback to Rule 6
+2126,Edit transport trolley (3x),6,internal transportation,150.00,False,14:00:00,16:08,DRY RUN,Fallback to Rule 6
+2127,Edit Almatec 3-door locker cabinet (2x),4,Workshop Inventory,150.00,False,14:00:00,15:11,DRY RUN,Matched subcategory in rule 4
+2128,Edit 2-door locker cabinet (6x),4,Workshop Inventory,150.00,True,14:00:00,15:02,DRY RUN,Matched subcategory in rule 4
+2129,Edit brother MFC-J6930DW printer,6,Printers and toners,300.00,False,14:00:00,14:05,DRY RUN,Fallback to Rule 6
+2130,Edit label printer (2x),6,Printers and toners,250.00,True,14:00:00,15:36,DRY RUN,Fallback to Rule 6
+2131,Edit Weidmüller THM MultiMark lable printer,6,Printers and toners,250.00,True,14:00:00,15:17,DRY RUN,Fallback to Rule 6
+2132,Edit Weidmüller PrintJet Advanced lable printer,6,Printers and toners,350.00,False,14:00:00,15:42,DRY RUN,Fallback to Rule 6
+2133,Edit Weidmüller PrintJet Advanced lable printer,6,Printers and toners,350.00,False,14:00:00,15:47,DRY RUN,Fallback to Rule 6
+2134,Edit brother MFC-J6920DW printer,6,Printers and toners,300.00,False,14:00:00,14:30,DRY RUN,Fallback to Rule 6
+2135,Edit Weidmüller THM MultiMark lable printer (2x),6,Printers and toners,250.00,True,14:00:00,15:39,DRY RUN,Fallback to Rule 6
+2136,Edit label printer (2x),6,Printers and toners,250.00,True,14:00:00,15:58,DRY RUN,Fallback to Rule 6
+2137,Edit IT set-up (2x),5,IT equipment,100.00,True,14:00:00,16:34,DRY RUN,Matched subcategory in rule 5
+2138,Edit workbench (2x),4,Workshop Inventory,20.00,False,14:00:00,15:22,DRY RUN,Matched subcategory in rule 4
+2139,Edit brother MFC-J6947DW printer,6,Printers and toners,300.00,False,14:00:00,16:43,DRY RUN,Fallback to Rule 6
+2140,Edit IT set-up,5,IT equipment,50.00,True,14:00:00,16:22,DRY RUN,Matched subcategory in rule 5
+2141,Edit IT set-up,5,IT equipment,150.00,True,14:00:00,16:20,DRY RUN,Matched subcategory in rule 5
+2142,Edit IT set-up,5,IT equipment,150.00,True,14:00:00,16:08,DRY RUN,Matched subcategory in rule 5
+2143,Edit HP probook 445 G8 laptop,5,IT equipment,450.00,True,14:00:00,16:29,DRY RUN,Matched subcategory in rule 5
+2144,Edit IT set-up,5,IT equipment,100.00,True,14:00:00,16:42,DRY RUN,Matched subcategory in rule 5
+2145,Edit IT set-up,5,IT equipment,100.00,True,14:00:00,16:24,DRY RUN,Matched subcategory in rule 5
+2146,Edit IT set-up (2x),5,IT equipment,100.00,True,14:00:00,16:02,DRY RUN,Matched subcategory in rule 5
+2147,Edit IT set-up (4x),5,IT equipment,100.00,True,14:00:00,16:09,DRY RUN,Matched subcategory in rule 5
+2148,Edit desk set-up (2x),5,IT equipment,350.00,False,14:00:00,16:43,DRY RUN,Matched subcategory in rule 5
+2149,Edit desk set-up (2x),5,IT equipment,350.00,False,14:00:00,16:43,DRY RUN,Matched subcategory in rule 5
+2150,Edit desk set-up (4x),5,IT equipment,350.00,True,14:00:00,16:46,DRY RUN,Matched subcategory in rule 5
+2151,Edit office cabinet (2x),5,Office inventory,150.00,False,14:00:00,16:05,DRY RUN,Matched subcategory in rule 5
+2152,Edit USM haller office cabinet,5,Office inventory,150.00,True,14:00:00,16:47,DRY RUN,Matched subcategory in rule 5
+2153,Edit office lamp,5,Office inventory,100.00,False,14:00:00,16:44,DRY RUN,Matched subcategory in rule 5
+2154,Edit office furniture,5,Office inventory,20.00,False,14:00:00,16:39,DRY RUN,Matched subcategory in rule 5
+2155,Edit HP 780QMTI elitebook laptop,5,IT equipment,600.00,True,14:00:00,16:57,DRY RUN,Matched subcategory in rule 5
+2156,Edit HP probook 450 G7 laptop,5,IT equipment,300.00,True,14:00:00,16:00,DRY RUN,Matched subcategory in rule 5
+2157,Edit 2021 Asus FX706H laptop,5,IT equipment,350.00,True,14:00:00,16:29,DRY RUN,Matched subcategory in rule 5
+2158,Edit 2020 ITW minirapid AL fast rolling door,4,Workshop Inventory,400.00,False,14:00:00,15:22,DRY RUN,Matched subcategory in rule 4
+2159,Edit 2023 schneider circuit breakers,5,Electrical components,250.00,False,14:00:00,16:21,DRY RUN,Matched subcategory in rule 5
+2160,Edit 2022 schneider NSX 100N circuit breaker,5,Electrical components,250.00,False,14:00:00,16:07,DRY RUN,Matched subcategory in rule 5
+2161,Edit 2023 schneider NSX 250F circuit breaker,5,Electrical components,250.00,False,14:00:00,16:45,DRY RUN,Matched subcategory in rule 5
+2162,Edit 2024 schneider NSX 160F circuit breaker,5,Electrical components,250.00,False,14:00:00,16:48,DRY RUN,Matched subcategory in rule 5
+2163,Edit 2023 schneider NSX 100F circuit breaker,5,Electrical components,250.00,False,14:00:00,16:43,DRY RUN,Matched subcategory in rule 5
+2164,Edit 2023 schneider NSX 160F circuit breaker (2x),5,Electrical components,250.00,False,14:00:00,16:06,DRY RUN,Matched subcategory in rule 5
+2165,Edit 2023 schneider NSX 160F circuit breaker,5,Electrical components,250.00,False,14:00:00,16:52,DRY RUN,Matched subcategory in rule 5
+2166,Edit 2024 schneider NSX 400F circuit breaker,5,Electrical components,250.00,False,14:00:00,16:28,DRY RUN,Matched subcategory in rule 5
+2167,Edit 2023 schneider NSX 250F circuit breaker,5,Electrical components,250.00,False,14:00:00,16:38,DRY RUN,Matched subcategory in rule 5
+2168,Edit 2023 schneider MTZ1-10 H1 circuit breaker,5,Electrical components,250.00,False,14:00:00,16:00,DRY RUN,Matched subcategory in rule 5
+2169,Edit 2022 schneider NSX 100B circuit breaker,5,Electrical components,150.00,False,14:00:00,16:33,DRY RUN,Matched subcategory in rule 5
+2170,Edit 2024 schneider NSX 100B circuit breaker,5,Electrical components,150.00,False,14:00:00,16:37,DRY RUN,Matched subcategory in rule 5
+2171,Edit 2020 schneider NSX 160F circuit breaker,5,Electrical components,150.00,False,14:00:00,16:43,DRY RUN,Matched subcategory in rule 5
+2172,Edit 2023 schneider NSX 160F circuit breaker,5,Electrical components,150.00,False,14:00:00,16:16,DRY RUN,Matched subcategory in rule 5
+2173,Edit 2022 schneider NSX 250N circuit breaker,5,Electrical components,150.00,False,14:00:00,16:06,DRY RUN,Matched subcategory in rule 5
+2174,Edit schneider NSX 400n circuit breaker,5,Electrical components,150.00,False,14:00:00,16:54,DRY RUN,Matched subcategory in rule 5
+2175,Edit schneider NSX 400F circuit breaker,5,Electrical components,150.00,False,14:00:00,16:08,DRY RUN,Matched subcategory in rule 5
+2176,Edit 2023 schneider NSX 400F circuit breaker,5,Electrical components,250.00,False,14:00:00,16:26,DRY RUN,Matched subcategory in rule 5
+2177,Edit 2024 schneider NS800 N circuit breaker,5,Electrical components,250.00,False,14:00:00,16:43,DRY RUN,Matched subcategory in rule 5
+2178,Edit siemens 3VA2 circuit breaker (3x),5,Electrical components,250.00,False,14:00:00,16:33,DRY RUN,Matched subcategory in rule 5
+2179,Edit siemens 3VA2 circuit breaker,5,Electrical components,250.00,False,14:00:00,16:17,DRY RUN,Matched subcategory in rule 5
+2180,Edit siemens 3VA2 circuit breaker (3x),5,Electrical components,250.00,False,14:00:00,16:44,DRY RUN,Matched subcategory in rule 5
+2181,Edit siemens 3VA1 circuit breaker,5,Electrical components,150.00,False,14:00:00,16:05,DRY RUN,Matched subcategory in rule 5
+2182,Edit siemens 3VA2 circuit breaker,5,Electrical components,250.00,False,14:00:00,16:14,DRY RUN,Matched subcategory in rule 5
+2183,Edit siemens 3VA2 circuit breaker,5,Electrical components,250.00,False,14:00:00,16:51,DRY RUN,Matched subcategory in rule 5
+2184,Edit siemens 3VA2 circuit breaker (2x),5,Electrical components,250.00,False,14:00:00,16:56,DRY RUN,Matched subcategory in rule 5
+2185,Edit siemens 3VA2 circuit breaker,5,Electrical components,250.00,False,14:00:00,16:54,DRY RUN,Matched subcategory in rule 5
+2186,Edit Nvent Hoffman electrical cabinet (6x),5,Electrical installation materials,250.00,False,14:00:00,16:24,DRY RUN,Matched subcategory in rule 5

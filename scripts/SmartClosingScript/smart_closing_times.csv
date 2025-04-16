@@ -1,0 +1,750 @@
+Lot ID,Category,Subcategory,Estimated Price,Has Bid,Old Time,New Time,Status,Note,Rule ID
+1149,Expensive,Laser cutting machines,180000.00,False,14:00:00,16:29,DRY RUN,No change made,5
+1150,Expensive,Punching machines,100000.00,False,14:00:00,16:17,DRY RUN,No change made,5
+1151,Workshop/Tools,Tooling,15000.00,False,14:01:00,17:08,DRY RUN,No change made,2
+1152,Expensive,Stock storage,50000.00,False,14:01:00,16:08,DRY RUN,No change made,5
+1153,Expensive,Press brakes,50000.00,True,14:01:00,16:18,DRY RUN,No change made,5
+1154,Expensive,Press brakes,5000.00,True,14:02:00,16:51,DRY RUN,No change made,5
+1155,Warm-up,Press brakes,2500.00,True,14:02:00,14:42,DRY RUN,No change made,3
+1156,Expensive,CNC machining center,55000.00,True,14:03:00,16:07,DRY RUN,No change made,5
+1157,Expensive,Waterjet cutting machines,25000.00,False,14:03:00,16:22,DRY RUN,No change made,5
+1158,Expensive,Deburring machines,5000.00,True,14:03:00,16:52,DRY RUN,No change made,5
+1162,Expensive,Punching machines,7500.00,False,14:04:00,16:39,DRY RUN,No change made,5
+1163,Expensive,Bending & folding machines,7500.00,True,14:04:00,16:01,DRY RUN,No change made,5
+1164,Expensive,Bending & folding machines,4500.00,True,14:05:00,16:22,DRY RUN,No change made,5
+1165,Warm-up,Punching machines,3500.00,True,14:05:00,14:12,DRY RUN,No change made,3
+1166,Expensive,Sawing machines,7500.00,True,14:05:00,16:00,DRY RUN,No change made,5
+1167,Warm-up,Deburring machines,1500.00,True,14:06:00,14:34,DRY RUN,No change made,3
+1168,Warm-up,Sawing machines,2500.00,True,14:06:00,14:51,DRY RUN,No change made,3
+1169,Warm-up,"Machine parts, tools & accessories",2500.00,True,14:07:00,14:11,DRY RUN,No change made,3
+1170,Expensive,Sawing machines,7500.00,True,14:07:00,16:28,DRY RUN,No change made,5
+1171,Warm-up,Lathe machine,2500.00,True,14:07:00,14:35,DRY RUN,No change made,3
+1172,Warm-up,Sawing machines,1000.00,True,14:08:00,14:41,DRY RUN,No change made,3
+1173,Warm-up,Cutting machines,3000.00,True,14:08:00,14:01,DRY RUN,No change made,3
+1174,Warm-up,Punching machines,2000.00,True,14:09:00,14:18,DRY RUN,No change made,3
+1175,Warm-up,Pressing machines,400.00,True,14:09:00,14:45,DRY RUN,No change made,3
+1176,Warm-up,Pressing machines,1500.00,True,14:09:00,14:11,DRY RUN,No change made,3
+1177,Warm-up,Roll bending machines,1500.00,True,14:10:00,14:18,DRY RUN,No change made,3
+1178,Warm-up,Bending & folding machines,300.00,True,14:10:00,14:39,DRY RUN,No change made,3
+1179,Small Machine,Vertical machining centers,150.00,False,14:11:00,15:11,DRY RUN,No change made,4
+1180,Warm-up,Grinding machines,250.00,True,14:11:00,14:42,DRY RUN,No change made,3
+1181,Warm-up,Grinding machines,250.00,True,14:11:00,14:02,DRY RUN,No change made,3
+1182,Warm-up,Sawing machines,200.00,True,14:12:00,14:50,DRY RUN,No change made,3
+1183,Warm-up,Grinding machines,200.00,True,14:12:00,14:57,DRY RUN,No change made,3
+1184,Warm-up,Flanging machine,200.00,True,14:13:00,14:57,DRY RUN,No change made,3
+1185,Warm-up,Processing machines,250.00,True,14:13:00,14:31,DRY RUN,No change made,3
+1186,Warm-up,Compressors,150.00,True,14:13:00,14:08,DRY RUN,No change made,3
+1187,Warm-up,Bending & folding machines,1000.00,True,14:14:00,14:12,DRY RUN,No change made,3
+1188,Small Machine,Bending & folding machines,500.00,False,14:14:00,15:12,DRY RUN,No change made,4
+1189,Small Machine,Sawing machines,500.00,False,14:15:00,15:11,DRY RUN,No change made,4
+1190,Small Machine,Sawing machines,500.00,False,14:15:00,15:07,DRY RUN,No change made,4
+1191,Warm-up,Sawing machines,500.00,True,14:15:00,14:06,DRY RUN,No change made,3
+1192,Small Machine,Sawing machines,500.00,False,14:16:00,15:40,DRY RUN,No change made,4
+1193,Expensive,Fastening machines,7500.00,True,14:16:00,16:53,DRY RUN,No change made,5
+1194,Small Machine,Cutting machines,300.00,False,14:17:00,15:46,DRY RUN,No change made,4
+1195,Warm-up,Sawing machines,3500.00,True,14:17:00,14:08,DRY RUN,No change made,3
+1196,Warm-up,Punching machines,750.00,True,14:17:00,14:47,DRY RUN,No change made,3
+1197,Warm-up,Pressing machines,500.00,True,14:18:00,14:53,DRY RUN,No change made,3
+1198,Warm-up,Roll bending machines,1500.00,True,14:18:00,14:00,DRY RUN,No change made,3
+1199,Small Machine,Roll bending machines,500.00,False,14:19:00,15:51,DRY RUN,No change made,4
+1200,Warm-up,Roll bending machines,1500.00,True,14:19:00,14:38,DRY RUN,No change made,3
+1201,Warm-up,Roll bending machines,1250.00,True,14:19:00,14:24,DRY RUN,No change made,3
+1202,Warm-up,Roll bending machines,300.00,True,14:20:00,14:32,DRY RUN,No change made,3
+1203,Small Machine,Roll bending machines,500.00,False,14:20:00,15:09,DRY RUN,No change made,4
+1204,Small Machine,Edging machines,500.00,False,14:21:00,15:34,DRY RUN,No change made,4
+1205,Warm-up,Various metalworking,300.00,True,14:21:00,14:09,DRY RUN,No change made,3
+1206,Small Machine,Various metalworking,500.00,False,14:21:00,15:40,DRY RUN,No change made,4
+1207,Small Machine,Roll bending machines,1500.00,False,14:22:00,15:07,DRY RUN,No change made,4
+1208,Small Machine,Pressing machines,750.00,False,14:22:00,15:30,DRY RUN,No change made,4
+1209,Small Machine,Cutting machines,500.00,False,14:23:00,15:20,DRY RUN,No change made,4
+1210,Expensive,Welding machines,5000.00,False,14:23:00,16:15,DRY RUN,No change made,5
+1211,Expensive,Welding machines,10000.00,False,14:23:00,16:32,DRY RUN,No change made,5
+1212,Expensive,Welding machines,8000.00,False,14:24:00,16:00,DRY RUN,No change made,5
+1213,Expensive,Welding machines,10000.00,True,14:24:00,16:36,DRY RUN,No change made,5
+1214,Warm-up,Welding machines,1500.00,True,14:25:00,14:27,DRY RUN,No change made,3
+1215,Small Machine,Welding machines,1500.00,False,14:25:00,15:30,DRY RUN,No change made,4
+1216,Small Machine,Welding machines,1200.00,False,14:25:00,15:23,DRY RUN,No change made,4
+1217,Small Machine,Welding machines,1500.00,False,14:26:00,15:13,DRY RUN,No change made,4
+1218,Small Machine,Welding machines,1500.00,False,14:26:00,15:36,DRY RUN,No change made,4
+1219,Warm-up,Welding machines,2000.00,True,14:27:00,14:07,DRY RUN,No change made,3
+1220,Warm-up,Welding machines,2000.00,True,14:27:00,14:17,DRY RUN,No change made,3
+1221,Warm-up,Welding machines,2000.00,True,14:27:00,14:51,DRY RUN,No change made,3
+1222,Warm-up,Welding machines,1500.00,True,14:28:00,14:17,DRY RUN,No change made,3
+1223,Warm-up,Welding machines,1500.00,True,14:28:00,14:29,DRY RUN,No change made,3
+1224,Warm-up,Welding machines,1200.00,True,14:29:00,14:20,DRY RUN,No change made,3
+1225,Warm-up,Welding machines,1200.00,True,14:29:00,14:20,DRY RUN,No change made,3
+1226,Warm-up,Welding machines,1200.00,True,14:29:00,14:20,DRY RUN,No change made,3
+1227,Warm-up,Welding machines,1200.00,True,14:30:00,14:04,DRY RUN,No change made,3
+1228,Warm-up,Welding machines,1200.00,True,14:30:00,14:58,DRY RUN,No change made,3
+1229,Warm-up,Welding machines,1200.00,True,14:31:00,14:20,DRY RUN,No change made,3
+1230,Warm-up,Welding machines,1200.00,True,14:31:00,14:42,DRY RUN,No change made,3
+1231,Warm-up,Welding machines,1200.00,True,14:31:00,14:56,DRY RUN,No change made,3
+1232,Warm-up,Welding machines,1200.00,True,14:32:00,14:50,DRY RUN,No change made,3
+1233,Warm-up,Welding machines,1200.00,True,14:32:00,14:20,DRY RUN,No change made,3
+1234,Warm-up,Welding machines,1200.00,True,14:33:00,14:24,DRY RUN,No change made,3
+1235,Small Machine,Welding machines,1200.00,False,14:33:00,15:28,DRY RUN,No change made,4
+1236,Warm-up,Welding machines,1200.00,True,14:33:00,14:12,DRY RUN,No change made,3
+1237,Small Machine,Welding machines,1200.00,False,14:34:00,15:27,DRY RUN,No change made,4
+1238,Warm-up,Welding machines,500.00,True,14:34:00,14:48,DRY RUN,No change made,3
+1239,Warm-up,Welding machines,500.00,True,14:35:00,14:33,DRY RUN,No change made,3
+1240,Warm-up,Welding machines,500.00,True,14:35:00,14:40,DRY RUN,No change made,3
+1241,Warm-up,Welding machines,500.00,True,14:35:00,14:24,DRY RUN,No change made,3
+1242,Warm-up,Welding machines,500.00,True,14:36:00,14:34,DRY RUN,No change made,3
+1243,Warm-up,Welding machines,400.00,True,14:36:00,14:14,DRY RUN,No change made,3
+1244,Warm-up,Welding machines,300.00,True,14:37:00,14:03,DRY RUN,No change made,3
+1245,Small Machine,Welding machines,400.00,False,14:37:00,15:28,DRY RUN,No change made,4
+1246,Warm-up,Welding machines,300.00,True,14:37:00,14:32,DRY RUN,No change made,3
+1247,Warm-up,Welding machines,300.00,True,14:38:00,14:00,DRY RUN,No change made,3
+1248,Small Machine,Welding machines,150.00,False,14:38:00,15:14,DRY RUN,No change made,4
+1249,Warm-up,Welding machines,300.00,True,14:39:00,14:58,DRY RUN,No change made,3
+1250,Small Machine,Welding machines,400.00,False,14:39:00,15:06,DRY RUN,No change made,4
+1251,Small Machine,Welding machines,400.00,False,14:39:00,15:52,DRY RUN,No change made,4
+1252,Small Machine,Welding machines,400.00,False,14:40:00,15:39,DRY RUN,No change made,4
+1253,Small Machine,Welding parts & accessories,350.00,False,14:40:00,15:50,DRY RUN,No change made,4
+1254,Small Machine,Welding parts & accessories,350.00,False,14:41:00,15:46,DRY RUN,No change made,4
+1255,Warm-up,Welding parts & accessories,100.00,True,14:41:00,14:08,DRY RUN,No change made,3
+1256,Small Machine,Welding parts & accessories,100.00,False,14:41:00,15:36,DRY RUN,No change made,4
+1257,Warm-up,Welding parts & accessories,100.00,True,14:42:00,14:00,DRY RUN,No change made,3
+1258,Warm-up,Welding parts & accessories,250.00,True,14:42:00,14:35,DRY RUN,No change made,3
+1259,Small Machine,Welding parts & accessories,250.00,False,14:43:00,15:18,DRY RUN,No change made,4
+1260,Warm-up,Welding parts & accessories,100.00,True,14:43:00,14:21,DRY RUN,No change made,3
+1261,Warm-up,Welding parts & accessories,400.00,True,14:43:00,14:01,DRY RUN,No change made,3
+1262,Warm-up,Welding parts & accessories,100.00,True,14:44:00,14:28,DRY RUN,No change made,3
+1263,Warm-up,Welding parts & accessories,100.00,True,14:44:00,14:33,DRY RUN,No change made,3
+1264,Small Machine,Welding parts & accessories,100.00,False,14:45:00,15:35,DRY RUN,No change made,4
+1265,Warm-up,Welding parts & accessories,100.00,True,14:45:00,14:37,DRY RUN,No change made,3
+1266,Small Machine,Welding parts & accessories,100.00,False,14:45:00,15:22,DRY RUN,No change made,4
+1267,Warm-up,Welding parts & accessories,250.00,True,14:46:00,14:30,DRY RUN,No change made,3
+1268,Warm-up,Welding parts & accessories,200.00,True,14:46:00,14:55,DRY RUN,No change made,3
+1269,Warm-up,Welding parts & accessories,400.00,True,14:47:00,14:39,DRY RUN,No change made,3
+1270,Small Machine,Welding parts & accessories,400.00,False,14:47:00,15:09,DRY RUN,No change made,4
+1271,Warm-up,Welding parts & accessories,250.00,True,14:47:00,14:39,DRY RUN,No change made,3
+1272,Warm-up,Welding parts & accessories,600.00,True,14:48:00,14:13,DRY RUN,No change made,3
+1273,Warm-up,Welding parts & accessories,250.00,True,14:48:00,14:34,DRY RUN,No change made,3
+1274,Warm-up,Welding parts & accessories,250.00,True,14:49:00,14:16,DRY RUN,No change made,3
+1275,Warm-up,Welding parts & accessories,2500.00,True,14:49:00,14:53,DRY RUN,No change made,3
+1276,Workshop/Tools,Welding tables,2000.00,True,14:49:00,17:56,DRY RUN,No change made,2
+1277,Workshop/Tools,Welding tables,2000.00,True,14:50:00,17:48,DRY RUN,No change made,2
+1278,Workshop/Tools,Welding tables,2000.00,True,14:50:00,17:45,DRY RUN,No change made,2
+1279,Workshop/Tools,Welding tables,2000.00,True,14:51:00,17:30,DRY RUN,No change made,2
+1280,Workshop/Tools,Welding tables,400.00,True,14:51:00,17:52,DRY RUN,No change made,2
+1281,Workshop/Tools,Welding tables,1000.00,True,14:51:00,17:57,DRY RUN,No change made,2
+1282,Workshop/Tools,Welding tables,1000.00,True,14:52:00,17:11,DRY RUN,No change made,2
+1283,Workshop/Tools,Welding tables,3000.00,True,14:52:00,17:01,DRY RUN,No change made,2
+1284,Workshop/Tools,Welding tables,1000.00,True,14:53:00,17:50,DRY RUN,No change made,2
+1285,Workshop/Tools,Welding tables,1500.00,True,14:53:00,17:55,DRY RUN,No change made,2
+1286,Workshop/Tools,Welding tables,2000.00,True,14:53:00,17:50,DRY RUN,No change made,2
+1287,Workshop/Tools,Welding tables,1000.00,True,14:54:00,17:58,DRY RUN,No change made,2
+1288,Workshop/Tools,Welding tables,1000.00,True,14:54:00,17:59,DRY RUN,No change made,2
+1289,Workshop/Tools,Welding tables,1000.00,True,14:55:00,17:01,DRY RUN,No change made,2
+1290,Workshop/Tools,Welding tables,1000.00,True,14:55:00,17:44,DRY RUN,No change made,2
+1291,Workshop/Tools,Welding tables,1000.00,False,14:55:00,17:41,DRY RUN,No change made,2
+1292,Workshop/Tools,Welding tables,1000.00,True,14:56:00,17:45,DRY RUN,No change made,2
+1293,Workshop/Tools,Welding tables,2000.00,True,14:56:00,17:58,DRY RUN,No change made,2
+1294,Workshop/Tools,Welding tables,3000.00,True,14:57:00,17:56,DRY RUN,No change made,2
+1295,Workshop/Tools,Welding tables,3000.00,True,14:57:00,17:29,DRY RUN,No change made,2
+1296,Warm-up,Welding parts & accessories,500.00,True,14:57:00,14:09,DRY RUN,No change made,3
+1297,Warm-up,Welding parts & accessories,500.00,True,14:58:00,14:17,DRY RUN,No change made,3
+1298,Warm-up,Welding parts & accessories,500.00,True,14:58:00,14:44,DRY RUN,No change made,3
+1299,Warm-up,Welding parts & accessories,500.00,True,14:59:00,14:13,DRY RUN,No change made,3
+1300,Small Machine,Welding parts & accessories,500.00,False,14:59:00,15:26,DRY RUN,No change made,4
+1301,Warm-up,Welding parts & accessories,100.00,True,14:59:00,14:19,DRY RUN,No change made,3
+1302,Small Machine,Welding parts & accessories,60.00,False,15:00:00,15:30,DRY RUN,No change made,4
+1303,Warm-up,Welding parts & accessories,80.00,True,15:00:00,14:54,DRY RUN,No change made,3
+1304,Small Machine,Welding parts & accessories,75.00,False,15:01:00,15:58,DRY RUN,No change made,4
+1305,Warm-up,Welding parts & accessories,40.00,True,15:01:00,14:42,DRY RUN,No change made,3
+1306,Warm-up,Welding parts & accessories,40.00,True,15:01:00,14:28,DRY RUN,No change made,3
+1307,Warm-up,Welding parts & accessories,100.00,True,15:02:00,14:16,DRY RUN,No change made,3
+1308,Small Machine,Welding parts & accessories,60.00,False,15:02:00,15:19,DRY RUN,No change made,4
+1309,Small Machine,Welding parts & accessories,50.00,False,15:03:00,15:42,DRY RUN,No change made,4
+1310,Small Machine,Welding parts & accessories,70.00,False,15:03:00,15:45,DRY RUN,No change made,4
+1311,Small Machine,Welding parts & accessories,80.00,False,15:03:00,15:33,DRY RUN,No change made,4
+1312,Small Machine,Welding parts & accessories,50.00,False,15:04:00,15:25,DRY RUN,No change made,4
+1313,Small Machine,Welding parts & accessories,50.00,False,15:04:00,15:58,DRY RUN,No change made,4
+1314,Small Machine,Welding parts & accessories,50.00,False,15:05:00,15:12,DRY RUN,No change made,4
+1315,Warm-up,Welding parts & accessories,80.00,True,15:05:00,14:34,DRY RUN,No change made,3
+1316,Small Machine,Welding parts & accessories,60.00,False,15:05:00,15:26,DRY RUN,No change made,4
+1317,Warm-up,Welding parts & accessories,100.00,True,15:06:00,14:17,DRY RUN,No change made,3
+1318,Small Machine,Welding parts & accessories,500.00,False,15:06:00,15:17,DRY RUN,No change made,4
+1319,Warm-up,Welding parts & accessories,70.00,True,15:07:00,14:25,DRY RUN,No change made,3
+1320,Small Machine,Welding parts & accessories,70.00,False,15:07:00,15:30,DRY RUN,No change made,4
+1321,Small Machine,Welding parts & accessories,70.00,False,15:07:00,15:10,DRY RUN,No change made,4
+1322,Small Machine,Welding parts & accessories,50.00,False,15:08:00,15:58,DRY RUN,No change made,4
+1323,Small Machine,Welding parts & accessories,50.00,False,15:08:00,15:23,DRY RUN,No change made,4
+1324,Small Machine,Welding parts & accessories,50.00,False,15:09:00,15:32,DRY RUN,No change made,4
+1325,Small Machine,Welding parts & accessories,100.00,False,15:09:00,15:19,DRY RUN,No change made,4
+1326,Expensive,Cars,8500.00,True,15:09:00,16:28,DRY RUN,No change made,5
+1327,Warm-up,Car trailers,2000.00,True,15:10:00,14:14,DRY RUN,No change made,3
+1328,Expensive,Forklifts,42000.00,True,15:10:00,16:48,DRY RUN,No change made,5
+1329,Warm-up,Intern transport,400.00,True,15:11:00,14:55,DRY RUN,No change made,3
+1330,Warm-up,Intern transport,700.00,True,15:11:00,14:58,DRY RUN,No change made,3
+1331,Warm-up,Intern transport,100.00,True,15:11:00,14:04,DRY RUN,No change made,3
+1332,Warm-up,Intern transport,250.00,True,15:12:00,14:32,DRY RUN,No change made,3
+1333,Small Machine,Press brake tools,500.00,False,15:12:00,15:34,DRY RUN,No change made,4
+1334,Small Machine,Press brake tools,500.00,False,15:13:00,15:28,DRY RUN,No change made,4
+1335,Small Machine,Press brake tools,500.00,False,15:13:00,15:05,DRY RUN,No change made,4
+1336,Small Machine,Press brake tools,500.00,False,15:13:00,15:34,DRY RUN,No change made,4
+1337,Small Machine,Press brake tools,500.00,False,15:14:00,15:14,DRY RUN,No change made,4
+1338,Warm-up,Press brake tools,500.00,True,15:14:00,14:47,DRY RUN,No change made,3
+1339,Small Machine,Press brake tools,500.00,False,15:15:00,15:04,DRY RUN,No change made,4
+1340,Warm-up,Press brake tools,500.00,True,15:15:00,14:44,DRY RUN,No change made,3
+1341,Small Machine,Press brake tools,500.00,False,15:15:00,15:27,DRY RUN,No change made,4
+1342,Small Machine,Press brake tools,500.00,False,15:16:00,15:38,DRY RUN,No change made,4
+1343,Small Machine,Press brake tools,500.00,False,15:16:00,15:03,DRY RUN,No change made,4
+1344,Warm-up,Press brake tools,500.00,True,15:17:00,14:01,DRY RUN,No change made,3
+1345,Small Machine,Press brake tools,500.00,False,15:17:00,15:17,DRY RUN,No change made,4
+1346,Small Machine,Press brake tools,1000.00,False,15:17:00,15:17,DRY RUN,No change made,4
+1347,Small Machine,Press brake tools,500.00,False,15:18:00,15:24,DRY RUN,No change made,4
+1348,Small Machine,Press brake tools,500.00,False,15:18:00,15:42,DRY RUN,No change made,4
+1349,Small Machine,Press brake tools,500.00,False,15:19:00,15:43,DRY RUN,No change made,4
+1350,Small Machine,Press brake tools,500.00,False,15:19:00,15:49,DRY RUN,No change made,4
+1351,Small Machine,Press brake tools,500.00,False,15:19:00,15:42,DRY RUN,No change made,4
+1352,Small Machine,Press brake tools,500.00,False,15:20:00,15:33,DRY RUN,No change made,4
+1353,Small Machine,Press brake tools,500.00,False,15:20:00,15:27,DRY RUN,No change made,4
+1354,Small Machine,Press brake tools,500.00,False,15:21:00,15:29,DRY RUN,No change made,4
+1355,Warm-up,Press brake tools,200.00,True,15:21:00,14:21,DRY RUN,No change made,3
+1356,Small Machine,Press brake tools,400.00,False,15:21:00,15:53,DRY RUN,No change made,4
+1357,Small Machine,Press brake tools,400.00,False,15:22:00,15:55,DRY RUN,No change made,4
+1358,Small Machine,Press brake tools,500.00,False,15:22:00,15:49,DRY RUN,No change made,4
+1359,Small Machine,Press brake tools,400.00,False,15:23:00,15:27,DRY RUN,No change made,4
+1360,Small Machine,Press brake tools,400.00,False,15:23:00,15:02,DRY RUN,No change made,4
+1361,Small Machine,Press brake tools,400.00,False,15:23:00,15:51,DRY RUN,No change made,4
+1362,Small Machine,Press brake tools,400.00,False,15:24:00,15:49,DRY RUN,No change made,4
+1363,Small Machine,Press brake tools,400.00,False,15:24:00,15:34,DRY RUN,No change made,4
+1364,Small Machine,Press brake tools,400.00,False,15:25:00,15:08,DRY RUN,No change made,4
+1365,Warm-up,Press brake tools,250.00,True,15:25:00,14:39,DRY RUN,No change made,3
+1366,Small Machine,Press brake tools,400.00,False,15:25:00,15:13,DRY RUN,No change made,4
+1367,Small Machine,Press brake tools,300.00,False,15:26:00,15:27,DRY RUN,No change made,4
+1368,Small Machine,Press brake tools,400.00,False,15:26:00,15:44,DRY RUN,No change made,4
+1369,Small Machine,Press brake tools,400.00,False,15:27:00,15:51,DRY RUN,No change made,4
+1370,Small Machine,Press brake tools,300.00,False,15:27:00,15:54,DRY RUN,No change made,4
+1371,Small Machine,Press brake tools,600.00,False,15:27:00,15:58,DRY RUN,No change made,4
+1372,Small Machine,Press brake tools,500.00,False,15:28:00,15:14,DRY RUN,No change made,4
+1373,Small Machine,Press brake tools,750.00,False,15:28:00,15:09,DRY RUN,No change made,4
+1374,Small Machine,Press brake tools,500.00,False,15:29:00,15:21,DRY RUN,No change made,4
+1375,Warm-up,Press brake tools,500.00,True,15:29:00,14:25,DRY RUN,No change made,3
+1376,Small Machine,Press brake tools,250.00,False,15:29:00,15:51,DRY RUN,No change made,4
+1377,Small Machine,Press brake tools,400.00,False,15:30:00,15:49,DRY RUN,No change made,4
+1378,Small Machine,Press brake tools,200.00,False,15:30:00,15:52,DRY RUN,No change made,4
+1379,Small Machine,Press brake tools,300.00,False,15:31:00,15:12,DRY RUN,No change made,4
+1380,Small Machine,Press brake tools,500.00,False,15:31:00,15:13,DRY RUN,No change made,4
+1381,Small Machine,Press brake tools,100.00,False,15:31:00,15:32,DRY RUN,No change made,4
+1382,Small Machine,Press brake tools,100.00,False,15:32:00,15:21,DRY RUN,No change made,4
+1383,Warm-up,Press brake tools,500.00,True,15:32:00,14:04,DRY RUN,No change made,3
+1384,Small Machine,Press brake tools,300.00,False,15:33:00,15:23,DRY RUN,No change made,4
+1385,Small Machine,Press brake tools,350.00,False,15:33:00,15:41,DRY RUN,No change made,4
+1386,Small Machine,Press brake tools,300.00,False,15:33:00,15:08,DRY RUN,No change made,4
+1387,Warm-up,"Machine parts, tools & accessories",1500.00,True,15:34:00,14:35,DRY RUN,No change made,3
+1388,Warm-up,"Machine parts, tools & accessories",400.00,True,15:34:00,14:33,DRY RUN,No change made,3
+1389,Warm-up,"Machine parts, tools & accessories",2000.00,True,15:35:00,14:08,DRY RUN,No change made,3
+1390,Warm-up,"Machine parts, tools & accessories",800.00,True,15:35:00,14:22,DRY RUN,No change made,3
+1391,Warm-up,Punching machines,400.00,True,15:35:00,14:55,DRY RUN,No change made,3
+1392,Small Machine,Separator systems,1000.00,False,15:36:00,15:32,DRY RUN,No change made,4
+1393,Warm-up,Various metalworking,300.00,True,15:36:00,14:44,DRY RUN,No change made,3
+1394,Workshop/Tools,Workshop Inventory,175.00,False,15:37:00,17:30,DRY RUN,No change made,2
+1395,Small Machine,Grinding machines,200.00,False,15:37:00,15:42,DRY RUN,No change made,4
+1396,Small Machine,Grinding machines,100.00,False,15:37:00,15:20,DRY RUN,No change made,4
+1397,Warm-up,Drills,1500.00,True,15:38:00,14:56,DRY RUN,No change made,3
+1398,Warm-up,Drills,1000.00,True,15:38:00,14:26,DRY RUN,No change made,3
+1399,Warm-up,Drills,1000.00,True,15:39:00,14:54,DRY RUN,No change made,3
+1400,Workshop/Tools,Workshop Inventory,150.00,False,15:39:00,17:41,DRY RUN,No change made,2
+1401,Workshop/Tools,Workshop Inventory,100.00,True,15:39:00,17:25,DRY RUN,No change made,2
+1402,Warm-up,"Machine parts, tools & accessories",75.00,True,15:40:00,14:11,DRY RUN,No change made,3
+1403,Warm-up,"Machine parts, tools & accessories",150.00,True,15:40:00,14:52,DRY RUN,No change made,3
+1404,Warm-up,"Machine parts, tools & accessories",75.00,True,15:41:00,14:43,DRY RUN,No change made,3
+1405,Small Machine,"Machine parts, tools & accessories",40.00,False,15:41:00,15:13,DRY RUN,No change made,4
+1406,Workshop/Tools,Workshop Inventory,150.00,False,15:41:00,17:48,DRY RUN,No change made,2
+1407,Warm-up,"Machine parts, tools & accessories",400.00,True,15:42:00,14:03,DRY RUN,No change made,3
+1408,Small Machine,"Machine parts, tools & accessories",300.00,False,15:42:00,15:38,DRY RUN,No change made,4
+1409,Workshop/Tools,Workshop Inventory,50.00,False,15:43:00,17:42,DRY RUN,No change made,2
+1410,Warm-up,Grinding machines,2000.00,True,15:43:00,14:36,DRY RUN,No change made,3
+1411,Workshop/Tools,Workshop Inventory,150.00,False,15:43:00,17:45,DRY RUN,No change made,2
+1412,Workshop/Tools,Workshop Inventory,100.00,False,15:44:00,17:47,DRY RUN,No change made,2
+1413,Warm-up,Polishing machines,100.00,True,15:44:00,14:46,DRY RUN,No change made,3
+1414,Warm-up,Polishing machines,150.00,True,15:45:00,14:53,DRY RUN,No change made,3
+1415,Warm-up,Welding and cutting equipment,150.00,True,15:45:00,14:53,DRY RUN,No change made,3
+1416,Workshop/Tools,Workshop Inventory,100.00,False,15:45:00,17:43,DRY RUN,No change made,2
+1417,Workshop/Tools,Workshop Inventory,200.00,True,15:46:00,17:56,DRY RUN,No change made,2
+1418,Workshop/Tools,Workshop Inventory,200.00,False,15:46:00,17:11,DRY RUN,No change made,2
+1419,Workshop/Tools,Workshop Inventory,250.00,False,15:47:00,17:44,DRY RUN,No change made,2
+1420,Workshop/Tools,Workshop Inventory,200.00,True,15:47:00,17:12,DRY RUN,No change made,2
+1421,Workshop/Tools,Workshop Inventory,200.00,False,15:47:00,17:13,DRY RUN,No change made,2
+1422,Workshop/Tools,Workshop Inventory,200.00,False,15:48:00,17:26,DRY RUN,No change made,2
+1423,Workshop/Tools,Workshop Inventory,150.00,False,15:48:00,17:55,DRY RUN,No change made,2
+1424,Small Machine,Press brake tools,500.00,False,15:49:00,15:25,DRY RUN,No change made,4
+1425,Small Machine,Press brake tools,500.00,False,15:49:00,15:52,DRY RUN,No change made,4
+1426,Small Machine,Press brake tools,500.00,False,15:49:00,15:51,DRY RUN,No change made,4
+1427,Small Machine,Press brake tools,500.00,False,15:50:00,15:15,DRY RUN,No change made,4
+1428,Small Machine,Press brake tools,500.00,False,15:50:00,15:38,DRY RUN,No change made,4
+1429,Small Machine,Press brake tools,500.00,False,15:51:00,15:55,DRY RUN,No change made,4
+1430,Small Machine,Press brake tools,500.00,False,15:51:00,15:30,DRY RUN,No change made,4
+1431,Small Machine,Press brake tools,800.00,False,15:51:00,15:11,DRY RUN,No change made,4
+1432,Small Machine,Press brake tools,500.00,False,15:52:00,15:21,DRY RUN,No change made,4
+1433,Small Machine,Press brake tools,500.00,False,15:52:00,15:11,DRY RUN,No change made,4
+1434,Small Machine,Press brake tools,500.00,False,15:53:00,15:24,DRY RUN,No change made,4
+1435,Small Machine,Press brake tools,500.00,False,15:53:00,15:02,DRY RUN,No change made,4
+1436,Small Machine,Press brake tools,500.00,False,15:53:00,15:54,DRY RUN,No change made,4
+1437,Small Machine,Press brake tools,500.00,False,15:54:00,15:28,DRY RUN,No change made,4
+1438,Small Machine,Press brake tools,600.00,False,15:54:00,15:29,DRY RUN,No change made,4
+1439,Workshop/Tools,Workshop Inventory,100.00,False,15:55:00,17:44,DRY RUN,No change made,2
+1440,Workshop/Tools,Workshop Inventory,100.00,False,15:55:00,17:45,DRY RUN,No change made,2
+1441,Workshop/Tools,Workshop Inventory,150.00,True,15:55:00,17:11,DRY RUN,No change made,2
+1442,Workshop/Tools,Workshop Inventory,50.00,False,15:56:00,17:03,DRY RUN,No change made,2
+1443,Workshop/Tools,Workshop Inventory,150.00,True,15:56:00,17:55,DRY RUN,No change made,2
+1444,Workshop/Tools,Workshop Inventory,100.00,False,15:57:00,17:55,DRY RUN,No change made,2
+1445,Workshop/Tools,Workshop Inventory,150.00,True,15:57:00,17:42,DRY RUN,No change made,2
+1446,Workshop/Tools,Workshop Inventory,100.00,False,15:57:00,17:31,DRY RUN,No change made,2
+1447,Workshop/Tools,Workshop Inventory,100.00,True,15:58:00,17:22,DRY RUN,No change made,2
+1448,Workshop/Tools,Workshop Inventory,150.00,True,15:58:00,17:48,DRY RUN,No change made,2
+1449,Workshop/Tools,Workshop Inventory,150.00,True,15:59:00,17:28,DRY RUN,No change made,2
+1450,Workshop/Tools,Workshop Inventory,150.00,True,15:59:00,17:12,DRY RUN,No change made,2
+1451,Workshop/Tools,Workshop Inventory,150.00,True,15:59:00,17:57,DRY RUN,No change made,2
+1452,Workshop/Tools,Workshop Inventory,150.00,True,16:00:00,17:01,DRY RUN,No change made,2
+1453,Workshop/Tools,Workshop Inventory,150.00,True,16:00:00,17:03,DRY RUN,No change made,2
+1454,Workshop/Tools,Workshop Inventory,150.00,True,16:01:00,17:38,DRY RUN,No change made,2
+1455,Workshop/Tools,Workshop Inventory,150.00,True,16:01:00,17:05,DRY RUN,No change made,2
+1456,Workshop/Tools,Workshop Inventory,150.00,True,16:01:00,17:15,DRY RUN,No change made,2
+1457,Workshop/Tools,Workshop Inventory,150.00,True,16:02:00,17:02,DRY RUN,No change made,2
+1458,Workshop/Tools,Workshop Inventory,150.00,True,16:02:00,17:19,DRY RUN,No change made,2
+1459,Workshop/Tools,Workshop Inventory,150.00,True,16:03:00,17:27,DRY RUN,No change made,2
+1460,Workshop/Tools,Workshop Inventory,150.00,True,16:03:00,17:36,DRY RUN,No change made,2
+1461,Workshop/Tools,Workshop Inventory,150.00,True,16:03:00,17:46,DRY RUN,No change made,2
+1462,Workshop/Tools,Workshop Inventory,150.00,True,16:04:00,17:01,DRY RUN,No change made,2
+1463,Workshop/Tools,Workshop Inventory,150.00,True,16:04:00,17:51,DRY RUN,No change made,2
+1464,Workshop/Tools,Workshop Inventory,150.00,True,16:05:00,17:21,DRY RUN,No change made,2
+1465,Small Machine,Welding parts & accessories,100.00,False,16:05:00,15:53,DRY RUN,No change made,4
+1466,Workshop/Tools,Battery tools,70.00,False,16:05:00,17:45,DRY RUN,No change made,2
+1467,Workshop/Tools,Battery tools,70.00,True,16:06:00,17:00,DRY RUN,No change made,2
+1468,Workshop/Tools,Battery tools,70.00,True,16:06:00,17:58,DRY RUN,No change made,2
+1469,Workshop/Tools,Battery tools,70.00,True,16:07:00,17:50,DRY RUN,No change made,2
+1470,Workshop/Tools,Battery tools,70.00,False,16:07:00,17:53,DRY RUN,No change made,2
+1471,Workshop/Tools,Battery tools,60.00,True,16:07:00,17:58,DRY RUN,No change made,2
+1472,Workshop/Tools,Battery tools,60.00,False,16:08:00,17:39,DRY RUN,No change made,2
+1473,Workshop/Tools,Battery tools,100.00,False,16:08:00,17:39,DRY RUN,No change made,2
+1474,Warm-up,manual tools,50.00,True,16:09:00,14:46,DRY RUN,No change made,3
+1475,Small Machine,manual tools,50.00,False,16:09:00,15:53,DRY RUN,No change made,4
+1476,Small Machine,manual tools,50.00,False,16:09:00,15:15,DRY RUN,No change made,4
+1477,Small Machine,manual tools,50.00,False,16:10:00,15:03,DRY RUN,No change made,4
+1478,Warm-up,manual tools,50.00,True,16:10:00,14:45,DRY RUN,No change made,3
+1479,Small Machine,manual tools,50.00,False,16:11:00,15:47,DRY RUN,No change made,4
+1480,Small Machine,manual tools,50.00,False,16:11:00,15:07,DRY RUN,No change made,4
+1481,Warm-up,manual tools,100.00,True,16:11:00,14:47,DRY RUN,No change made,3
+1482,Warm-up,manual tools,100.00,True,16:12:00,14:17,DRY RUN,No change made,3
+1483,Warm-up,manual tools,100.00,True,16:12:00,14:12,DRY RUN,No change made,3
+1484,Warm-up,manual tools,100.00,True,16:13:00,14:38,DRY RUN,No change made,3
+1485,Warm-up,manual tools,100.00,True,16:13:00,14:57,DRY RUN,No change made,3
+1486,Warm-up,manual tools,100.00,True,16:13:00,14:36,DRY RUN,No change made,3
+1487,Small Machine,manual tools,50.00,False,16:14:00,15:12,DRY RUN,No change made,4
+1488,Warm-up,manual tools,70.00,True,16:14:00,14:38,DRY RUN,No change made,3
+1489,Warm-up,manual tools,70.00,True,16:15:00,14:49,DRY RUN,No change made,3
+1490,Small Machine,manual tools,70.00,False,16:15:00,15:36,DRY RUN,No change made,4
+1491,Warm-up,manual tools,100.00,True,16:15:00,14:41,DRY RUN,No change made,3
+1492,Warm-up,manual tools,50.00,True,16:16:00,14:00,DRY RUN,No change made,3
+1493,Warm-up,Pneumatic tools,100.00,True,16:16:00,14:31,DRY RUN,No change made,3
+1494,Warm-up,Pneumatic tools,100.00,True,16:17:00,14:00,DRY RUN,No change made,3
+1495,Warm-up,Pneumatic tools,100.00,True,16:17:00,14:48,DRY RUN,No change made,3
+1496,Warm-up,Pneumatic tools,100.00,True,16:17:00,14:25,DRY RUN,No change made,3
+1497,Warm-up,Pneumatic tools,100.00,True,16:18:00,14:08,DRY RUN,No change made,3
+1498,Small Machine,Welding machines,60.00,False,16:18:00,15:43,DRY RUN,No change made,4
+1499,Warm-up,manual tools,100.00,True,16:19:00,14:11,DRY RUN,No change made,3
+1500,Warm-up,manual tools,150.00,True,16:19:00,14:48,DRY RUN,No change made,3
+1501,Warm-up,manual tools,100.00,True,16:19:00,14:06,DRY RUN,No change made,3
+1502,Warm-up,manual tools,100.00,True,16:20:00,14:57,DRY RUN,No change made,3
+1503,fallback,manual tools,,True,16:20:00,15:02,DRY RUN,No change made,6
+1504,Workshop/Tools,Tooling,100.00,True,16:21:00,17:17,DRY RUN,No change made,2
+1505,Small Machine,Punching machines,75.00,False,16:21:00,15:14,DRY RUN,No change made,4
+1506,Workshop/Tools,Workshop Inventory,150.00,False,16:21:00,17:30,DRY RUN,No change made,2
+1507,Small Machine,Metal stock,100.00,False,16:22:00,15:35,DRY RUN,No change made,4
+1508,Workshop/Tools,Workshop Inventory,150.00,True,16:22:00,17:33,DRY RUN,No change made,2
+1509,Workshop/Tools,Workshop Inventory,100.00,False,16:23:00,17:52,DRY RUN,No change made,2
+1510,Small Machine,Various metalworking,100.00,False,16:23:00,15:59,DRY RUN,No change made,4
+1511,Workshop/Tools,Workshop Inventory,100.00,False,16:23:00,17:10,DRY RUN,No change made,2
+1512,Workshop/Tools,Workshop Inventory,150.00,False,16:24:00,17:30,DRY RUN,No change made,2
+1513,Warm-up,Various metalworking,100.00,True,16:24:00,14:44,DRY RUN,No change made,3
+1514,Workshop/Tools,Workshop Inventory,70.00,True,16:25:00,17:26,DRY RUN,No change made,2
+1515,Warm-up,Drills,600.00,True,16:25:00,14:42,DRY RUN,No change made,3
+1516,Workshop/Tools,Workshop Inventory,150.00,False,16:25:00,17:43,DRY RUN,No change made,2
+1517,Warm-up,Punching machines,50.00,True,16:26:00,14:04,DRY RUN,No change made,3
+1518,Warm-up,Welding machines,50.00,True,16:26:00,14:43,DRY RUN,No change made,3
+1519,Small Machine,racking,100.00,False,16:27:00,15:28,DRY RUN,No change made,4
+1520,Workshop/Tools,Workshop Inventory,10.00,False,16:27:00,17:46,DRY RUN,No change made,2
+1521,fallback,Installation material,,False,16:27:00,15:31,DRY RUN,No change made,6
+1522,Warm-up,Various metalworking,50.00,True,16:28:00,14:41,DRY RUN,No change made,3
+1523,Warm-up,manual tools,400.00,True,16:28:00,14:29,DRY RUN,No change made,3
+1524,Warm-up,manual tools,400.00,True,16:29:00,14:22,DRY RUN,No change made,3
+1525,Small Machine,Various metalworking,60.00,False,16:29:00,15:03,DRY RUN,No change made,4
+1526,Warm-up,Various metalworking,50.00,True,16:30:00,14:58,DRY RUN,No change made,3
+1527,Warm-up,manual tools,50.00,True,16:30:00,14:29,DRY RUN,No change made,3
+1528,Workshop/Tools,Workshop Inventory,40.00,False,16:30:00,17:27,DRY RUN,No change made,2
+1529,Small Machine,Various metalworking,30.00,False,16:31:00,15:11,DRY RUN,No change made,4
+1530,Warm-up,racking,200.00,True,16:31:00,14:31,DRY RUN,No change made,3
+1531,Small Machine,Various metalworking,100.00,False,16:32:00,15:09,DRY RUN,No change made,4
+1532,Small Machine,clamping tables,400.00,False,16:32:00,15:30,DRY RUN,No change made,4
+1533,Small Machine,clamping tables,250.00,False,16:32:00,15:13,DRY RUN,No change made,4
+1534,Workshop/Tools,Workshop Inventory,250.00,False,16:33:00,17:30,DRY RUN,No change made,2
+1535,fallback,manual tools,,False,16:33:00,18:39,DRY RUN,No change made,6
+1536,Small Machine,Metal stock,50.00,False,16:34:00,15:53,DRY RUN,No change made,4
+1537,Small Machine,manual tools,300.00,False,16:34:00,15:05,DRY RUN,No change made,4
+1538,Small Machine,manual tools,1000.00,False,16:34:00,15:19,DRY RUN,No change made,4
+1539,Small Machine,Various metalworking,200.00,False,16:35:00,15:40,DRY RUN,No change made,4
+1540,Small Machine,Various metalworking,200.00,False,16:35:00,15:26,DRY RUN,No change made,4
+1541,fallback,manual tools,,False,16:36:00,15:16,DRY RUN,No change made,6
+1542,Small Machine,manual tools,150.00,False,16:36:00,15:12,DRY RUN,No change made,4
+1543,Small Machine,manual tools,150.00,False,16:36:00,15:00,DRY RUN,No change made,4
+1544,Small Machine,manual tools,150.00,False,16:37:00,15:52,DRY RUN,No change made,4
+1545,Small Machine,manual tools,150.00,False,16:37:00,15:31,DRY RUN,No change made,4
+1546,Warm-up,manual tools,150.00,True,16:38:00,14:39,DRY RUN,No change made,3
+1547,Small Machine,manual tools,250.00,False,16:38:00,15:04,DRY RUN,No change made,4
+1548,Warm-up,manual tools,150.00,True,16:38:00,14:06,DRY RUN,No change made,3
+1549,Small Machine,manual tools,150.00,False,16:39:00,15:44,DRY RUN,No change made,4
+1550,Small Machine,manual tools,150.00,False,16:39:00,15:26,DRY RUN,No change made,4
+1551,Small Machine,manual tools,150.00,False,16:40:00,15:06,DRY RUN,No change made,4
+1552,Small Machine,Metal stock,100.00,False,16:40:00,15:44,DRY RUN,No change made,4
+1553,Small Machine,Various metalworking,50.00,False,16:40:00,15:10,DRY RUN,No change made,4
+1554,Small Machine,Various metalworking,50.00,False,16:41:00,15:20,DRY RUN,No change made,4
+1555,Small Machine,Various metalworking,50.00,False,16:41:00,15:18,DRY RUN,No change made,4
+1556,Small Machine,Various metalworking,50.00,False,16:42:00,15:13,DRY RUN,No change made,4
+1557,Workshop/Tools,Workshop Inventory,200.00,True,16:42:00,17:09,DRY RUN,No change made,2
+1558,Workshop/Tools,Workshop Inventory,150.00,True,16:42:00,17:28,DRY RUN,No change made,2
+1559,Workshop/Tools,Workshop Inventory,150.00,True,16:43:00,17:35,DRY RUN,No change made,2
+1560,Workshop/Tools,Workshop Inventory,100.00,True,16:43:00,17:36,DRY RUN,No change made,2
+1561,Warm-up,Measuring instruments,3000.00,True,16:44:00,14:45,DRY RUN,No change made,3
+1562,Warm-up,Measuring instruments,700.00,True,16:44:00,14:18,DRY RUN,No change made,3
+1563,Warm-up,Measuring instruments,150.00,True,16:44:00,14:24,DRY RUN,No change made,3
+1564,Warm-up,Measuring instruments,30.00,True,16:45:00,14:27,DRY RUN,No change made,3
+1565,Small Machine,Measuring instruments,30.00,False,16:45:00,15:08,DRY RUN,No change made,4
+1566,Warm-up,Measuring instruments,30.00,True,16:46:00,14:46,DRY RUN,No change made,3
+1567,Warm-up,Measuring instruments,50.00,True,16:46:00,14:09,DRY RUN,No change made,3
+1568,Warm-up,Measuring instruments,100.00,True,16:46:00,14:05,DRY RUN,No change made,3
+1569,Warm-up,Measuring instruments,30.00,True,16:47:00,14:19,DRY RUN,No change made,3
+1570,Warm-up,Measuring instruments,30.00,True,16:47:00,14:32,DRY RUN,No change made,3
+1571,Small Machine,Measuring instruments,30.00,False,16:48:00,15:40,DRY RUN,No change made,4
+1572,Small Machine,Measuring instruments,40.00,False,16:48:00,15:25,DRY RUN,No change made,4
+1573,Warm-up,Measuring instruments,50.00,True,16:48:00,14:57,DRY RUN,No change made,3
+1574,Warm-up,Measuring instruments,50.00,True,16:49:00,14:05,DRY RUN,No change made,3
+1575,Warm-up,Measuring instruments,70.00,True,16:49:00,14:54,DRY RUN,No change made,3
+1576,Warm-up,Measuring instruments,40.00,True,16:50:00,14:33,DRY RUN,No change made,3
+1577,Warm-up,Measuring instruments,100.00,True,16:50:00,14:53,DRY RUN,No change made,3
+1578,Warm-up,Measuring instruments,50.00,True,16:50:00,14:12,DRY RUN,No change made,3
+1579,Warm-up,Measuring instruments,2700.00,True,16:51:00,14:23,DRY RUN,No change made,3
+1580,Warm-up,Measuring instruments,800.00,True,16:51:00,14:16,DRY RUN,No change made,3
+1581,Expensive,Measuring instruments,4000.00,False,16:52:00,16:31,DRY RUN,No change made,5
+1582,Expensive,Measuring instruments,4000.00,False,16:52:00,16:58,DRY RUN,No change made,5
+1583,Workshop/Tools,Workshop Inventory,50.00,True,16:52:00,17:24,DRY RUN,No change made,2
+1584,Small Machine,racking,50.00,False,16:53:00,15:24,DRY RUN,No change made,4
+1585,Office/IT,Office inventory,20.00,False,16:53:00,18:55,DRY RUN,No change made,1
+1586,Workshop/Tools,Workshop Inventory,100.00,True,16:54:00,17:33,DRY RUN,No change made,2
+1587,Workshop/Tools,Workshop Inventory,100.00,True,16:54:00,17:38,DRY RUN,No change made,2
+1588,Workshop/Tools,Workshop Inventory,100.00,True,16:54:00,17:52,DRY RUN,No change made,2
+1589,Workshop/Tools,Workshop Inventory,100.00,False,16:55:00,17:22,DRY RUN,No change made,2
+1590,Workshop/Tools,Workshop Inventory,100.00,True,16:55:00,17:19,DRY RUN,No change made,2
+1591,Workshop/Tools,Workshop Inventory,100.00,False,16:56:00,17:48,DRY RUN,No change made,2
+1592,Workshop/Tools,Workshop Inventory,100.00,False,16:56:00,17:25,DRY RUN,No change made,2
+1593,Workshop/Tools,Workshop Inventory,100.00,True,16:56:00,17:59,DRY RUN,No change made,2
+1594,Office/IT,Office inventory,500.00,False,16:57:00,18:29,DRY RUN,No change made,1
+1595,Expensive,Warehouse inventory,18500.00,False,16:57:00,16:07,DRY RUN,No change made,5
+1596,Small Machine,Fastening material,250.00,False,16:58:00,15:54,DRY RUN,No change made,4
+1597,Small Machine,Fastening material,250.00,False,16:58:00,15:33,DRY RUN,No change made,4
+1598,Small Machine,Fastening material,250.00,False,16:58:00,15:31,DRY RUN,No change made,4
+1599,Small Machine,Fastening material,250.00,False,16:59:00,15:49,DRY RUN,No change made,4
+1600,Small Machine,Fastening material,250.00,False,16:59:00,15:39,DRY RUN,No change made,4
+1601,Small Machine,Fastening material,250.00,False,17:00:00,15:28,DRY RUN,No change made,4
+1602,Small Machine,Fastening material,250.00,False,17:00:00,15:25,DRY RUN,No change made,4
+1603,Small Machine,Fastening material,250.00,False,17:00:00,15:22,DRY RUN,No change made,4
+1604,Small Machine,Fastening material,250.00,False,17:01:00,15:10,DRY RUN,No change made,4
+1605,Small Machine,Fastening material,250.00,False,17:01:00,15:43,DRY RUN,No change made,4
+1606,Small Machine,Fastening material,250.00,False,17:02:00,15:22,DRY RUN,No change made,4
+1607,Small Machine,Fastening material,250.00,False,17:02:00,15:46,DRY RUN,No change made,4
+1608,Small Machine,Fastening material,250.00,False,17:02:00,15:46,DRY RUN,No change made,4
+1609,Small Machine,Fastening material,250.00,False,17:03:00,15:24,DRY RUN,No change made,4
+1610,Small Machine,Fastening material,250.00,False,17:03:00,15:01,DRY RUN,No change made,4
+1611,Small Machine,Fastening material,250.00,False,17:04:00,15:36,DRY RUN,No change made,4
+1612,Small Machine,Fastening material,250.00,False,17:04:00,15:13,DRY RUN,No change made,4
+1613,Small Machine,Fastening material,250.00,False,17:04:00,15:43,DRY RUN,No change made,4
+1614,Small Machine,Fastening material,250.00,False,17:05:00,15:15,DRY RUN,No change made,4
+1615,Small Machine,Fastening material,250.00,False,17:05:00,15:28,DRY RUN,No change made,4
+1616,Small Machine,Fastening material,250.00,False,17:06:00,15:09,DRY RUN,No change made,4
+1617,Small Machine,Fastening material,250.00,False,17:06:00,15:25,DRY RUN,No change made,4
+1618,Small Machine,Fastening material,250.00,False,17:06:00,15:44,DRY RUN,No change made,4
+1619,Small Machine,Fastening material,250.00,False,17:07:00,15:01,DRY RUN,No change made,4
+1620,Small Machine,Fastening material,250.00,False,17:07:00,15:56,DRY RUN,No change made,4
+1621,Small Machine,Fastening material,250.00,False,17:08:00,15:34,DRY RUN,No change made,4
+1622,Small Machine,Fastening material,250.00,False,17:08:00,15:18,DRY RUN,No change made,4
+1623,Small Machine,Fastening material,250.00,False,17:08:00,15:20,DRY RUN,No change made,4
+1624,Small Machine,Fastening material,250.00,False,17:09:00,15:34,DRY RUN,No change made,4
+1625,Small Machine,Fastening material,250.00,False,17:09:00,15:47,DRY RUN,No change made,4
+1626,Small Machine,Fastening material,250.00,False,17:10:00,15:02,DRY RUN,No change made,4
+1627,Small Machine,Fastening material,250.00,False,17:10:00,15:18,DRY RUN,No change made,4
+1628,Small Machine,Fastening material,250.00,False,17:10:00,15:39,DRY RUN,No change made,4
+1629,Small Machine,Fastening material,250.00,False,17:11:00,15:29,DRY RUN,No change made,4
+1630,Small Machine,Fastening material,250.00,False,17:11:00,15:18,DRY RUN,No change made,4
+1631,Small Machine,Fastening material,250.00,False,17:12:00,15:24,DRY RUN,No change made,4
+1632,Warm-up,Warehouse inventory,250.00,True,17:12:00,14:28,DRY RUN,No change made,3
+1633,Small Machine,Warehouse inventory,100.00,False,17:12:00,15:15,DRY RUN,No change made,4
+1634,Expensive,Various metalworking,5000.00,False,17:13:00,16:09,DRY RUN,No change made,5
+1635,Warm-up,Warehouse inventory,1500.00,True,17:13:00,14:42,DRY RUN,No change made,3
+1636,Warm-up,Various metalworking,1000.00,True,17:14:00,14:55,DRY RUN,No change made,3
+1637,Workshop/Tools,Workshop Inventory,150.00,False,17:14:00,17:43,DRY RUN,No change made,2
+1638,Workshop/Tools,Workshop Inventory,300.00,True,17:14:00,17:19,DRY RUN,No change made,2
+1639,Small Machine,Packaging equipment,100.00,False,17:15:00,15:12,DRY RUN,No change made,4
+1640,Small Machine,Packaging equipment,100.00,False,17:15:00,15:25,DRY RUN,No change made,4
+1641,Small Machine,Packaging equipment,100.00,False,17:16:00,15:14,DRY RUN,No change made,4
+1642,Warm-up,Packaging equipment,50.00,True,17:16:00,14:12,DRY RUN,No change made,3
+1643,Warm-up,Packaging equipment,50.00,True,17:16:00,14:56,DRY RUN,No change made,3
+1644,Small Machine,Various metalworking,50.00,False,17:17:00,15:42,DRY RUN,No change made,4
+1645,Workshop/Tools,Workshop Inventory,11.00,False,17:17:00,17:25,DRY RUN,No change made,2
+1646,Workshop/Tools,Workshop Inventory,11.00,True,17:18:00,17:48,DRY RUN,No change made,2
+1647,Small Machine,Various metalworking,50.00,False,17:18:00,15:07,DRY RUN,No change made,4
+1648,Small Machine,Packaging equipment,50.00,False,17:18:00,15:03,DRY RUN,No change made,4
+1649,Warm-up,Measuring instruments,250.00,True,17:19:00,14:11,DRY RUN,No change made,3
+1650,Office/IT,Office inventory,100.00,True,17:19:00,18:25,DRY RUN,No change made,1
+1651,Warm-up,Various metalworking,250.00,True,17:20:00,14:17,DRY RUN,No change made,3
+1652,Warm-up,Compressors,20.00,True,17:20:00,14:22,DRY RUN,No change made,3
+1653,Warm-up,Cleaning equipment,250.00,True,17:20:00,14:01,DRY RUN,No change made,3
+1654,Workshop/Tools,Workshop Inventory,100.00,False,17:21:00,17:41,DRY RUN,No change made,2
+1655,Small Machine,"Machine parts, tools & accessories",100.00,False,17:21:00,15:43,DRY RUN,No change made,4
+1656,Small Machine,"Machine parts, tools & accessories",100.00,False,17:22:00,15:05,DRY RUN,No change made,4
+1657,Warm-up,"Machine parts, tools & accessories",100.00,True,17:22:00,14:59,DRY RUN,No change made,3
+1658,Small Machine,"Machine parts, tools & accessories",250.00,False,17:22:00,15:21,DRY RUN,No change made,4
+1659,Workshop/Tools,Workshop Inventory,50.00,False,17:23:00,17:33,DRY RUN,No change made,2
+1660,Workshop/Tools,Ladders and stairs,10.00,False,17:23:00,17:46,DRY RUN,No change made,2
+1661,Workshop/Tools,Workshop Inventory,150.00,True,17:24:00,17:37,DRY RUN,No change made,2
+1662,Workshop/Tools,Workshop Inventory,250.00,False,17:24:00,17:16,DRY RUN,No change made,2
+1663,Workshop/Tools,Workshop Inventory,250.00,False,17:24:00,17:25,DRY RUN,No change made,2
+1664,Small Machine,Metal stock,250.00,False,17:25:00,15:22,DRY RUN,No change made,4
+1665,Warm-up,Various metalworking,250.00,True,17:25:00,14:42,DRY RUN,No change made,3
+1666,Small Machine,Various metalworking,250.00,False,17:26:00,15:20,DRY RUN,No change made,4
+1667,Small Machine,"Machine parts, tools & accessories",60.00,False,17:26:00,15:19,DRY RUN,No change made,4
+1668,Warm-up,"Machine parts, tools & accessories",75.00,True,17:26:00,14:41,DRY RUN,No change made,3
+1669,Warm-up,"Machine parts, tools & accessories",70.00,True,17:27:00,14:47,DRY RUN,No change made,3
+1670,Warm-up,"Machine parts, tools & accessories",60.00,True,17:27:00,14:34,DRY RUN,No change made,3
+1671,Warm-up,"Machine parts, tools & accessories",150.00,True,17:28:00,14:34,DRY RUN,No change made,3
+1672,Warm-up,"Machine parts, tools & accessories",100.00,True,17:28:00,14:14,DRY RUN,No change made,3
+1673,Warm-up,"Machine parts, tools & accessories",100.00,True,17:28:00,14:01,DRY RUN,No change made,3
+1674,Warm-up,"Machine parts, tools & accessories",130.00,True,17:29:00,14:43,DRY RUN,No change made,3
+1675,Small Machine,Various metalworking,250.00,False,17:29:00,15:57,DRY RUN,No change made,4
+1676,Small Machine,Warehouse inventory,100.00,False,17:30:00,15:49,DRY RUN,No change made,4
+1677,Workshop/Tools,Workshop Inventory,100.00,False,17:30:00,17:05,DRY RUN,No change made,2
+1678,Small Machine,Polishing machines,2500.00,False,17:30:00,15:47,DRY RUN,No change made,4
+1679,Small Machine,Polishing machines,1000.00,False,17:31:00,15:13,DRY RUN,No change made,4
+1680,Small Machine,Polishing machines,100.00,False,17:31:00,15:53,DRY RUN,No change made,4
+1681,Small Machine,Polishing machines,100.00,False,17:32:00,15:22,DRY RUN,No change made,4
+1682,Small Machine,Cleaning equipment,250.00,False,17:32:00,15:09,DRY RUN,No change made,4
+1683,Office/IT,Computer & tablets,350.00,True,17:32:00,18:47,DRY RUN,No change made,1
+1684,Warm-up,Blasting machines,2500.00,True,17:33:00,14:31,DRY RUN,No change made,3
+1685,Warm-up,Lifting and hoisting equipment,250.00,True,17:33:00,14:44,DRY RUN,No change made,3
+1686,Warm-up,Lifting and hoisting equipment,2500.00,True,17:34:00,14:11,DRY RUN,No change made,3
+1687,Warm-up,Lifting and hoisting equipment,2500.00,True,17:34:00,14:14,DRY RUN,No change made,3
+1688,Expensive,Lifting and hoisting equipment,5000.00,False,17:34:00,16:34,DRY RUN,No change made,5
+1689,Small Machine,Lifting and hoisting equipment,300.00,False,17:35:00,15:47,DRY RUN,No change made,4
+1690,Warm-up,Lifting and hoisting equipment,100.00,True,17:35:00,14:42,DRY RUN,No change made,3
+1691,Warm-up,Lifting and hoisting equipment,100.00,True,17:36:00,14:46,DRY RUN,No change made,3
+1692,Warm-up,Lifting and hoisting equipment,100.00,True,17:36:00,14:57,DRY RUN,No change made,3
+1693,Warm-up,Lifting and hoisting equipment,100.00,True,17:36:00,14:41,DRY RUN,No change made,3
+1694,Warm-up,Lifting and hoisting equipment,100.00,True,17:37:00,14:52,DRY RUN,No change made,3
+1695,Warm-up,Lifting and hoisting equipment,100.00,True,17:37:00,14:39,DRY RUN,No change made,3
+1696,Warm-up,Lifting and hoisting equipment,100.00,True,17:38:00,14:06,DRY RUN,No change made,3
+1697,Warm-up,Lifting and hoisting equipment,100.00,True,17:38:00,14:22,DRY RUN,No change made,3
+1698,Small Machine,Lifting and hoisting equipment,100.00,False,17:38:00,15:35,DRY RUN,No change made,4
+1699,Small Machine,Lifting and hoisting equipment,100.00,False,17:39:00,15:01,DRY RUN,No change made,4
+1700,Warm-up,Lifting and hoisting equipment,20.00,True,17:39:00,14:07,DRY RUN,No change made,3
+1701,Small Machine,manual tools,250.00,False,17:40:00,15:33,DRY RUN,No change made,4
+1702,Small Machine,Forming machines,500.00,False,17:40:00,15:24,DRY RUN,No change made,4
+1703,Small Machine,Filtration systems,250.00,False,17:40:00,15:22,DRY RUN,No change made,4
+1704,Small Machine,Filtration systems,250.00,False,17:41:00,15:49,DRY RUN,No change made,4
+1705,Warm-up,Bending & folding machines,350.00,True,17:41:00,14:26,DRY RUN,No change made,3
+1706,fallback,Cleaning equipment,,False,17:42:00,15:05,DRY RUN,No change made,6
+1707,Warm-up,Cleaning equipment,150.00,True,17:42:00,14:05,DRY RUN,No change made,3
+1708,Small Machine,Cutting machines,100.00,False,17:42:00,15:51,DRY RUN,No change made,4
+1709,Small Machine,Polishing machines,150.00,False,17:43:00,15:53,DRY RUN,No change made,4
+1710,Small Machine,Installation material,250.00,False,17:43:00,15:38,DRY RUN,No change made,4
+1711,Office/IT,Computer & tablets,100.00,True,17:44:00,18:36,DRY RUN,No change made,1
+1712,Office/IT,Computer & tablets,250.00,True,17:44:00,18:32,DRY RUN,No change made,1
+1713,Workshop/Tools,Workshop Inventory,350.00,False,17:44:00,17:34,DRY RUN,No change made,2
+1714,Warm-up,Various metalworking,350.00,True,17:45:00,14:24,DRY RUN,No change made,3
+1715,Small Machine,Metal stock,600.00,False,17:45:00,15:12,DRY RUN,No change made,4
+1716,Small Machine,Metal stock,2500.00,False,17:46:00,15:07,DRY RUN,No change made,4
+1717,Small Machine,"Machine parts, tools & accessories",350.00,False,17:46:00,15:13,DRY RUN,No change made,4
+1718,Small Machine,"Machine parts, tools & accessories",500.00,False,17:46:00,15:20,DRY RUN,No change made,4
+1719,Warm-up,"Machine parts, tools & accessories",500.00,True,17:47:00,14:07,DRY RUN,No change made,3
+1720,Small Machine,"Machine parts, tools & accessories",500.00,False,17:47:00,15:36,DRY RUN,No change made,4
+1721,Warm-up,Metal stock,2500.00,True,17:48:00,14:47,DRY RUN,No change made,3
+1722,Warm-up,Metal stock,2500.00,True,17:48:00,14:28,DRY RUN,No change made,3
+1723,Warm-up,Metal stock,2500.00,True,17:48:00,14:35,DRY RUN,No change made,3
+1724,Warm-up,Metal stock,2500.00,True,17:49:00,14:56,DRY RUN,No change made,3
+1725,Warm-up,Metal stock,2500.00,True,17:49:00,14:24,DRY RUN,No change made,3
+1726,Small Machine,Metal stock,500.00,False,17:50:00,15:25,DRY RUN,No change made,4
+1727,Warm-up,Metal stock,500.00,True,17:50:00,14:37,DRY RUN,No change made,3
+1728,Warm-up,Metal stock,500.00,True,17:50:00,14:46,DRY RUN,No change made,3
+1729,Small Machine,Metal stock,500.00,False,17:51:00,15:31,DRY RUN,No change made,4
+1730,Warm-up,Metal stock,2500.00,True,17:51:00,14:52,DRY RUN,No change made,3
+1731,Small Machine,Metal stock,500.00,False,17:52:00,15:06,DRY RUN,No change made,4
+1732,Warm-up,Metal stock,500.00,True,17:52:00,14:30,DRY RUN,No change made,3
+1733,Small Machine,Metal stock,500.00,False,17:52:00,15:01,DRY RUN,No change made,4
+1734,Warm-up,Metal stock,500.00,True,17:53:00,14:57,DRY RUN,No change made,3
+1735,Warm-up,Metal stock,500.00,True,17:53:00,14:11,DRY RUN,No change made,3
+1736,Warm-up,Metal stock,500.00,True,17:54:00,14:32,DRY RUN,No change made,3
+1737,Small Machine,Metal stock,500.00,False,17:54:00,15:15,DRY RUN,No change made,4
+1738,Small Machine,Metal stock,500.00,False,17:54:00,15:00,DRY RUN,No change made,4
+1739,Small Machine,Metal stock,2500.00,False,17:55:00,15:13,DRY RUN,No change made,4
+1740,Small Machine,Metal stock,2500.00,False,17:55:00,15:49,DRY RUN,No change made,4
+1741,Small Machine,Metal stock,2500.00,False,17:56:00,15:50,DRY RUN,No change made,4
+1742,Small Machine,Metal stock,2500.00,False,17:56:00,15:24,DRY RUN,No change made,4
+1743,Small Machine,Metal stock,2500.00,False,17:56:00,15:18,DRY RUN,No change made,4
+1744,Small Machine,Metal stock,2500.00,False,17:57:00,15:56,DRY RUN,No change made,4
+1745,Small Machine,Metal stock,1000.00,False,17:57:00,15:58,DRY RUN,No change made,4
+1746,Warm-up,Metal stock,200.00,True,17:58:00,14:54,DRY RUN,No change made,3
+1747,Small Machine,Metal stock,2500.00,False,17:58:00,15:41,DRY RUN,No change made,4
+1748,Small Machine,Metal stock,2500.00,False,17:58:00,15:05,DRY RUN,No change made,4
+1749,Small Machine,Metal stock,2500.00,False,17:59:00,15:37,DRY RUN,No change made,4
+1750,Small Machine,Metal stock,2500.00,False,17:59:00,15:15,DRY RUN,No change made,4
+1751,Small Machine,Metal stock,2500.00,False,18:00:00,15:22,DRY RUN,No change made,4
+1752,Small Machine,Metal stock,2500.00,False,18:00:00,15:51,DRY RUN,No change made,4
+1753,Small Machine,Metal stock,2500.00,False,18:00:00,15:11,DRY RUN,No change made,4
+1754,Small Machine,Metal stock,2500.00,False,18:01:00,15:57,DRY RUN,No change made,4
+1755,Small Machine,Metal stock,2500.00,False,18:01:00,15:22,DRY RUN,No change made,4
+1756,Small Machine,racking,250.00,False,18:02:00,15:46,DRY RUN,No change made,4
+1757,Small Machine,racking,250.00,False,18:02:00,15:39,DRY RUN,No change made,4
+1758,Small Machine,racking,250.00,False,18:02:00,15:35,DRY RUN,No change made,4
+1759,Warm-up,racking,250.00,True,18:03:00,14:06,DRY RUN,No change made,3
+1760,Small Machine,racking,250.00,False,18:03:00,15:10,DRY RUN,No change made,4
+1761,Small Machine,racking,250.00,False,18:04:00,15:19,DRY RUN,No change made,4
+1762,Small Machine,racking,250.00,False,18:04:00,15:23,DRY RUN,No change made,4
+1763,Small Machine,racking,250.00,False,18:04:00,15:56,DRY RUN,No change made,4
+1764,Small Machine,racking,250.00,False,18:05:00,15:19,DRY RUN,No change made,4
+1765,Small Machine,racking,250.00,False,18:05:00,15:21,DRY RUN,No change made,4
+1766,Small Machine,racking,250.00,False,18:06:00,15:55,DRY RUN,No change made,4
+1767,Small Machine,racking,250.00,False,18:06:00,15:09,DRY RUN,No change made,4
+1768,Small Machine,racking,250.00,False,18:06:00,15:51,DRY RUN,No change made,4
+1769,Small Machine,racking,250.00,False,18:07:00,15:01,DRY RUN,No change made,4
+1770,Small Machine,racking,250.00,False,18:07:00,15:55,DRY RUN,No change made,4
+1771,Small Machine,racking,250.00,False,18:08:00,15:56,DRY RUN,No change made,4
+1772,Small Machine,racking,250.00,False,18:08:00,15:08,DRY RUN,No change made,4
+1773,Small Machine,racking,250.00,False,18:08:00,15:08,DRY RUN,No change made,4
+1774,Workshop/Tools,Workshop Inventory,150.00,False,18:09:00,17:49,DRY RUN,No change made,2
+1775,Warm-up,Cleaning equipment,11.00,True,18:09:00,14:56,DRY RUN,No change made,3
+1776,Small Machine,Metal stock,200.00,False,18:10:00,15:05,DRY RUN,No change made,4
+1777,Workshop/Tools,Workshop Inventory,60.00,True,18:10:00,17:28,DRY RUN,No change made,2
+1778,Workshop/Tools,Workshop Inventory,250.00,False,18:10:00,17:45,DRY RUN,No change made,2
+1779,Workshop/Tools,Workshop Inventory,50.00,False,18:11:00,17:16,DRY RUN,No change made,2
+1780,Small Machine,"Machine parts, tools & accessories",20.00,False,18:11:00,15:49,DRY RUN,No change made,4
+1781,Workshop/Tools,Workshop Inventory,100.00,True,18:12:00,17:05,DRY RUN,No change made,2
+1782,Workshop/Tools,Workshop Inventory,100.00,True,18:12:00,17:36,DRY RUN,No change made,2
+1783,Small Machine,Metal stock,20.00,False,18:12:00,15:56,DRY RUN,No change made,4
+1784,Warm-up,Welding parts & accessories,20.00,True,18:13:00,14:15,DRY RUN,No change made,3
+1785,Warm-up,"Machine parts, tools & accessories",500.00,True,18:13:00,14:00,DRY RUN,No change made,3
+1786,Workshop/Tools,Workshop Inventory,100.00,False,18:14:00,17:35,DRY RUN,No change made,2
+1787,Workshop/Tools,Workshop Inventory,100.00,True,18:14:00,17:44,DRY RUN,No change made,2
+1788,Workshop/Tools,Ladders and stairs,80.00,True,18:14:00,17:51,DRY RUN,No change made,2
+1789,Workshop/Tools,Workshop Inventory,250.00,False,18:15:00,17:07,DRY RUN,No change made,2
+1790,Warm-up,Pneumatic tools,20.00,True,18:15:00,14:33,DRY RUN,No change made,3
+1791,Workshop/Tools,Workshop Inventory,100.00,False,18:16:00,17:34,DRY RUN,No change made,2
+1792,Workshop/Tools,Ladders and stairs,60.00,False,18:16:00,17:09,DRY RUN,No change made,2
+1793,Small Machine,Various metalworking,100.00,False,18:16:00,15:56,DRY RUN,No change made,4
+1794,Workshop/Tools,Workshop Inventory,250.00,True,18:17:00,17:30,DRY RUN,No change made,2
+1795,Workshop/Tools,Workshop Inventory,250.00,False,18:17:00,17:04,DRY RUN,No change made,2
+1796,Office/IT,Office inventory,3500.00,True,18:18:00,18:20,DRY RUN,No change made,1
+1797,Workshop/Tools,Workshop Inventory,160.00,False,18:18:00,17:29,DRY RUN,No change made,2
+1798,Warm-up,"Machine parts, tools & accessories",1500.00,True,18:18:00,14:21,DRY RUN,No change made,3
+1799,Small Machine,"Machine parts, tools & accessories",2500.00,False,18:19:00,15:26,DRY RUN,No change made,4
+1800,Warm-up,Various metalworking,2500.00,True,18:19:00,14:17,DRY RUN,No change made,3
+1801,Warm-up,"Machine parts, tools & accessories",200.00,True,18:20:00,14:03,DRY RUN,No change made,3
+1802,Small Machine,Pressing machines,50.00,False,18:20:00,15:02,DRY RUN,No change made,4
+1803,Workshop/Tools,Ladders and stairs,50.00,False,18:20:00,17:47,DRY RUN,No change made,2
+1804,Small Machine,Lifting and hoisting equipment,70.00,False,18:21:00,15:00,DRY RUN,No change made,4
+1805,Workshop/Tools,Workshop Inventory,100.00,False,18:21:00,17:08,DRY RUN,No change made,2
+1806,Small Machine,Intern transport,40.00,False,18:22:00,15:18,DRY RUN,No change made,4
+1807,Warm-up,Intern transport,100.00,True,18:22:00,14:38,DRY RUN,No change made,3
+1808,Warm-up,Intern transport,100.00,True,18:22:00,14:28,DRY RUN,No change made,3
+1809,Warm-up,Intern transport,100.00,True,18:23:00,14:06,DRY RUN,No change made,3
+1810,Warm-up,Intern transport,100.00,True,18:23:00,14:19,DRY RUN,No change made,3
+1811,Warm-up,Intern transport,100.00,True,18:24:00,14:18,DRY RUN,No change made,3
+1812,Warm-up,Intern transport,100.00,True,18:24:00,14:23,DRY RUN,No change made,3
+1813,Warm-up,Intern transport,100.00,True,18:24:00,14:17,DRY RUN,No change made,3
+1814,Warm-up,"Machine parts, tools & accessories",100.00,True,18:25:00,14:47,DRY RUN,No change made,3
+1815,Small Machine,"Machine parts, tools & accessories",100.00,False,18:25:00,15:07,DRY RUN,No change made,4
+1816,Small Machine,Metal stock,250.00,False,18:26:00,15:10,DRY RUN,No change made,4
+1817,Small Machine,Various metalworking,2500.00,False,18:26:00,15:28,DRY RUN,No change made,4
+1818,Small Machine,Various metalworking,100.00,False,18:26:00,15:37,DRY RUN,No change made,4
+1819,Expensive,Welding machines,5000.00,False,18:27:00,16:20,DRY RUN,No change made,5
+1820,Small Machine,Punching machines,1000.00,False,18:27:00,15:30,DRY RUN,No change made,4
+1821,Small Machine,Various metalworking,1000.00,False,18:28:00,15:06,DRY RUN,No change made,4
+1822,fallback,Grinding machines,,False,18:28:00,14:23,DRY RUN,No change made,6
+1823,Warm-up,"Machine parts, tools & accessories",100.00,True,18:28:00,14:05,DRY RUN,No change made,3
+1824,Small Machine,"Machine parts, tools & accessories",500.00,False,18:29:00,15:06,DRY RUN,No change made,4
+1825,Small Machine,"Machine parts, tools & accessories",400.00,False,18:29:00,15:53,DRY RUN,No change made,4
+1826,Small Machine,Waste containers,300.00,False,18:30:00,15:21,DRY RUN,No change made,4
+1827,Warm-up,Waste containers,200.00,True,18:30:00,14:07,DRY RUN,No change made,3
+1828,Warm-up,Waste containers,200.00,True,18:30:00,14:40,DRY RUN,No change made,3
+1829,Small Machine,Various metalworking,100.00,False,18:31:00,15:10,DRY RUN,No change made,4
+1830,Warm-up,Warehouse inventory,1000.00,True,18:31:00,14:05,DRY RUN,No change made,3
+1831,Workshop/Tools,Workshop Inventory,10.00,False,18:32:00,17:23,DRY RUN,No change made,2
+1832,fallback,Intern transport,,True,18:32:00,17:11,DRY RUN,No change made,6
+1833,Warm-up,Intern transport,1000.00,True,18:32:00,14:42,DRY RUN,No change made,3
+1834,Small Machine,Metal stock,1500.00,False,18:33:00,15:00,DRY RUN,No change made,4
+1835,Small Machine,Warehouse inventory,10.00,False,18:33:00,15:43,DRY RUN,No change made,4
+1836,Small Machine,Warehouse inventory,500.00,False,18:34:00,15:47,DRY RUN,No change made,4
+1837,Small Machine,Metal stock,2500.00,False,18:34:00,15:11,DRY RUN,No change made,4
+1838,Small Machine,Warehouse inventory,10.00,False,18:34:00,15:36,DRY RUN,No change made,4
+1839,Small Machine,Warehouse inventory,10.00,False,18:35:00,15:33,DRY RUN,No change made,4
+1840,Small Machine,Metal stock,250.00,False,18:35:00,15:34,DRY RUN,No change made,4
+1841,Small Machine,Warehouse inventory,600.00,False,18:36:00,15:24,DRY RUN,No change made,4
+1842,Small Machine,Warehouse inventory,10.00,False,18:36:00,15:34,DRY RUN,No change made,4
+1843,Small Machine,Warehouse inventory,400.00,False,18:36:00,15:45,DRY RUN,No change made,4
+1844,Small Machine,Warehouse inventory,400.00,False,18:37:00,15:11,DRY RUN,No change made,4
+1845,Small Machine,Pallets,400.00,False,18:37:00,15:45,DRY RUN,No change made,4
+1846,Small Machine,Processing machines,400.00,False,18:38:00,15:35,DRY RUN,No change made,4
+1847,Small Machine,Processing machines,500.00,False,18:38:00,15:10,DRY RUN,No change made,4
+1848,Small Machine,Pressing machines,400.00,False,18:38:00,15:59,DRY RUN,No change made,4
+1849,Small Machine,Pallets,400.00,False,18:39:00,15:56,DRY RUN,No change made,4
+1850,Small Machine,Various metalworking,800.00,False,18:39:00,15:47,DRY RUN,No change made,4
+1851,Small Machine,Pallets,400.00,False,18:40:00,15:34,DRY RUN,No change made,4
+1852,Office/IT,Office inventory,250.00,True,18:40:00,18:19,DRY RUN,No change made,1
+1853,Office/IT,Office inventory,50.00,True,18:40:00,18:43,DRY RUN,No change made,1
+1854,Office/IT,Office inventory,50.00,True,18:41:00,18:40,DRY RUN,No change made,1
+1855,Office/IT,Office inventory,50.00,True,18:41:00,18:30,DRY RUN,No change made,1
+1856,Office/IT,Office inventory,50.00,True,18:42:00,18:17,DRY RUN,No change made,1
+1857,Office/IT,Office inventory,75.00,True,18:42:00,18:31,DRY RUN,No change made,1
+1858,Office/IT,Office inventory,200.00,True,18:42:00,18:51,DRY RUN,No change made,1
+1859,Office/IT,Office inventory,100.00,True,18:43:00,18:00,DRY RUN,No change made,1
+1860,Office/IT,Office inventory,50.00,True,18:43:00,18:36,DRY RUN,No change made,1
+1861,Office/IT,Office inventory,50.00,False,18:44:00,18:16,DRY RUN,No change made,1
+1862,Office/IT,Office inventory,50.00,True,18:44:00,18:46,DRY RUN,No change made,1
+1863,Office/IT,Office inventory,75.00,True,18:44:00,18:48,DRY RUN,No change made,1
+1864,Office/IT,Office inventory,50.00,True,18:45:00,18:13,DRY RUN,No change made,1
+1865,Office/IT,Office inventory,150.00,False,18:45:00,18:07,DRY RUN,No change made,1
+1866,Office/IT,Computer & tablets,150.00,True,18:46:00,18:55,DRY RUN,No change made,1
+1867,Office/IT,Office inventory,150.00,False,18:46:00,18:47,DRY RUN,No change made,1
+1868,Office/IT,Computer & tablets,150.00,True,18:46:00,18:00,DRY RUN,No change made,1
+1869,Office/IT,Computer & tablets,150.00,False,18:47:00,18:30,DRY RUN,No change made,1
+1870,Office/IT,Computer & tablets,150.00,True,18:47:00,18:57,DRY RUN,No change made,1
+1871,Office/IT,Office inventory,150.00,False,18:48:00,18:31,DRY RUN,No change made,1
+1872,Office/IT,Computer & tablets,150.00,True,18:48:00,18:33,DRY RUN,No change made,1
+1873,Office/IT,Office inventory,50.00,True,18:48:00,18:50,DRY RUN,No change made,1
+1874,Office/IT,Office inventory,150.00,False,18:49:00,18:01,DRY RUN,No change made,1
+1875,Office/IT,Computer & tablets,150.00,True,18:49:00,18:16,DRY RUN,No change made,1
+1876,Office/IT,Office inventory,150.00,False,18:50:00,18:30,DRY RUN,No change made,1
+1877,Office/IT,Computer & tablets,150.00,True,18:50:00,18:37,DRY RUN,No change made,1
+1878,Office/IT,Office inventory,150.00,False,18:50:00,18:45,DRY RUN,No change made,1
+1879,Office/IT,Computer & tablets,150.00,True,18:51:00,18:45,DRY RUN,No change made,1
+1880,Office/IT,Office inventory,150.00,False,18:51:00,18:10,DRY RUN,No change made,1
+1881,Office/IT,Computer & tablets,150.00,True,18:52:00,18:00,DRY RUN,No change made,1
+1882,Office/IT,Office inventory,50.00,True,18:52:00,18:37,DRY RUN,No change made,1
+1883,Office/IT,Office inventory,150.00,False,18:52:00,18:53,DRY RUN,No change made,1
+1884,Office/IT,Computer & tablets,150.00,True,18:53:00,18:02,DRY RUN,No change made,1
+1885,Office/IT,Office inventory,100.00,True,18:53:00,18:42,DRY RUN,No change made,1
+1886,Office/IT,Office inventory,50.00,True,18:54:00,18:39,DRY RUN,No change made,1
+1887,Office/IT,Office inventory,50.00,False,18:54:00,18:29,DRY RUN,No change made,1
+1888,Office/IT,Office inventory,50.00,True,18:54:00,18:49,DRY RUN,No change made,1
+1889,Office/IT,Office inventory,50.00,True,18:55:00,18:21,DRY RUN,No change made,1
+1890,Office/IT,Office inventory,50.00,True,18:55:00,18:57,DRY RUN,No change made,1
+1891,Office/IT,Office inventory,50.00,True,18:56:00,18:34,DRY RUN,No change made,1
+1892,Office/IT,Office inventory,50.00,True,18:56:00,18:54,DRY RUN,No change made,1
+1893,Office/IT,Office inventory,50.00,True,18:56:00,18:56,DRY RUN,No change made,1
+1894,Office/IT,Office inventory,50.00,True,18:57:00,18:52,DRY RUN,No change made,1
+1895,Office/IT,"Printers, scanners and Copiers",100.00,False,18:57:00,18:25,DRY RUN,No change made,1
+1896,Office/IT,"Printers, scanners and Copiers",900.00,False,18:58:00,18:25,DRY RUN,No change made,1
+1897,Office/IT,Office inventory,20.00,False,18:58:00,18:25,DRY RUN,No change made,1
+1898,Office/IT,Office inventory,150.00,True,18:58:00,18:44,DRY RUN,No change made,1
+1899,Office/IT,"Printers, scanners and Copiers",150.00,False,18:59:00,18:16,DRY RUN,No change made,1
+1900,Office/IT,Computer & tablets,150.00,True,18:59:00,18:36,DRY RUN,No change made,1

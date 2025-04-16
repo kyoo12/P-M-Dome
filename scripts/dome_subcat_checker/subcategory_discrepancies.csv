@@ -1,0 +1,326 @@
+Lotnumber,Expected Subcategory,Found Subcategory
+14,Milling machines,Bending & folding machines
+20,Milling machines,"Machine parts, tools & accessories"
+30,Various hydraulic machines,Vertical machining centers
+33,swaging machines,Sawing machines
+36,Wheeling machine,Processing machines
+38,Folding machines,Bending & folding machines
+39,Folding machines,Bending & folding machines
+40,Swaging machines,Sawing machines
+41,Swaging machines,Sawing machines
+42,Swaging machines,Sawing machines
+43,Swaging machines,Sawing machines
+46,Swaging machines,Sawing machines
+56,Various metalworking machines,Various metalworking
+57,Various metalworking machines,Various metalworking
+104,Welding parts & accessoires,Welding parts & accessories
+105,Welding parts & accessoires,Welding parts & accessories
+106,Welding parts & accessoires,Welding parts & accessories
+107,Welding parts & accessoires,Welding parts & accessories
+108,Welding parts & accessoires,Welding parts & accessories
+109,Welding parts & accessoires,Welding parts & accessories
+110,Welding parts & accessoires,Welding parts & accessories
+111,Welding parts & accessoires,Welding parts & accessories
+112,Welding parts & accessoires,Welding parts & accessories
+113,Welding parts & accessoires,Welding parts & accessories
+114,Welding parts & accessoires,Welding parts & accessories
+115,Welding parts & accessoires,Welding parts & accessories
+116,Welding parts & accessoires,Welding parts & accessories
+117,Welding parts & accessoires,Welding parts & accessories
+118,Welding parts & accessoires,Welding parts & accessories
+119,Welding parts & accessoires,Welding parts & accessories
+120,Welding parts & accessoires,Welding parts & accessories
+121,Welding parts & accessoires,Welding parts & accessories
+122,Welding parts & accessoires,Welding parts & accessories
+123,Welding parts & accessoires,Welding parts & accessories
+124,Welding parts & accessoires,Welding parts & accessories
+125,Welding parts & accessoires,Welding parts & accessories
+126,Welding parts & accessoires,Welding parts & accessories
+147,Welding parts & accessoires,Welding parts & accessories
+148,Welding parts & accessoires,Welding parts & accessories
+149,Welding parts & accessoires,Welding parts & accessories
+150,Welding parts & accessoires,Welding parts & accessories
+151,Welding parts & accessoires,Welding parts & accessories
+152,Welding parts & accessoires,Welding parts & accessories
+153,Welding parts & accessoires,Welding parts & accessories
+154,Welding parts & accessoires,Welding parts & accessories
+155,Welding parts & accessoires,Welding parts & accessories
+156,Welding parts & accessoires,Welding parts & accessories
+157,Welding parts & accessoires,Welding parts & accessories
+158,Welding parts & accessoires,Welding parts & accessories
+159,Welding parts & accessoires,Welding parts & accessories
+160,Welding parts & accessoires,Welding parts & accessories
+161,Welding parts & accessoires,Welding parts & accessories
+162,Welding parts & accessoires,Welding parts & accessories
+163,Welding parts & accessoires,Welding parts & accessories
+164,Welding parts & accessoires,Welding parts & accessories
+165,Welding parts & accessoires,Welding parts & accessories
+166,Welding parts & accessoires,Welding parts & accessories
+167,Welding parts & accessoires,Welding parts & accessories
+168,Welding parts & accessoires,Welding parts & accessories
+169,Welding parts & accessoires,Welding parts & accessories
+170,Welding parts & accessoires,Welding parts & accessories
+171,Welding parts & accessoires,Welding parts & accessories
+172,Welding parts & accessoires,Welding parts & accessories
+173,Welding parts & accessoires,Welding parts & accessories
+174,Welding parts & accessoires,Welding parts & accessories
+175,Welding parts & accessoires,Welding parts & accessories
+176,Welding parts & accessoires,Welding parts & accessories
+179,Forklift trucks,Forklifts
+180,Internal Transportation,Intern transport
+181,Internal Transportation,Intern transport
+182,Internal Transportation,Intern transport
+183,Internal Transportation,Press brake tools
+257,Various metalworking machines,Various metalworking
+261,Drilling machines,Drills
+262,Drilling machines,Drills
+263,Milling machines,Drills
+278,Sanding machines,Polishing machines
+279,Welding machines,Welding and cutting equipment
+302,Press brake tools,Press brakes
+329,Workshop Inventory,Welding parts & accessories
+330,Welding parts & accessoires,Welding parts & accessories
+339,Power tools,manual tools
+340,Power tools,manual tools
+341,Power tools,manual tools
+342,Power tools,manual tools
+343,Power tools,manual tools
+344,Power tools,manual tools
+345,Power tools,manual tools
+346,Power tools,manual tools
+347,Power tools,manual tools
+348,Power tools,manual tools
+349,Power tools,manual tools
+350,Power tools,manual tools
+351,Power tools,manual tools
+352,Power tools,manual tools
+353,Power tools,manual tools
+354,Power tools,manual tools
+355,Power tools,Pneumatic tools
+356,Pneumatic tools,manual tools
+357,Power tools,Pneumatic tools
+362,Pneumatic tools,Welding machines
+363,Welding machines,manual tools
+364,Power tools,manual tools
+365,Power tools,manual tools
+366,Power tools,manual tools
+367,Power tools,manual tools
+368,Power tools,Various metalworking
+369,various tooling,Tooling
+370,Pumping machines,Workshop Inventory
+371,Workshop Inventory,Metal stock
+372,Metal stock,Workshop Inventory
+374,Workshop Inventory,Various metalworking
+375,Various metalworking,Workshop Inventory
+377,Workshop Inventory,Various metalworking
+378,Various metalworking,Workshop Inventory
+379,Workshop Inventory,Drills
+380,Drilling machines,Workshop Inventory
+381,Workshop Inventory,Punching machines
+382,Punching machines,Welding machines
+383,Welding machines,racking
+384,racking,Workshop Inventory
+385,Workshop Inventory,Installation material
+386,Installation material,Various metalworking
+387,Various metalworking tools,CNC machining center
+388,manual tools,CNC machining center
+389,manual tools,Various metalworking
+391,Various metalworking,CNC machining center
+392,manual tools,Workshop Inventory
+393,Workshop Inventory,Various metalworking
+394,Various metalworking,racking
+395,racking,Various metalworking
+396,Various metalworking,clamping tables
+398,clamping tables,Workshop Inventory
+399,Workshop Inventory,CNC machining center
+400,manual tools,Metal stock
+401,Metal stock,CNC machining center
+402,manual tools,CNC machining center
+403,manual tools,Various metalworking
+405,Various metalworking,CNC machining center
+406,manual tools,CNC machining center
+407,manual tools,CNC machining center
+408,manual tools,CNC machining center
+409,manual tools,CNC machining center
+410,manual tools,CNC machining center
+411,manual tools,CNC machining center
+412,manual tools,CNC machining center
+413,manual tools,CNC machining center
+414,manual tools,CNC machining center
+415,manual tools,CNC machining center
+416,manual tools,Metal stock
+417,Metal stock,Various metalworking
+421,Various metalworking,Workshop Inventory
+425,Workshop Inventory,"Machine parts, tools & accessories"
+426,Measureing & testing,Measuring instruments
+447,Measuring instruments,Workshop Inventory
+448,Workshop Inventory,racking
+449,Racking,Office inventory
+450,Office inventory,Workshop Inventory
+458,Workshop Inventory,Office inventory
+459,Office inventory,Warehouse inventory
+460,Warehouse inventory,Fastening material
+496,Fastening material,Warehouse inventory
+498,Warehouse inventory,Various metalworking
+499,Various metalworking,Warehouse inventory
+500,Warehouse inventory,Various metalworking
+501,Various metalworking,Workshop Inventory
+503,Workshop Inventory,Packaging equipment
+508,Packaging equipment,Various metalworking
+509,Various metalworking,Workshop Inventory
+511,Workshop Inventory,Various metalworking
+513,Various metalworking,Measuring instruments
+514,Measuring instruments,Office inventory
+515,Office inventory,Various metalworking
+517,Various metalworking,Compressors
+518,Metal surface treatment,Various metalworking
+519,Various metalworking,"Machine parts, tools & accessories"
+523,"Machine parts, tools & accessories",Workshop Inventory
+524,Workshop Inventory,Ladders and stairs
+525,Ladders and stairs,Tooling
+526,Tools supplies,Workshop Inventory
+528,Workshop Inventory,Metal stock
+529,Metal stock,Various metalworking
+531,Various metalworking,"Machine parts, tools & accessories"
+539,"Machine parts, tools & accessories",Various metalworking
+540,Various metalworking,Tooling
+541,Pumps,Workshop Inventory
+542,Workshop Inventory,Deburring machines
+543,Deburring machines,Separator systems
+544,Separator systems,Polishing machines
+546,Polishing machines,Workshop Inventory
+547,Workshop Inventory,Computer & tablets
+548,Computer & tablets,Blasting machines
+549,Blasting machines,Lifting and hoisting equipment
+551,Lifting and Hoisting Equipment,Lifting and hoisting equipment
+552,Lifting and Hoisting Equipment,Lifting and hoisting equipment
+553,Lifting and Hoisting Equipment,Lifting and hoisting equipment
+554,Lifting and Hoisting Equipment,Lifting and hoisting equipment
+555,Lifting and Hoisting Equipment,Lifting and hoisting equipment
+556,Lifting and Hoisting Equipment,Lifting and hoisting equipment
+557,Lifting and Hoisting Equipment,Lifting and hoisting equipment
+558,Lifting and Hoisting Equipment,Lifting and hoisting equipment
+559,Lifting and Hoisting Equipment,Lifting and hoisting equipment
+560,Lifting and Hoisting Equipment,Lifting and hoisting equipment
+561,Lifting and Hoisting Equipment,Lifting and hoisting equipment
+562,Lifting and Hoisting Equipment,Lifting and hoisting equipment
+563,Lifting and Hoisting Equipment,Lifting and hoisting equipment
+564,Lifting and hoisting equipment,CNC machining center
+565,manual tools,CNC machining center
+566,manual tools,Forming machines
+567,Forming machines,Filtration systems
+569,Filtration systems,Bending & folding machines
+570,Bending & folding machines,Cleaning equipment
+571,Cleaning equipment,Various metalworking
+572,Various metalworking,Cutting machines
+573,Cutting machines,Polishing machines
+574,Polishing machines,Installation material
+575,Installation material,"Printers, scanners and Copiers"
+576,TV & audio,Computer & tablets
+577,Computer & tablets,Workshop Inventory
+578,Workshop Inventory,Various metalworking
+580,Various metalworking,Metal stock
+581,Metal stock,"Machine parts, tools & accessories"
+585,"Machine parts, tools & accessories",Metal stock
+621,Metal stock,racking
+622,Racking,racking
+623,Racking,racking
+624,Racking,racking
+625,Racking,racking
+626,Racking,racking
+627,Racking,racking
+628,Racking,racking
+629,Racking,racking
+630,Racking,racking
+631,Racking,racking
+632,Racking,racking
+633,Racking,racking
+634,Racking,racking
+635,Racking,racking
+636,Racking,racking
+637,Racking,racking
+638,Racking,racking
+639,Racking,Fastening material
+640,Fastening material,Workshop Inventory
+641,Workshop Inventory,Metal stock
+642,Metal stock,Workshop Inventory
+645,Workshop Inventory,Various metalworking
+646,Various metalworking equipment,Workshop Inventory
+648,Workshop Inventory,Various metalworking
+649,Various metalworking,Welding parts & accessories
+650,Welding parts & accessoires,"Machine parts, tools & accessories"
+651,"Machine parts, tools & accessories",Workshop Inventory
+653,Workshop Inventory,Ladders and stairs
+654,Ladders and stairs,Workshop Inventory
+655,Workshop Inventory,Various metalworking
+656,Various metalworking,Workshop Inventory
+657,Workshop Inventory,Ladders and stairs
+658,Ladders and stairs,Workshop Inventory
+659,Workshop Inventory,Various metalworking
+660,Various metalworking,Workshop Inventory
+661,Workshop Inventory,Office inventory
+662,Office cabins,Workshop Inventory
+663,Workshop Inventory,"Machine parts, tools & accessories"
+666,"Machine parts, tools & accessories",Various metalworking
+667,Various metalworking,Pressing machines
+668,Pressing machines,Ladders and stairs
+669,Ladders and stairs,Lifting and hoisting equipment
+670,Lifting and hoisting equipment,Warehouse inventory
+671,Various transport & logistics,Intern transport
+672,Internal Transportation,Intern transport
+673,Internal Transportation,Intern transport
+674,Internal Transportation,Intern transport
+675,Internal Transportation,Intern transport
+676,Internal Transportation,Intern transport
+677,Internal Transportation,Intern transport
+678,Internal Transportation,Intern transport
+679,Internal Transportation,Intern transport
+680,Internal Transportation,"Machine parts, tools & accessories"
+681,"Machine parts, tools & accessories",Metal stock
+683,Metal stock,Various metalworking
+684,Various metalworking,Welding machines
+685,Welding machines,Punching machines
+686,Punching machines,Various metalworking
+687,Various metalworking machines,Grinding machines
+688,Grinding machines,"Machine parts, tools & accessories"
+692,"Machine parts, tools & accessories",Waste containers
+694,Waste containers,Various metalworking
+695,Various metalworking,clamping tables
+696,clamping tables,Warehouse inventory
+697,Warehouse inventory,Various metalworking
+698,Various metalworking,Intern transport
+699,Internal Transportation,Metal stock
+700,Metal stock,Warehouse inventory
+702,Warehouse inventory,Metal stock
+703,Metal stock,Warehouse inventory
+705,Warehouse inventory,Metal stock
+706,Metal stock,Warehouse inventory
+711,Warehouse inventory,Pallets
+714,Processing machines,Warehouse inventory
+715,Warehouse inventory,Various metalworking
+716,Various metalworking,Warehouse inventory
+717,Warehouse inventory,Office inventory
+731,Office inventory,Computer & tablets
+732,Computer & tablets,Office inventory
+733,Office inventory,Computer & tablets
+734,Computer & tablets,Office inventory
+735,Office inventory,Computer & tablets
+736,Computer & tablets,Office inventory
+737,Office inventory,Computer & tablets
+738,Computer & tablets,Office inventory
+740,Office inventory,Computer & tablets
+741,Computer & tablets,Office inventory
+742,Office inventory,Computer & tablets
+743,Computer & tablets,Office inventory
+744,Office inventory,Computer & tablets
+745,Computer & tablets,Office inventory
+746,Office inventory,Computer & tablets
+747,Computer & tablets,Office inventory
+749,Office inventory,Computer & tablets
+750,Computer & tablets,Office inventory
+760,Office inventory,Computer & tablets
+761,Computer & tablets,"Printers, scanners and Copiers"
+762,"Printers, scanners and Copiers",Office inventory
+764,Office inventory,"Printers, scanners and Copiers"
+765,"Printers, scanners and Copiers",Computer & tablets
+766,Computer & tablets,CNC machining center

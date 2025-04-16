@@ -1,0 +1,175 @@
+Lotnumber,Field,Expected,Found
+1,Description,"Working range X/Y/Z-axis: 3.000/1.500/115mm
+Accuracy positioning: 0.05mm
+Control system: sinumerik 840D sl
+Bed size LxW: 4.150x2.150mm
+Machine dimensions LxWxH: 8.800x4.800x2.400mm
+Machine weight: approximately 12.000 kg
+Power on Hours: 40981
+Equipped with: TruDisk 6001 laser unit, Riedel RL27/0 SR.02 cooler, camfil MF 8.6 filter exhaust unit, documentation","Working range X/Y/Z-axis: 3.000/1.500/115mm
+Accuracy positioning: 0.05mm
+Control system: sinumerik 840D sl
+Bed size LxW: 4.150x2.150mm
+Machine dimensions LxWxH: 8.800x4.800x2.400mm
+Machine weight: approximately 12.000 kg
+Power on Hours: 40981
+Equipped with: TruDisk 6001 laser unit, Riedel RL27/0 SR.02 cooler, Camfil MF 8.6 filter exhaust unit, documentation"
+8,Title,1986 promecam press brake,1986 Promecam press brake
+8,Description,"Working length: 3.050mm
+Press power: 1.000 kN
+Total dimensions LxWxH: 3.300x1.500x2.100mm
+Equipped with: foot control, digital read out","Working length: 3.050mm
+Press power: 1.000 kN
+Total dimensions LxWxH: 3.300x1.500x2.100mm
+Equipped with: foot control, digital read-out"
+9,Title,promecam RG 25 press brake,Promecam RG 25 press brake
+10,Title,2010 Emmegi T3 Star CNC profile machining center,2010 Emmegi Phantomatic T3 Star CNC profile machining center
+15,StartingBid,250,2000
+16,Title,peddinghaus 210/13 ironworker,Peddinghaus 210/13 ironworker
+18,Title,kunz edge cleaner,Kunz edge cleaner
+21,Title,2011 emmegi SCA 450 sawing maching,2011 Emmegi SCA 450 sawing maching
+22,Title,emco lathe,Emco lathe
+36,Title,AJF C1 englisch wheel,AJF C1 English wheel
+38,Title,Spiegel RAS 64.25 folding machine,RAS 64.25 swivel bending machine
+50,Title,Bladebender,1959 RAS 20.00 swivel bending machine
+52,Title,platewals,1996 Omcca 3-rolls plate bending machine
+52,Description,"L:3000mm X W:750mm X H:1200mm;
+Weight: 1500kg;
+Power: 380v 3phases:
+Max pressure: 3,3kw;
+Foot control and controlpannel included:","L:3000mm X W:750mm X H:1200mm;
+Weight: 1500kg;
+Power: 380v 3phases:
+Max pressure: 3,3kw;
+Type on plate: 2050.3
+Foot control and controlpannel included:"
+53,Description,nan,
+57,Description,nan,
+68,Title,spotwelder,1991 Tecna 8005/MS spotwelder
+70,Title,fronius iWave 300i DC - AC/DC  TIG welding machine,Fronius iWave 300i DC - AC/DC  TIG welding machine
+74,Description,nan,
+75,Description,nan,
+77,Description,nan,
+78,Description,nan,
+81,Title,fronius MagicWave 4000 TIG AC/DC water cooled welding machine,Fronius MagicWave 4000 TIG AC/DC water cooled welding machine
+112,Description,nan,
+114,Description,nan,
+115,Description,nan,
+116,Description,nan,
+117,Description,nan,
+118,Description,nan,
+119,Description,nan,
+120,Description,nan,
+121,Description,nan,
+122,Description,nan,
+123,Description,nan,
+124,Description,nan,
+125,Description,nan,
+186,Description,nan,
+187,Description,nan,
+188,Description,nan,
+190,Description,nan,
+191,Description,nan,
+192,Description,nan,
+193,Description,nan,
+197,Description,nan,
+201,Description,nan,
+206,Description,nan,
+207,Description,nan,
+208,Description,nan,
+209,Description,nan,
+210,Description,nan,
+211,Description,nan,
+212,Description,nan,
+213,Description,nan,
+214,Description,nan,
+215,Description,nan,
+216,Description,nan,
+217,Description,nan,
+218,Description,nan,
+219,Description,nan,
+221,Description,nan,
+223,Description,nan,
+224,Description,nan,
+225,Description,nan,
+226,Description,nan,
+227,Description,nan,
+229,Description,nan,
+230,Description,nan,
+237,Description,nan,
+244,Description,nan,
+245,Description,nan,
+246,Description,nan,
+247,Description,nan,
+248,Description,nan,
+249,Description,nan,
+250,Description,nan,
+288,Description,nan,
+289,Description,nan,
+290,Description,nan,
+291,Description,nan,
+292,Description,nan,
+293,Description,nan,
+294,Description,nan,
+295,Description,nan,
+296,Description,nan,
+297,Description,nan,
+298,Description,nan,
+299,Description,nan,
+300,Description,nan,
+301,Description,nan,
+302,Description,nan,
+359,Description,nan,
+448,Description,nan,
+450,Description,nan,
+451,Description,nan,
+504,Description,nan,
+505,Description,nan,
+506,Description,nan,
+510,Description,nan,
+514,Description,nan,
+516,Description,nan,
+518,Description,nan,
+519,Description,nan,
+530,Description,nan,
+531,Description,nan,
+540,Description,nan,
+541,Description,nan,
+545,Description,nan,
+546,Description,nan,
+547,Description,nan,
+559,Description,nan,
+560,Description,nan,
+561,Description,nan,
+562,Description,nan,
+563,Description,nan,
+564,Description,nan,
+565,Description,nan,
+571,Description,nan,
+572,Description,nan,
+574,Description,nan,
+576,Description,nan,
+580,Description,nan,
+582,Description,nan,
+641,Description,nan,
+643,Description,nan,
+649,Description,nan,
+652,Description,nan,
+654,Description,nan,
+657,Description,nan,
+658,Description,nan,
+671,Title,Storage rack,Mobile storage unit
+681,Title,Various pneumatic spare parts,Various pumping and other machinery parts
+682,Description,nan,
+684,Description,nan,
+685,StartingBid,500,2000
+687,Description,nan,
+689,Description,nan,
+695,Description,nan,
+699,Description,nan,
+701,Description,nan,
+704,Description,nan,
+761,Description,nan,
+762,Description,nan,
+763,Description,nan,
+765,Description,nan,
